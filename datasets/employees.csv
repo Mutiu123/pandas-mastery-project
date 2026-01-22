@@ -1,0 +1,1011 @@
+employee_id,first_name,last_name,email,department,position,salary,hire_date,age,city,status,bonus,performance_score
+1001,William,Johnson,emp1001@company.com,Finance,Director,55795,2015-10-11,50,Boston,Active,7005.0,4
+1002,Jane,Martinez,emp1002@company.com,HR,Senior,40860,2023-12-04,53,Boston,Inactive,14036.0,5
+1003,John,Brown,emp1003@company.com,Sales,Lead,143694,2023-12-01,40,San Francisco,Inactive,16542.0,5
+1004,Jennifer,Davis,emp1004@company.com,IT,Mid-Level,116820,2019-08-03,42,Boston,Inactive,956.0,4
+1005,David,Lopez,emp1005@company.com,Operations,Senior,94886,2022-07-19,26,San Francisco,Active,2071.0,4
+1006,Emily,Jones,emp1006@company.com,Sales,Manager,46265,2020-08-07,39,Los Angeles,Active,8595.0,4
+1007,Emily,Gonzalez,emp1007@company.com,IT,Manager,122386,2016-07-24,49,Los Angeles,On Leave,15140.0,3
+1008,Michael,Garcia,emp1008@company.com,Operations,Junior,77194,2022-02-07,63,Austin,On Leave,12803.0,5
+1009,Jennifer,Williams,emp1009@company.com,Operations,Senior,127498,2018-05-25,43,Boston,Active,3453.0,4
+1010,Jane,Martinez,,IT,Mid-Level,84131,2017-09-18,42,Chicago,Active,6675.0,4
+1011,William,Martinez,emp1011@company.com,Finance,Lead,100263,2017-10-31,27,San Francisco,Inactive,955.0,2
+1012,Jennifer,Lopez,emp1012@company.com,Operations,Junior,56023,2022-05-21,22,Austin,Active,6295.0,3
+1013,Thomas,Lopez,emp1013@company.com,IT,Senior,81090,2016-09-23,26,New York,On Leave,15921.0,3
+1014,James,Johnson,emp1014@company.com,Engineering,Lead,107221,2023-01-08,62,New York,Active,18096.0,5
+1015,Jane,Gonzalez,emp1015@company.com,HR,Mid-Level,104820,2019-09-30,33,New York,Active,15282.0,4
+1016,Maria,Wilson,emp1016@company.com,HR,Mid-Level,40769,2023-11-07,47,San Francisco,Active,4703.0,3
+1017,Robert,Williams,emp1017@company.com,Engineering,Junior,99735,2019-03-25,55,Boston,Active,6563.0,5
+1018,John,Jones,emp1018@company.com,HR,Junior,102955,2015-10-30,35,San Francisco,Active,12003.0,2
+1019,John,Johnson,emp1019@company.com,Marketing,Senior,104925,2020-01-14,47,New York,Active,10817.0,3
+1020,Jane,Martinez,emp1020@company.com,IT,Lead,107969,2021-09-15,48,Boston,Active,11171.0,1
+1021,Emily,Smith,emp1021@company.com,HR,Manager,45311,2020-05-16,30,Austin,Active,12582.0,4
+1022,Emily,Anderson,emp1022@company.com,HR,Lead,143355,2021-07-12,47,New York,Active,12201.0,5
+1023,James,Jones,emp1023@company.com,HR,Mid-Level,144724,2019-06-30,43,Chicago,Active,17778.0,3
+1024,Maria,Martinez,emp1024@company.com,Operations,Mid-Level,123104,2020-12-28,51,Boston,On Leave,12473.0,5
+1025,John,Hernandez,emp1025@company.com,Sales,Senior,93707,2020-09-06,64,San Francisco,Active,9461.0,3
+1026,James,Anderson,emp1026@company.com,Marketing,Manager,125305,2022-10-04,38,Los Angeles,On Leave,15596.0,5
+1027,Emily,Miller,emp1027@company.com,HR,Director,68693,2019-09-10,47,San Francisco,Inactive,529.0,4
+1028,Jennifer,Miller,emp1028@company.com,Marketing,Senior,111932,2021-02-04,57,Chicago,Active,19342.0,4
+1029,William,Lopez,emp1029@company.com,Operations,Mid-Level,133016,2015-05-31,22,Seattle,Active,19975.0,1
+1030,Jennifer,Brown,emp1030@company.com,Marketing,Mid-Level,146970,2023-11-13,29,San Francisco,Active,12765.0,5
+1031,James,Johnson,emp1031@company.com,Marketing,Lead,65658,2019-01-12,56,Los Angeles,Active,13910.0,4
+1032,Robert,Martinez,emp1032@company.com,Engineering,Manager,124478,2022-11-13,36,Los Angeles,Active,11561.0,3
+1033,Emily,Lopez,emp1033@company.com,Operations,Lead,58431,2021-01-08,43,Los Angeles,Active,9131.0,4
+1034,Lisa,Wilson,emp1034@company.com,HR,Lead,42747,2021-08-29,35,Chicago,On Leave,525.0,3
+1035,Maria,Hernandez,emp1035@company.com,Sales,Senior,99150,2022-02-26,47,New York,Active,16385.0,5
+1036,David,Brown,emp1036@company.com,Sales,Lead,105725,2015-12-15,49,New York,Active,374.0,2
+1037,Richard,Johnson,emp1037@company.com,IT,Junior,124654,2016-03-23,44,San Francisco,Active,12197.0,4
+1038,Linda,Lopez,emp1038@company.com,Sales,Junior,75773,2023-08-16,35,Boston,Active,4648.0,4
+1039,John,Gonzalez,emp1039@company.com,Sales,Lead,107435,2017-10-13,45,Seattle,Active,2365.0,2
+1040,Richard,Jones,emp1040@company.com,HR,Manager,96886,2022-05-17,23,San Francisco,Active,17909.0,3
+1041,Richard,Wilson,emp1041@company.com,Sales,Lead,106803,2022-06-15,47,Los Angeles,Active,1646.0,1
+1042,Michael,Hernandez,emp1042@company.com,Operations,Mid-Level,71551,2018-12-25,35,New York,Inactive,13.0,3
+1043,Jennifer,Martinez,emp1043@company.com,Operations,Mid-Level,51394,2016-11-12,28,Los Angeles,Inactive,4599.0,3
+1044,Robert,Gonzalez,emp1044@company.com,Marketing,Manager,109092,2022-04-04,24,Boston,Active,2278.0,4
+1045,Sarah,Johnson,emp1045@company.com,IT,Senior,43890,2021-11-14,44,Los Angeles,Active,14296.0,3
+1046,David,Gonzalez,emp1046@company.com,Engineering,Junior,81606,2015-07-01,64,Chicago,Active,3155.0,3
+1047,Michael,Martinez,emp1047@company.com,Finance,Junior,136276,2021-04-25,39,New York,Active,8321.0,4
+1048,Emily,Gonzalez,emp1048@company.com,Sales,Senior,120038,2022-03-27,59,Chicago,Active,3814.0,1
+1049,Richard,Smith,emp1049@company.com,Finance,Lead,127313,2022-08-06,56,Seattle,On Leave,13125.0,5
+1050,Sarah,Garcia,emp1050@company.com,Finance,Manager,50627,2022-04-03,36,Seattle,On Leave,3216.0,5
+1051,Jane,Rodriguez,emp1051@company.com,Finance,Director,48792,2019-06-25,46,Austin,Active,2113.0,4
+1052,Jane,Miller,emp1052@company.com,Marketing,Director,148859,2023-06-10,58,Boston,Active,10238.0,4
+1053,Robert,Hernandez,emp1053@company.com,Operations,Lead,148557,2018-09-20,49,New York,On Leave,13760.0,5
+1054,Jane,Garcia,emp1054@company.com,Sales,Senior,113969,2023-12-06,31,Chicago,On Leave,12588.0,2
+1055,Sarah,Johnson,emp1055@company.com,HR,Manager,83001,2019-10-30,60,Chicago,Inactive,3374.0,2
+1056,Linda,Rodriguez,emp1056@company.com,Marketing,Junior,116552,2016-03-09,38,Chicago,Active,6430.0,3
+1057,Sarah,Hernandez,emp1057@company.com,IT,Junior,63897,2015-02-13,60,San Francisco,On Leave,19850.0,4
+1058,Maria,Garcia,emp1058@company.com,Operations,Lead,108148,2016-02-08,43,San Francisco,On Leave,19465.0,1
+1059,David,Smith,emp1059@company.com,IT,Mid-Level,63483,2017-11-25,47,Seattle,Active,11970.0,4
+1060,Richard,Wilson,emp1060@company.com,HR,Senior,88555,2017-06-28,46,Austin,Inactive,629.0,5
+1061,John,Miller,emp1061@company.com,IT,Director,57159,2020-09-22,38,Los Angeles,Inactive,16653.0,5
+1062,Jennifer,Wilson,emp1062@company.com,Operations,Senior,146530,2023-05-18,34,Seattle,Active,10831.0,4
+1063,Lisa,Davis,emp1063@company.com,Sales,Lead,120077,2020-10-25,41,Austin,Active,5724.0,2
+1064,James,Johnson,emp1064@company.com,Marketing,Senior,75920,2021-04-04,46,Seattle,Active,11083.0,4
+1065,Jane,Miller,emp1065@company.com,Finance,Junior,132067,2021-07-05,25,Chicago,Active,13149.0,4
+1066,Thomas,Garcia,emp1066@company.com,Marketing,Lead,107121,2022-09-17,31,San Francisco,Active,19816.0,2
+1067,Robert,Hernandez,emp1067@company.com,Marketing,Junior,109479,2021-06-14,24,Seattle,Active,9472.0,2
+1068,Jane,Anderson,emp1068@company.com,Sales,Manager,129475,2017-06-24,62,Boston,Active,6276.0,5
+1069,James,Wilson,emp1069@company.com,Finance,Manager,59457,2019-12-31,39,Seattle,On Leave,15635.0,4
+1070,David,Davis,,Finance,Mid-Level,106557,2019-03-13,57,Boston,On Leave,5895.0,4
+1071,Linda,Lopez,emp1071@company.com,Engineering,Senior,117189,2019-05-22,43,Los Angeles,On Leave,13994.0,5
+1072,William,Williams,emp1072@company.com,Engineering,Manager,149109,2020-03-11,55,Chicago,Active,10552.0,4
+1073,Maria,Miller,emp1073@company.com,Operations,Senior,118953,2023-08-30,29,San Francisco,Inactive,16959.0,4
+1074,Thomas,Williams,emp1074@company.com,HR,Junior,92995,2022-08-15,61,Seattle,Inactive,6099.0,3
+1075,Linda,Lopez,emp1075@company.com,Engineering,Lead,80757,2021-08-07,40,Boston,Active,9499.0,3
+1076,Sarah,Rodriguez,emp1076@company.com,IT,Manager,49692,2022-09-29,63,Los Angeles,Inactive,19576.0,3
+1077,Maria,Hernandez,emp1077@company.com,Sales,Lead,85758,2020-08-11,62,San Francisco,Active,3178.0,4
+1078,Emily,Jones,,Marketing,Manager,112409,2016-09-09,58,Austin,Active,19118.0,4
+1079,Jennifer,Martinez,emp1079@company.com,IT,Senior,111211,2018-11-13,27,Chicago,Active,6116.0,5
+1080,Jane,Gonzalez,emp1080@company.com,Finance,Manager,105697,2015-04-11,47,Seattle,Inactive,15563.0,3
+1081,John,Anderson,emp1081@company.com,Marketing,Director,77065,2020-05-31,55,Seattle,Active,3568.0,4
+1082,William,Rodriguez,emp1082@company.com,Sales,Manager,132093,2016-03-04,27,Chicago,Active,9847.0,4
+1083,Emily,Gonzalez,emp1083@company.com,IT,Junior,139299,2018-04-25,58,San Francisco,Active,14135.0,4
+1084,Richard,Davis,emp1084@company.com,Marketing,Mid-Level,72606,2019-08-31,54,San Francisco,Active,18587.0,4
+1085,David,Davis,emp1085@company.com,Finance,Junior,51534,2015-12-18,43,Seattle,Inactive,17774.0,3
+1086,Jane,Miller,emp1086@company.com,Engineering,Lead,134663,2016-04-20,42,New York,Active,1742.0,4
+1087,Linda,Wilson,emp1087@company.com,IT,Senior,80397,2023-03-10,27,Seattle,On Leave,18309.0,2
+1088,Emily,Lopez,emp1088@company.com,HR,Senior,131387,2016-08-03,27,Boston,On Leave,619.0,3
+1089,Linda,Martinez,emp1089@company.com,IT,Manager,41016,2018-11-27,25,Austin,Active,17658.0,3
+1090,Jane,Jones,emp1090@company.com,Finance,Senior,129789,2018-07-01,51,Los Angeles,Inactive,17340.0,4
+1091,Robert,Garcia,emp1091@company.com,IT,Mid-Level,95591,2018-11-06,32,Los Angeles,Active,1939.0,5
+1092,David,Wilson,emp1092@company.com,IT,Mid-Level,129812,2020-02-09,51,Boston,Active,16001.0,4
+1093,Lisa,Brown,emp1093@company.com,Finance,Manager,63247,2023-10-18,52,New York,Active,968.0,4
+1094,William,Wilson,emp1094@company.com,Finance,Manager,64300,2017-04-27,45,San Francisco,Active,14846.0,4
+1095,Linda,Anderson,emp1095@company.com,Operations,Lead,114065,2020-11-04,30,Boston,Active,281.0,4
+1096,Sarah,Johnson,,Operations,Manager,122798,2020-06-01,24,Chicago,Inactive,15360.0,2
+1097,Michael,Jones,emp1097@company.com,Finance,Junior,49268,2018-11-27,52,Los Angeles,Inactive,6262.0,3
+1098,Sarah,Anderson,emp1098@company.com,Sales,Junior,126807,2020-05-04,61,Boston,Inactive,1058.0,3
+1099,Sarah,Davis,emp1099@company.com,Finance,Junior,52185,2016-02-04,58,San Francisco,Active,10724.0,3
+1100,Emily,Brown,emp1100@company.com,Operations,Mid-Level,103704,2019-11-30,57,Seattle,Active,5178.0,1
+1101,William,Gonzalez,emp1101@company.com,IT,Director,126779,2023-02-05,45,Boston,Active,6980.0,2
+1102,David,Davis,emp1102@company.com,Operations,Senior,79099,2022-10-24,52,New York,On Leave,9200.0,3
+1103,Jennifer,Martinez,emp1103@company.com,Marketing,Lead,48571,2020-01-28,27,Austin,Active,1229.0,5
+1104,Thomas,Martinez,emp1104@company.com,Sales,Manager,145512,2018-07-30,23,San Francisco,Active,8467.0,3
+1105,William,Hernandez,emp1105@company.com,Engineering,Lead,78044,2015-10-03,41,Chicago,Active,19124.0,3
+1106,William,Miller,emp1106@company.com,Marketing,Mid-Level,91214,2018-05-14,49,Seattle,Active,2289.0,2
+1107,Jane,Garcia,emp1107@company.com,Operations,Manager,101228,2015-07-03,32,New York,Active,1239.0,4
+1108,Maria,Smith,emp1108@company.com,IT,Manager,88984,2022-12-21,25,San Francisco,Active,5370.0,3
+1109,William,Davis,emp1109@company.com,Marketing,Mid-Level,80774,2016-04-16,36,Chicago,Active,16170.0,3
+1110,Michael,Wilson,emp1110@company.com,Marketing,Senior,42568,2015-04-03,27,Chicago,Inactive,125.0,4
+1111,James,Garcia,emp1111@company.com,Marketing,Manager,102592,2018-11-06,51,San Francisco,Active,12504.0,1
+1112,Jennifer,Williams,emp1112@company.com,Sales,Senior,107563,2022-04-08,59,Seattle,Active,15398.0,1
+1113,Emily,Davis,emp1113@company.com,Engineering,Mid-Level,42695,2016-03-23,23,New York,Active,6638.0,3
+1114,Michael,Brown,emp1114@company.com,IT,Lead,88190,2022-08-05,36,Los Angeles,Active,6570.0,1
+1115,Lisa,Garcia,emp1115@company.com,Engineering,Manager,45258,2023-12-22,32,Seattle,Inactive,3249.0,2
+1116,Robert,Gonzalez,emp1116@company.com,Finance,Director,127538,2016-11-04,29,Seattle,Inactive,9110.0,3
+1117,David,Jones,emp1117@company.com,Operations,Senior,79504,2023-04-22,47,Seattle,On Leave,7595.0,4
+1118,Thomas,Garcia,emp1118@company.com,HR,Manager,73159,2017-09-26,26,Seattle,Active,13605.0,4
+1119,William,Jones,emp1119@company.com,Sales,Senior,53986,2020-10-14,27,Chicago,Active,12115.0,4
+1120,Jennifer,Anderson,emp1120@company.com,Engineering,Manager,101858,2016-12-15,47,Austin,Active,6294.0,3
+1121,James,Martinez,emp1121@company.com,Operations,Manager,52666,2021-03-10,25,New York,Inactive,5757.0,5
+1122,Emily,Lopez,emp1122@company.com,Operations,Manager,78660,2016-10-17,40,Chicago,On Leave,12595.0,3
+1123,William,Anderson,emp1123@company.com,Sales,Lead,43561,2018-09-17,41,San Francisco,On Leave,1969.0,2
+1124,Sarah,Jones,emp1124@company.com,Sales,Director,66854,2021-04-12,54,San Francisco,Active,10985.0,4
+1125,Linda,Rodriguez,emp1125@company.com,Operations,Manager,104505,2019-10-13,41,Seattle,Active,17275.0,2
+1126,Richard,Smith,emp1126@company.com,Finance,Senior,144488,2020-03-07,33,New York,Active,4470.0,3
+1127,Richard,Rodriguez,emp1127@company.com,Engineering,Lead,92251,2017-08-07,22,Chicago,On Leave,10225.0,4
+1128,John,Brown,emp1128@company.com,HR,Junior,62662,2023-12-12,47,Chicago,Inactive,9556.0,5
+1129,Emily,Johnson,emp1129@company.com,HR,Senior,48392,2019-07-18,35,Los Angeles,Active,9206.0,3
+1130,Linda,Brown,emp1130@company.com,HR,Senior,70535,2022-01-23,59,New York,On Leave,9991.0,4
+1131,John,Lopez,emp1131@company.com,Marketing,Director,118603,2017-01-25,58,Seattle,Active,7519.0,5
+1132,Richard,Miller,emp1132@company.com,Engineering,Junior,92256,2017-02-02,32,New York,On Leave,13669.0,2
+1133,Sarah,Davis,emp1133@company.com,Marketing,Lead,129135,2022-03-08,57,New York,Active,4612.0,3
+1134,Robert,Rodriguez,emp1134@company.com,Marketing,Manager,75222,2022-05-16,34,Austin,On Leave,12373.0,3
+1135,David,Gonzalez,emp1135@company.com,Operations,Senior,117373,2019-11-06,64,Austin,Active,17582.0,3
+1136,Jane,Brown,emp1136@company.com,Marketing,Director,119575,2019-06-09,24,Seattle,Inactive,15552.0,3
+1137,Emily,Lopez,emp1137@company.com,IT,Director,136354,2015-04-30,54,Austin,On Leave,14646.0,5
+1138,Thomas,Davis,emp1138@company.com,Finance,Director,124651,2023-04-09,27,San Francisco,Active,5238.0,4
+1139,Maria,Hernandez,emp1139@company.com,Finance,Junior,103335,2021-11-20,31,Austin,Inactive,15577.0,4
+1140,Thomas,Lopez,emp1140@company.com,Sales,Manager,50965,2017-03-19,26,Austin,Active,15504.0,3
+1141,Jennifer,Davis,emp1141@company.com,Sales,Lead,64538,2020-01-16,44,Austin,Active,3719.0,4
+1142,Sarah,Davis,emp1142@company.com,Engineering,Senior,148066,2021-08-22,31,Chicago,Active,302.0,5
+1143,Emily,Gonzalez,emp1143@company.com,Engineering,Director,110592,2019-10-26,23,Boston,Inactive,12144.0,4
+1144,William,Smith,emp1144@company.com,IT,Manager,138018,2019-05-12,34,Austin,On Leave,17370.0,1
+1145,Lisa,Johnson,emp1145@company.com,Finance,Manager,48110,2015-01-19,61,New York,On Leave,10055.0,4
+1146,Robert,Jones,emp1146@company.com,Sales,Mid-Level,119309,2022-11-26,23,Los Angeles,Active,4440.0,2
+1147,Thomas,Brown,emp1147@company.com,Operations,Director,67266,2017-05-29,41,Austin,On Leave,3072.0,3
+1148,Thomas,Miller,emp1148@company.com,Sales,Junior,92992,2017-04-22,22,Los Angeles,Active,13598.0,2
+1149,William,Lopez,emp1149@company.com,Marketing,Manager,122948,2018-02-14,58,Los Angeles,Active,14287.0,4
+1150,Lisa,Brown,emp1150@company.com,HR,Lead,138806,2023-06-09,30,Boston,On Leave,13965.0,4
+1151,Michael,Jones,emp1151@company.com,Operations,Mid-Level,46910,2022-11-22,38,Seattle,Inactive,19508.0,2
+1152,David,Hernandez,emp1152@company.com,HR,Manager,130982,2023-12-05,30,Los Angeles,Active,9519.0,3
+1153,Michael,Martinez,emp1153@company.com,HR,Director,40206,2015-09-14,32,Seattle,Active,13380.0,3
+1154,Emily,Garcia,emp1154@company.com,Finance,Director,127054,2021-06-22,36,San Francisco,Active,11865.0,3
+1155,Jennifer,Davis,emp1155@company.com,HR,Manager,127897,2016-02-21,45,San Francisco,Active,8125.0,2
+1156,James,Rodriguez,emp1156@company.com,HR,Lead,63419,2023-12-19,59,Austin,Active,3291.0,3
+1157,James,Rodriguez,emp1157@company.com,Marketing,Mid-Level,90636,2021-01-08,56,New York,Active,4033.0,4
+1158,David,Garcia,emp1158@company.com,Engineering,Director,90015,2017-02-04,51,Los Angeles,Active,5105.0,2
+1159,Jennifer,Miller,emp1159@company.com,IT,Mid-Level,147059,2019-02-07,52,Los Angeles,Active,17087.0,2
+1160,Maria,Lopez,emp1160@company.com,Finance,Junior,94268,2018-08-28,26,New York,Active,8133.0,3
+1161,Robert,Rodriguez,emp1161@company.com,Sales,Manager,127939,2017-03-18,35,Chicago,On Leave,16958.0,5
+1162,Thomas,Garcia,emp1162@company.com,Marketing,Director,58141,2020-02-18,32,New York,Inactive,5704.0,4
+1163,Maria,Garcia,emp1163@company.com,HR,Junior,120356,2016-04-11,30,Chicago,Inactive,7848.0,4
+1164,Robert,Lopez,emp1164@company.com,Sales,Mid-Level,145878,2017-12-10,55,Chicago,On Leave,12975.0,3
+1165,Sarah,Davis,emp1165@company.com,Marketing,Junior,111910,2022-07-10,33,New York,Active,6924.0,4
+1166,Emily,Jones,emp1166@company.com,Operations,Lead,96044,2020-06-27,56,New York,Inactive,19614.0,1
+1167,Michael,Jones,emp1167@company.com,Operations,Senior,107214,2020-12-01,56,Chicago,On Leave,488.0,4
+1168,James,Jones,emp1168@company.com,Finance,Lead,73827,2022-03-02,22,San Francisco,Active,7114.0,5
+1169,Lisa,Brown,emp1169@company.com,HR,Mid-Level,95820,2018-07-07,61,Austin,Inactive,15740.0,4
+1170,Jane,Johnson,emp1170@company.com,Finance,Lead,102623,2021-09-11,43,San Francisco,Inactive,3173.0,5
+1171,Richard,Lopez,emp1171@company.com,Operations,Director,121734,2019-05-11,50,Seattle,On Leave,1667.0,4
+1172,John,Brown,emp1172@company.com,Marketing,Mid-Level,115450,2021-11-08,29,New York,Inactive,4114.0,2
+1173,Linda,Garcia,emp1173@company.com,Sales,Lead,133426,2019-05-27,32,Boston,Active,3553.0,5
+1174,Jane,Johnson,emp1174@company.com,Engineering,Manager,62299,2021-08-01,62,New York,Active,7761.0,2
+1175,Michael,Lopez,emp1175@company.com,HR,Manager,83585,2016-04-12,58,Chicago,Active,1000.0,4
+1176,William,Rodriguez,emp1176@company.com,Finance,Lead,149225,2018-11-26,35,Boston,On Leave,15638.0,2
+1177,Michael,Gonzalez,emp1177@company.com,Sales,Director,104044,2018-12-12,51,Boston,Inactive,17772.0,1
+1178,Richard,Lopez,emp1178@company.com,Sales,Director,82557,2020-02-19,56,Austin,Active,5450.0,3
+1179,William,Williams,emp1179@company.com,Engineering,Junior,89080,2021-12-03,42,Seattle,Inactive,3712.0,3
+1180,Robert,Brown,emp1180@company.com,Marketing,Director,149556,2016-12-07,58,New York,Active,1367.0,3
+1181,Maria,Brown,emp1181@company.com,Engineering,Mid-Level,42693,2022-07-22,26,Austin,Inactive,8189.0,4
+1182,Jane,Lopez,emp1182@company.com,IT,Manager,135003,2022-12-01,40,Seattle,Active,9013.0,1
+1183,Robert,Davis,emp1183@company.com,Engineering,Mid-Level,135259,2023-12-24,35,San Francisco,Inactive,,2
+1184,Robert,Jones,emp1184@company.com,IT,Manager,109163,2018-05-03,47,Boston,Inactive,19156.0,4
+1185,Maria,Lopez,emp1185@company.com,Marketing,Senior,65939,2021-11-21,25,Austin,Active,3726.0,3
+1186,Lisa,Martinez,emp1186@company.com,Marketing,Director,88925,2021-08-14,46,San Francisco,On Leave,4806.0,4
+1187,James,Gonzalez,emp1187@company.com,Marketing,Lead,82941,2015-12-14,63,New York,On Leave,2190.0,4
+1188,David,Rodriguez,emp1188@company.com,Sales,Manager,61834,2022-07-15,46,New York,Inactive,,4
+1189,James,Martinez,emp1189@company.com,Sales,Lead,58047,2016-07-02,39,Chicago,Inactive,12178.0,4
+1190,Linda,Jones,emp1190@company.com,HR,Senior,66105,2018-07-06,61,San Francisco,Active,2875.0,3
+1191,John,Johnson,emp1191@company.com,Operations,Mid-Level,115766,2016-04-27,29,San Francisco,Inactive,5592.0,4
+1192,William,Wilson,emp1192@company.com,HR,Lead,55707,2017-09-04,60,Austin,Active,17824.0,3
+1193,Jennifer,Brown,emp1193@company.com,Engineering,Manager,61976,2018-06-04,61,Seattle,Active,12592.0,3
+1194,Jane,Jones,emp1194@company.com,Engineering,Senior,84262,2016-04-24,35,Boston,On Leave,8927.0,4
+1195,William,Brown,emp1195@company.com,HR,Manager,63776,2017-01-19,53,Seattle,Active,,3
+1196,Thomas,Garcia,emp1196@company.com,Finance,Senior,70080,2019-03-10,59,Seattle,On Leave,11530.0,4
+1197,James,Williams,emp1197@company.com,Operations,Director,106842,2022-10-11,54,Boston,On Leave,7010.0,4
+1198,Richard,Jones,emp1198@company.com,Engineering,Director,101373,2016-08-02,44,Chicago,Inactive,11207.0,5
+1199,David,Smith,emp1199@company.com,Finance,Director,46776,2020-09-23,36,Seattle,Inactive,2989.0,5
+1200,Richard,Lopez,emp1200@company.com,Finance,Director,132787,2019-05-11,54,Chicago,Active,12040.0,3
+1201,William,Rodriguez,emp1201@company.com,IT,Director,95016,2019-09-10,46,Chicago,Inactive,9218.0,3
+1202,Sarah,Williams,emp1202@company.com,Operations,Senior,49474,2021-09-08,38,San Francisco,Inactive,6471.0,4
+1203,Jane,Jones,emp1203@company.com,IT,Manager,145830,2016-07-18,54,New York,On Leave,2863.0,3
+1204,David,Smith,emp1204@company.com,Marketing,Lead,98053,2021-06-12,23,New York,Active,10693.0,4
+1205,Robert,Smith,emp1205@company.com,Sales,Mid-Level,61959,2019-04-21,35,Austin,Active,,4
+1206,Michael,Rodriguez,emp1206@company.com,HR,Mid-Level,45530,2019-09-29,61,Boston,Active,4760.0,4
+1207,Lisa,Jones,emp1207@company.com,IT,Senior,134856,2017-01-30,61,Boston,On Leave,11.0,3
+1208,John,Lopez,emp1208@company.com,Operations,Manager,43748,2020-06-16,60,Los Angeles,Active,16353.0,2
+1209,Jennifer,Williams,emp1209@company.com,Sales,Senior,137504,2022-02-16,27,Austin,Active,11556.0,3
+1210,Thomas,Hernandez,emp1210@company.com,HR,Mid-Level,138098,2021-01-10,27,San Francisco,Active,11563.0,2
+1211,Jennifer,Wilson,emp1211@company.com,Sales,Senior,53545,2022-10-11,24,New York,Active,14051.0,5
+1212,David,Gonzalez,emp1212@company.com,HR,Senior,106199,2022-03-27,28,Chicago,Active,11022.0,3
+1213,James,Davis,emp1213@company.com,Sales,Director,74766,2016-12-10,29,New York,Inactive,8234.0,2
+1214,Richard,Johnson,emp1214@company.com,IT,Mid-Level,113530,2021-03-22,63,Austin,Active,16173.0,1
+1215,Michael,Wilson,emp1215@company.com,Marketing,Director,133557,2016-11-14,36,New York,Active,13178.0,4
+1216,James,Smith,emp1216@company.com,Finance,Director,101087,2020-06-28,50,Chicago,Active,6570.0,4
+1217,Thomas,Martinez,emp1217@company.com,HR,Lead,135839,2018-03-29,54,Los Angeles,Active,406.0,3
+1218,Jane,Jones,emp1218@company.com,Finance,Senior,108840,2016-07-28,51,Seattle,Active,9206.0,2
+1219,Linda,Davis,emp1219@company.com,HR,Lead,94384,2017-02-05,60,Seattle,Inactive,4431.0,3
+1220,William,Davis,emp1220@company.com,Operations,Senior,91005,2018-07-12,48,Boston,Active,6542.0,3
+1221,David,Davis,emp1221@company.com,Operations,Manager,86576,2020-01-22,57,Austin,Active,8906.0,4
+1222,Linda,Garcia,emp1222@company.com,HR,Director,79353,2021-12-12,50,San Francisco,Active,4146.0,4
+1223,William,Williams,emp1223@company.com,Marketing,Senior,102003,2015-08-08,59,New York,Inactive,12046.0,3
+1224,James,Smith,emp1224@company.com,Sales,Senior,123211,2019-01-10,54,New York,Active,,3
+1225,Maria,Jones,emp1225@company.com,HR,Junior,92733,2015-02-09,58,San Francisco,Active,13076.0,5
+1226,Emily,Wilson,,Sales,Manager,105318,2020-06-07,48,San Francisco,On Leave,16524.0,3
+1227,Michael,Davis,emp1227@company.com,Marketing,Director,149953,2016-07-13,54,Seattle,Active,4882.0,4
+1228,Sarah,Johnson,emp1228@company.com,Engineering,Manager,129474,2017-03-10,25,Chicago,Active,14113.0,2
+1229,Richard,Wilson,emp1229@company.com,IT,Lead,63664,2019-04-22,43,New York,Active,13645.0,3
+1230,Michael,Johnson,emp1230@company.com,Finance,Lead,107172,2021-04-19,23,Austin,Active,6012.0,1
+1231,James,Miller,emp1231@company.com,HR,Senior,125616,2020-09-01,31,Los Angeles,On Leave,17347.0,4
+1232,Richard,Davis,emp1232@company.com,IT,Mid-Level,133264,2022-04-28,26,New York,Inactive,7151.0,5
+1233,Thomas,Johnson,emp1233@company.com,Operations,Senior,66736,2020-07-20,31,Chicago,Inactive,3610.0,3
+1234,James,Martinez,emp1234@company.com,Marketing,Junior,134209,2019-08-03,54,Los Angeles,On Leave,9884.0,1
+1235,Thomas,Hernandez,emp1235@company.com,Sales,Senior,143041,2022-09-05,59,Austin,Active,6894.0,1
+1236,John,Hernandez,,HR,Director,40854,2020-07-07,34,Austin,Inactive,13467.0,3
+1237,Maria,Smith,emp1237@company.com,IT,Junior,130084,2019-08-30,52,Austin,Inactive,16489.0,2
+1238,Sarah,Williams,emp1238@company.com,Sales,Senior,78623,2022-12-18,57,Seattle,On Leave,9873.0,1
+1239,Lisa,Williams,emp1239@company.com,Engineering,Lead,47392,2019-12-24,45,Chicago,Active,12289.0,4
+1240,John,Gonzalez,emp1240@company.com,HR,Director,95680,2020-06-24,36,New York,Active,12208.0,3
+1241,Jane,Martinez,emp1241@company.com,Finance,Senior,86717,2016-11-16,50,Seattle,On Leave,,3
+1242,Thomas,Jones,emp1242@company.com,HR,Director,127092,2015-12-05,29,Boston,Inactive,2137.0,5
+1243,Sarah,Johnson,emp1243@company.com,Finance,Lead,90859,2021-05-04,26,Austin,Active,19914.0,2
+1244,Thomas,Brown,emp1244@company.com,Sales,Mid-Level,144095,2015-05-07,50,San Francisco,Inactive,1286.0,5
+1245,Linda,Johnson,emp1245@company.com,HR,Mid-Level,66309,2023-12-04,25,Chicago,Inactive,15710.0,3
+1246,Richard,Rodriguez,emp1246@company.com,IT,Manager,127455,2023-07-15,33,Austin,Active,11371.0,5
+1247,David,Gonzalez,emp1247@company.com,Marketing,Senior,103734,2017-06-22,23,Chicago,Active,15945.0,4
+1248,Emily,Miller,emp1248@company.com,Operations,Manager,110467,2018-04-11,48,San Francisco,Active,7052.0,4
+1249,John,Martinez,emp1249@company.com,Marketing,Director,92662,2015-05-14,52,Austin,Active,3654.0,5
+1250,Emily,Martinez,emp1250@company.com,Engineering,Senior,138506,2018-01-30,57,New York,Inactive,18743.0,3
+1251,Thomas,Gonzalez,emp1251@company.com,Marketing,Mid-Level,149751,2017-07-09,57,Chicago,Active,15600.0,5
+1252,Maria,Martinez,emp1252@company.com,IT,Junior,52688,2021-01-11,47,Austin,On Leave,8636.0,3
+1253,Jane,Brown,emp1253@company.com,Engineering,Manager,65342,2018-03-28,64,Austin,Active,6441.0,3
+1254,Jane,Gonzalez,emp1254@company.com,Sales,Director,77157,2016-11-19,48,Chicago,Active,9667.0,3
+1255,Jennifer,Rodriguez,,Finance,Manager,107863,2023-10-03,26,San Francisco,Inactive,12149.0,4
+1256,Lisa,Miller,emp1256@company.com,Operations,Mid-Level,146308,2020-02-17,41,Los Angeles,Active,1798.0,2
+1257,Linda,Davis,emp1257@company.com,Sales,Mid-Level,92083,2021-05-05,32,Chicago,Active,9600.0,4
+1258,Jane,Anderson,emp1258@company.com,Finance,Junior,146081,2023-04-30,31,Boston,On Leave,5495.0,4
+1259,Richard,Davis,emp1259@company.com,Finance,Director,105733,2023-08-31,61,New York,Active,9900.0,4
+1260,James,Jones,emp1260@company.com,Engineering,Manager,129045,2023-08-04,59,San Francisco,Active,13673.0,4
+1261,Richard,Wilson,emp1261@company.com,IT,Mid-Level,74698,2020-07-21,27,Los Angeles,Inactive,11130.0,3
+1262,Michael,Martinez,emp1262@company.com,Marketing,Director,120623,2021-03-01,29,Seattle,Inactive,15222.0,3
+1263,Michael,Miller,emp1263@company.com,Marketing,Mid-Level,62671,2020-09-23,44,Seattle,Inactive,1300.0,3
+1264,William,Jones,emp1264@company.com,Operations,Junior,65184,2016-04-08,47,New York,Inactive,9435.0,2
+1265,Lisa,Martinez,emp1265@company.com,IT,Junior,133384,2021-06-03,64,New York,Active,19481.0,2
+1266,James,Martinez,emp1266@company.com,Operations,Lead,82107,2016-04-12,33,Seattle,On Leave,4616.0,3
+1267,Michael,Smith,emp1267@company.com,IT,Senior,126202,2018-01-02,47,Chicago,On Leave,16393.0,3
+1268,David,Martinez,emp1268@company.com,Engineering,Director,149893,2023-09-10,34,Los Angeles,Inactive,10617.0,5
+1269,James,Lopez,emp1269@company.com,Engineering,Lead,91663,2021-02-02,61,Boston,On Leave,5752.0,4
+1270,Linda,Johnson,,Sales,Junior,55708,2019-02-11,39,Austin,Active,9852.0,3
+1271,Maria,Gonzalez,emp1271@company.com,Engineering,Director,131906,2021-01-29,46,Los Angeles,Inactive,6295.0,4
+1272,Robert,Brown,emp1272@company.com,Marketing,Mid-Level,89811,2023-06-27,54,Boston,Active,17456.0,2
+1273,Emily,Hernandez,emp1273@company.com,Engineering,Junior,42811,2015-06-20,61,San Francisco,Active,3225.0,3
+1274,Thomas,Brown,emp1274@company.com,Engineering,Manager,96250,2023-07-10,64,Boston,Active,1316.0,4
+1275,James,Jones,emp1275@company.com,Finance,Mid-Level,112082,2023-01-23,33,New York,Active,12337.0,3
+1276,Richard,Hernandez,emp1276@company.com,Engineering,Lead,74754,2019-12-13,57,Los Angeles,Inactive,,3
+1277,Jennifer,Johnson,emp1277@company.com,IT,Director,135742,2021-02-15,25,Austin,Active,3683.0,5
+1278,Jennifer,Williams,emp1278@company.com,IT,Lead,146642,2017-06-14,26,Los Angeles,Active,7227.0,5
+1279,Emily,Brown,emp1279@company.com,Operations,Lead,51411,2019-10-08,58,Boston,Active,3273.0,4
+1280,Jennifer,Williams,emp1280@company.com,Sales,Director,42911,2016-02-24,29,Austin,Inactive,145.0,4
+1281,David,Rodriguez,emp1281@company.com,Engineering,Mid-Level,107270,2023-04-03,63,Boston,On Leave,5010.0,4
+1282,Robert,Johnson,emp1282@company.com,IT,Senior,123763,2022-05-01,49,Seattle,Active,16035.0,3
+1283,William,Williams,emp1283@company.com,Operations,Senior,48680,2023-06-05,52,Los Angeles,Active,3040.0,3
+1284,William,Smith,emp1284@company.com,HR,Senior,124896,2017-10-10,30,Austin,Active,9654.0,1
+1285,Sarah,Miller,emp1285@company.com,HR,Director,123879,2018-05-04,50,Boston,Active,16866.0,3
+1286,Lisa,Davis,emp1286@company.com,IT,Junior,111295,2015-05-13,35,San Francisco,Active,19563.0,4
+1287,Thomas,Lopez,emp1287@company.com,Finance,Junior,128614,2020-01-17,61,Austin,On Leave,17633.0,3
+1288,James,Martinez,emp1288@company.com,IT,Director,140689,2017-12-12,62,Chicago,Active,17014.0,5
+1289,Lisa,Davis,emp1289@company.com,Finance,Manager,51111,2018-11-28,43,New York,Active,14996.0,5
+1290,Jane,Jones,emp1290@company.com,HR,Mid-Level,77504,2015-12-23,32,Austin,Active,16336.0,4
+1291,Emily,Smith,emp1291@company.com,Operations,Manager,41802,2019-12-04,44,Los Angeles,On Leave,8853.0,4
+1292,Emily,Brown,emp1292@company.com,Finance,Director,48155,2016-04-25,22,Seattle,Active,11695.0,5
+1293,Jane,Jones,emp1293@company.com,Operations,Director,113656,2023-09-12,58,New York,Active,2852.0,2
+1294,Sarah,Lopez,emp1294@company.com,Operations,Junior,79384,2017-08-28,42,Boston,Active,16014.0,4
+1295,John,Jones,,Finance,Mid-Level,87254,2017-05-09,47,Boston,Active,987.0,2
+1296,Maria,Lopez,emp1296@company.com,Marketing,Lead,61918,2023-04-10,57,Boston,Inactive,7622.0,4
+1297,James,Wilson,emp1297@company.com,IT,Mid-Level,125981,2021-08-05,44,Los Angeles,Active,9160.0,3
+1298,Emily,Davis,emp1298@company.com,Operations,Junior,100713,2022-09-23,22,Boston,Active,17484.0,5
+1299,Maria,Johnson,emp1299@company.com,Marketing,Lead,70306,2018-12-07,61,Seattle,Active,6652.0,5
+1300,Emily,Hernandez,emp1300@company.com,Engineering,Lead,56646,2022-12-21,36,Boston,Active,7421.0,2
+1301,John,Brown,emp1301@company.com,HR,Mid-Level,86843,2021-11-04,42,San Francisco,On Leave,769.0,3
+1302,Jane,Anderson,emp1302@company.com,Sales,Director,136601,2022-02-04,30,New York,Active,17727.0,5
+1303,Jennifer,Jones,emp1303@company.com,HR,Senior,130735,2019-10-20,30,Los Angeles,Inactive,14114.0,3
+1304,William,Gonzalez,emp1304@company.com,HR,Junior,147512,2016-11-10,31,Austin,On Leave,4358.0,5
+1305,John,Gonzalez,emp1305@company.com,Operations,Junior,56371,2021-11-28,47,San Francisco,Inactive,11543.0,4
+1306,Emily,Hernandez,emp1306@company.com,Marketing,Senior,117371,2016-07-24,62,San Francisco,Active,18733.0,3
+1307,Jane,Martinez,emp1307@company.com,IT,Manager,42049,2023-10-20,56,San Francisco,Active,5699.0,3
+1308,Thomas,Hernandez,emp1308@company.com,Marketing,Manager,71616,2017-04-26,46,Los Angeles,On Leave,17625.0,3
+1309,John,Gonzalez,emp1309@company.com,Finance,Junior,143727,2017-04-27,47,San Francisco,On Leave,1125.0,4
+1310,Linda,Anderson,emp1310@company.com,Sales,Senior,60932,2015-09-01,32,San Francisco,Active,10793.0,3
+1311,Sarah,Brown,emp1311@company.com,Marketing,Senior,69855,2021-05-24,59,New York,Active,6764.0,4
+1312,Jane,Miller,emp1312@company.com,Finance,Lead,101434,2018-12-07,23,Austin,Inactive,12323.0,3
+1313,James,Johnson,emp1313@company.com,Sales,Director,112694,2020-12-20,28,New York,Active,13031.0,4
+1314,Emily,Rodriguez,emp1314@company.com,Marketing,Manager,83016,2018-02-25,39,Seattle,On Leave,14052.0,5
+1315,David,Brown,emp1315@company.com,HR,Manager,47400,2021-09-10,48,Austin,Active,12640.0,5
+1316,William,Hernandez,emp1316@company.com,HR,Lead,82642,2021-01-15,55,San Francisco,Active,7843.0,3
+1317,Lisa,Williams,emp1317@company.com,Sales,Mid-Level,55151,2016-11-20,48,Los Angeles,On Leave,14210.0,4
+1318,Emily,Anderson,emp1318@company.com,Sales,Manager,91407,2018-08-18,38,Seattle,Active,16456.0,4
+1319,James,Jones,emp1319@company.com,Marketing,Lead,106690,2022-11-23,64,San Francisco,On Leave,10106.0,4
+1320,Michael,Wilson,emp1320@company.com,IT,Senior,44499,2018-04-13,45,Los Angeles,Active,5189.0,5
+1321,Jennifer,Williams,emp1321@company.com,Marketing,Mid-Level,46295,2018-03-31,46,Boston,Active,2472.0,3
+1322,Thomas,Johnson,emp1322@company.com,Sales,Junior,99040,2021-06-03,28,Chicago,On Leave,,2
+1323,Thomas,Smith,emp1323@company.com,Operations,Senior,52183,2017-12-31,27,Chicago,On Leave,18188.0,5
+1324,Maria,Williams,,IT,Mid-Level,69299,2020-10-08,45,Seattle,Active,6704.0,3
+1325,Maria,Gonzalez,emp1325@company.com,IT,Director,52874,2022-08-14,54,Los Angeles,Active,3713.0,4
+1326,Lisa,Jones,emp1326@company.com,Sales,Lead,72711,2016-01-26,50,New York,Active,5051.0,5
+1327,Emily,Martinez,emp1327@company.com,Finance,Director,45539,2016-07-09,64,New York,Active,10756.0,2
+1328,Richard,Lopez,emp1328@company.com,Finance,Senior,147941,2023-05-31,43,Austin,Active,2475.0,5
+1329,Lisa,Wilson,emp1329@company.com,Finance,Director,93351,2023-10-24,47,Boston,Inactive,3610.0,3
+1330,Richard,Martinez,emp1330@company.com,HR,Mid-Level,101267,2019-08-13,49,Austin,Active,4255.0,4
+1331,Robert,Anderson,emp1331@company.com,HR,Junior,88354,2015-08-31,42,Boston,Active,14484.0,4
+1332,Emily,Jones,emp1332@company.com,Finance,Director,42557,2018-02-09,28,Chicago,Active,1735.0,5
+1333,Jane,Davis,emp1333@company.com,Finance,Senior,78360,2022-05-10,38,Los Angeles,Active,8258.0,1
+1334,Jane,Johnson,emp1334@company.com,IT,Senior,122018,2016-06-03,41,Chicago,Active,7979.0,3
+1335,William,Davis,emp1335@company.com,Operations,Manager,42200,2022-11-13,62,Boston,On Leave,2428.0,4
+1336,Robert,Lopez,emp1336@company.com,Sales,Director,108497,2016-06-27,41,Austin,On Leave,12345.0,4
+1337,Sarah,Jones,emp1337@company.com,HR,Mid-Level,86975,2017-10-19,43,Los Angeles,Active,7426.0,4
+1338,Robert,Lopez,emp1338@company.com,IT,Mid-Level,61357,2016-08-22,49,New York,On Leave,8533.0,2
+1339,Robert,Miller,emp1339@company.com,Finance,Manager,117505,2022-12-23,61,Los Angeles,Inactive,5249.0,3
+1340,Lisa,Jones,emp1340@company.com,Operations,Director,42869,2018-08-12,28,Seattle,Active,19201.0,3
+1341,Linda,Rodriguez,emp1341@company.com,Engineering,Lead,101135,2017-10-10,22,Boston,Active,9686.0,4
+1342,Jennifer,Rodriguez,emp1342@company.com,Marketing,Lead,90108,2023-07-16,53,Boston,Inactive,14109.0,3
+1343,John,Davis,emp1343@company.com,Finance,Manager,134179,2022-08-01,34,Boston,Active,661.0,3
+1344,William,Davis,emp1344@company.com,HR,Senior,130272,2019-05-28,51,Los Angeles,Active,12075.0,5
+1345,William,Johnson,emp1345@company.com,Finance,Junior,78467,2020-06-27,44,Austin,Active,14788.0,1
+1346,William,Martinez,emp1346@company.com,Engineering,Lead,63328,2016-08-05,40,New York,Inactive,10060.0,5
+1347,Jane,Smith,emp1347@company.com,Sales,Director,131412,2021-06-23,53,Austin,On Leave,15836.0,4
+1348,John,Anderson,emp1348@company.com,HR,Junior,126831,2022-02-03,51,San Francisco,On Leave,10526.0,4
+1349,Robert,Miller,emp1349@company.com,Sales,Mid-Level,43987,2018-01-05,50,San Francisco,Active,3374.0,3
+1350,Jennifer,Lopez,emp1350@company.com,IT,Mid-Level,98871,2022-01-15,50,Boston,Active,207.0,1
+1351,Sarah,Garcia,,IT,Lead,62399,2019-08-24,51,Boston,Inactive,2665.0,4
+1352,Richard,Martinez,emp1352@company.com,Marketing,Senior,86214,2019-03-17,37,Boston,Active,18877.0,4
+1353,Linda,Jones,emp1353@company.com,Operations,Mid-Level,139522,2020-01-26,61,Los Angeles,Active,632.0,4
+1354,Jane,Smith,emp1354@company.com,Sales,Junior,126416,2015-11-06,40,New York,Active,3083.0,2
+1355,Emily,Johnson,emp1355@company.com,Finance,Senior,110271,2022-02-08,39,New York,Active,13711.0,4
+1356,Emily,Brown,emp1356@company.com,Operations,Lead,84064,2023-11-29,22,Boston,Active,10123.0,4
+1357,Emily,Hernandez,emp1357@company.com,Engineering,Mid-Level,110091,2023-08-16,35,Los Angeles,On Leave,7123.0,4
+1358,James,Wilson,emp1358@company.com,Sales,Lead,147450,2016-01-17,23,New York,Inactive,10754.0,4
+1359,Lisa,Wilson,emp1359@company.com,Engineering,Senior,80818,2019-07-09,49,Los Angeles,Active,1679.0,4
+1360,Michael,Martinez,emp1360@company.com,Operations,Senior,85525,2020-10-12,51,Chicago,Active,15901.0,4
+1361,Robert,Martinez,emp1361@company.com,HR,Senior,59830,2023-05-30,59,Los Angeles,On Leave,236.0,2
+1362,Michael,Smith,,HR,Manager,57429,2018-02-13,25,Boston,Active,7446.0,3
+1363,David,Gonzalez,emp1363@company.com,Finance,Director,46893,2022-10-16,22,Chicago,On Leave,,2
+1364,Lisa,Hernandez,emp1364@company.com,Finance,Manager,119909,2019-02-20,29,Austin,On Leave,15463.0,3
+1365,Emily,Wilson,emp1365@company.com,Finance,Junior,87333,2020-02-06,50,Chicago,Active,8555.0,3
+1366,Linda,Jones,emp1366@company.com,Engineering,Senior,43436,2020-06-22,60,Austin,Active,18752.0,2
+1367,Thomas,Martinez,emp1367@company.com,Marketing,Director,114290,2018-09-02,24,Seattle,Active,16669.0,3
+1368,Jane,Smith,emp1368@company.com,Marketing,Senior,116213,2021-07-11,53,Austin,Active,148.0,2
+1369,Lisa,Gonzalez,emp1369@company.com,Marketing,Director,45895,2015-01-11,31,Boston,Inactive,13395.0,4
+1370,Richard,Gonzalez,emp1370@company.com,HR,Mid-Level,59738,2023-09-06,31,Boston,Active,4895.0,5
+1371,Linda,Williams,emp1371@company.com,HR,Junior,70746,2023-03-21,40,Austin,Active,17396.0,2
+1372,Linda,Davis,emp1372@company.com,IT,Director,89377,2016-01-17,55,New York,On Leave,11023.0,5
+1373,James,Rodriguez,emp1373@company.com,Marketing,Junior,88404,2023-03-13,54,San Francisco,Active,10699.0,4
+1374,Jane,Hernandez,emp1374@company.com,Operations,Lead,94045,2020-02-21,44,Chicago,Active,9715.0,3
+1375,John,Davis,emp1375@company.com,Finance,Senior,137888,2022-02-13,49,Austin,Active,19169.0,2
+1376,William,Anderson,emp1376@company.com,Sales,Mid-Level,79790,2022-06-13,53,San Francisco,On Leave,16163.0,4
+1377,James,Jones,emp1377@company.com,IT,Lead,147455,2022-10-27,28,Boston,On Leave,5782.0,4
+1378,Linda,Williams,emp1378@company.com,Operations,Director,45600,2019-01-07,50,Boston,Active,18792.0,4
+1379,John,Martinez,emp1379@company.com,Operations,Manager,134660,2015-09-17,29,Seattle,Inactive,16724.0,2
+1380,Jane,Miller,emp1380@company.com,Marketing,Director,133179,2023-12-04,22,Seattle,Active,2817.0,2
+1381,Thomas,Hernandez,emp1381@company.com,Sales,Senior,80764,2020-12-29,24,Austin,Active,15096.0,3
+1382,Richard,Wilson,emp1382@company.com,Marketing,Director,114543,2019-06-18,45,New York,Inactive,18880.0,3
+1383,Linda,Davis,emp1383@company.com,Sales,Junior,85714,2017-06-11,44,Austin,Inactive,5299.0,3
+1384,Emily,Johnson,emp1384@company.com,Finance,Director,96835,2019-10-26,29,Chicago,Active,9917.0,3
+1385,Michael,Davis,emp1385@company.com,Operations,Senior,142946,2017-05-17,58,Seattle,Inactive,18073.0,4
+1386,Robert,Garcia,emp1386@company.com,HR,Senior,149616,2020-07-19,24,San Francisco,Active,3267.0,5
+1387,Lisa,Miller,emp1387@company.com,Marketing,Manager,145983,2018-01-04,54,New York,Active,4406.0,3
+1388,Lisa,Garcia,emp1388@company.com,Marketing,Mid-Level,113744,2018-08-15,49,Seattle,Active,17826.0,5
+1389,Emily,Garcia,emp1389@company.com,Operations,Mid-Level,96491,2018-03-07,29,Austin,On Leave,10382.0,3
+1390,Linda,Hernandez,emp1390@company.com,IT,Mid-Level,58589,2018-10-15,55,Chicago,Inactive,4437.0,3
+1391,Robert,Johnson,emp1391@company.com,Operations,Lead,83484,2021-02-19,56,Chicago,Inactive,5435.0,3
+1392,Thomas,Wilson,,Finance,Mid-Level,122989,2021-06-25,53,New York,Active,4107.0,4
+1393,John,Williams,emp1393@company.com,IT,Lead,76212,2016-06-18,45,Chicago,Inactive,560.0,5
+1394,Michael,Garcia,emp1394@company.com,Engineering,Director,83525,2021-05-07,35,Los Angeles,Active,12329.0,4
+1395,Robert,Miller,emp1395@company.com,Marketing,Manager,87202,2020-06-10,53,Los Angeles,Inactive,1826.0,3
+1396,John,Lopez,emp1396@company.com,Sales,Senior,72635,2023-11-03,64,Chicago,Inactive,11421.0,4
+1397,Robert,Davis,emp1397@company.com,Finance,Lead,103208,2018-11-08,37,Chicago,Active,12265.0,2
+1398,David,Jones,emp1398@company.com,Operations,Director,73828,2022-08-27,25,Chicago,Active,7629.0,5
+1399,Thomas,Hernandez,emp1399@company.com,Engineering,Manager,58711,2023-07-20,58,Los Angeles,Active,8325.0,4
+1400,Richard,Miller,emp1400@company.com,Marketing,Lead,43420,2015-07-18,42,Austin,Inactive,19522.0,3
+1401,Richard,Wilson,emp1401@company.com,Marketing,Manager,136752,2015-07-08,35,Los Angeles,Active,7693.0,4
+1402,Lisa,Gonzalez,emp1402@company.com,Operations,Director,40301,2016-02-12,52,Seattle,Active,8264.0,4
+1403,David,Rodriguez,emp1403@company.com,Operations,Mid-Level,85236,2022-01-08,39,Seattle,Active,12686.0,2
+1404,Robert,Smith,emp1404@company.com,Operations,Mid-Level,106235,2023-10-16,28,New York,Active,13716.0,4
+1405,Jennifer,Davis,emp1405@company.com,HR,Director,94240,2020-02-26,31,Los Angeles,Active,6721.0,3
+1406,Jennifer,Johnson,emp1406@company.com,Engineering,Manager,105726,2015-03-08,28,San Francisco,Active,19362.0,4
+1407,Richard,Garcia,emp1407@company.com,Finance,Junior,50492,2016-05-23,54,San Francisco,Active,7373.0,4
+1408,James,Jones,emp1408@company.com,Operations,Manager,141279,2016-10-09,44,Chicago,On Leave,5907.0,4
+1409,William,Garcia,,Sales,Lead,46102,2019-12-13,42,Seattle,Active,16127.0,4
+1410,Jennifer,Johnson,emp1410@company.com,Marketing,Manager,90336,2020-02-13,40,Austin,On Leave,5656.0,4
+1411,Lisa,Gonzalez,emp1411@company.com,Finance,Director,125314,2015-01-03,40,Los Angeles,Active,8984.0,2
+1412,Michael,Miller,emp1412@company.com,HR,Senior,66641,2019-10-19,57,Los Angeles,Active,8286.0,4
+1413,Emily,Wilson,emp1413@company.com,Operations,Junior,74584,2017-04-08,50,Chicago,Active,5901.0,3
+1414,David,Rodriguez,emp1414@company.com,IT,Manager,72745,2022-09-21,39,Chicago,Active,4917.0,3
+1415,Emily,Wilson,emp1415@company.com,Marketing,Junior,63093,2016-06-24,23,Seattle,Active,8429.0,3
+1416,John,Smith,emp1416@company.com,IT,Junior,106105,2022-04-16,22,Austin,Inactive,14716.0,2
+1417,Maria,Hernandez,emp1417@company.com,Engineering,Manager,143746,2018-05-21,26,Boston,Active,15795.0,4
+1418,Jennifer,Wilson,emp1418@company.com,Operations,Manager,140199,2016-10-13,41,Seattle,Active,11138.0,2
+1419,James,Rodriguez,emp1419@company.com,Operations,Mid-Level,91885,2018-01-27,32,New York,Active,2530.0,4
+1420,John,Davis,emp1420@company.com,IT,Manager,76631,2016-01-18,63,San Francisco,Active,18344.0,3
+1421,Jennifer,Miller,emp1421@company.com,Operations,Manager,112991,2022-05-05,23,Austin,Active,17432.0,1
+1422,Sarah,Smith,emp1422@company.com,Operations,Mid-Level,44014,2019-01-16,24,San Francisco,Inactive,5772.0,4
+1423,John,Brown,,Finance,Mid-Level,51093,2017-10-22,44,Los Angeles,Active,15476.0,1
+1424,John,Rodriguez,emp1424@company.com,Sales,Senior,58070,2015-12-04,33,Austin,On Leave,18913.0,3
+1425,Maria,Garcia,emp1425@company.com,Operations,Manager,75777,2019-03-04,41,Seattle,Active,15751.0,4
+1426,Lisa,Martinez,emp1426@company.com,Operations,Lead,96958,2022-06-14,26,Austin,Inactive,2964.0,2
+1427,James,Gonzalez,emp1427@company.com,HR,Junior,122074,2022-04-11,58,Los Angeles,Inactive,7137.0,4
+1428,Thomas,Davis,emp1428@company.com,Finance,Director,50729,2016-11-08,59,Boston,On Leave,17347.0,1
+1429,Linda,Hernandez,emp1429@company.com,Marketing,Mid-Level,139713,2015-08-01,51,Los Angeles,Active,16920.0,3
+1430,James,Davis,emp1430@company.com,Sales,Director,85017,2019-06-12,30,Chicago,Inactive,13891.0,4
+1431,Michael,Gonzalez,emp1431@company.com,Marketing,Manager,106320,2022-01-06,55,Los Angeles,On Leave,7340.0,3
+1432,John,Smith,emp1432@company.com,Marketing,Lead,67751,2018-06-05,56,New York,Active,7967.0,2
+1433,James,Brown,emp1433@company.com,Engineering,Junior,146400,2023-02-21,43,Boston,Inactive,12415.0,3
+1434,Jane,Jones,emp1434@company.com,Engineering,Manager,145864,2022-11-04,45,Los Angeles,Active,11871.0,3
+1435,Linda,Rodriguez,emp1435@company.com,Marketing,Lead,118069,2023-06-21,38,San Francisco,Active,11916.0,4
+1436,Michael,Williams,emp1436@company.com,IT,Junior,145647,2017-08-17,31,New York,On Leave,8734.0,3
+1437,Jane,Anderson,emp1437@company.com,HR,Lead,145510,2019-10-25,51,Chicago,Active,845.0,4
+1438,Maria,Jones,emp1438@company.com,Engineering,Mid-Level,94748,2022-05-08,44,Seattle,Active,19420.0,5
+1439,Jane,Davis,emp1439@company.com,Engineering,Manager,45801,2016-01-09,53,Boston,Inactive,2494.0,3
+1440,William,Anderson,emp1440@company.com,Engineering,Lead,59190,2022-11-22,38,Austin,Active,12677.0,5
+1441,Linda,Lopez,emp1441@company.com,Engineering,Lead,89689,2016-01-25,38,San Francisco,On Leave,19103.0,3
+1442,Emily,Davis,emp1442@company.com,Sales,Manager,144290,2015-01-05,35,Los Angeles,Active,18268.0,5
+1443,Robert,Johnson,emp1443@company.com,Marketing,Junior,90993,2017-05-24,30,Los Angeles,Active,12330.0,2
+1444,Jane,Smith,emp1444@company.com,IT,Manager,69592,2020-05-07,61,Boston,Active,5179.0,4
+1445,Thomas,Hernandez,emp1445@company.com,IT,Lead,50647,2015-11-16,23,Boston,Active,6610.0,3
+1446,Maria,Martinez,emp1446@company.com,Sales,Director,48716,2016-06-27,46,New York,Active,6430.0,3
+1447,Emily,Gonzalez,emp1447@company.com,Finance,Senior,128891,2021-08-28,60,San Francisco,Inactive,7154.0,4
+1448,Maria,Brown,emp1448@company.com,IT,Director,127545,2017-07-15,30,San Francisco,Active,13828.0,4
+1449,Maria,Lopez,emp1449@company.com,Finance,Junior,129912,2020-10-28,43,Los Angeles,Active,10145.0,1
+1450,John,Williams,emp1450@company.com,IT,Lead,110316,2022-08-17,64,San Francisco,Active,6488.0,2
+1451,Maria,Jones,emp1451@company.com,Operations,Senior,42368,2019-12-28,25,Los Angeles,On Leave,3850.0,4
+1452,Jane,Rodriguez,emp1452@company.com,Finance,Junior,117575,2015-02-08,47,New York,Active,17073.0,4
+1453,Robert,Smith,emp1453@company.com,Sales,Director,46655,2015-02-03,50,San Francisco,Active,13564.0,5
+1454,William,Rodriguez,emp1454@company.com,Operations,Mid-Level,146477,2022-10-20,55,New York,Inactive,5078.0,4
+1455,Maria,Miller,emp1455@company.com,Marketing,Manager,110031,2018-11-08,44,Austin,Active,12168.0,5
+1456,Maria,Johnson,emp1456@company.com,IT,Junior,116429,2016-05-08,58,New York,On Leave,5448.0,4
+1457,James,Brown,emp1457@company.com,Finance,Junior,131083,2019-09-26,32,Chicago,Active,17563.0,3
+1458,Sarah,Wilson,emp1458@company.com,Engineering,Lead,127922,2022-10-13,27,Seattle,Inactive,9074.0,2
+1459,Thomas,Anderson,emp1459@company.com,Finance,Senior,95766,2016-06-25,39,San Francisco,Active,6406.0,4
+1460,David,Johnson,emp1460@company.com,HR,Director,53403,2020-05-10,42,Chicago,Active,8800.0,4
+1461,Emily,Davis,emp1461@company.com,Engineering,Junior,72097,2015-10-18,63,Chicago,Inactive,14083.0,1
+1462,William,Johnson,emp1462@company.com,Engineering,Manager,118657,2017-07-26,57,Los Angeles,Inactive,1638.0,3
+1463,Jennifer,Hernandez,emp1463@company.com,Engineering,Junior,50966,2019-04-19,62,Austin,Inactive,10340.0,5
+1464,Sarah,Wilson,emp1464@company.com,IT,Junior,139157,2016-01-01,59,Boston,Active,1382.0,4
+1465,Emily,Williams,emp1465@company.com,Operations,Lead,133848,2023-03-13,55,Austin,Active,1403.0,3
+1466,David,Davis,emp1466@company.com,IT,Junior,92921,2016-02-24,38,Seattle,On Leave,9011.0,3
+1467,Robert,Anderson,emp1467@company.com,Finance,Senior,89726,2016-02-27,58,New York,On Leave,3292.0,3
+1468,Michael,Lopez,emp1468@company.com,IT,Lead,90300,2018-07-07,46,Seattle,Active,9011.0,3
+1469,William,Jones,emp1469@company.com,Engineering,Mid-Level,62677,2019-02-14,59,New York,Active,419.0,3
+1470,William,Rodriguez,emp1470@company.com,Operations,Mid-Level,95609,2018-05-10,33,San Francisco,Active,12411.0,2
+1471,David,Lopez,emp1471@company.com,HR,Director,136825,2016-07-15,44,Chicago,Active,4517.0,4
+1472,Lisa,Jones,emp1472@company.com,Sales,Director,96661,2019-04-17,63,Austin,On Leave,19686.0,3
+1473,Sarah,Miller,emp1473@company.com,HR,Director,71024,2023-09-04,43,Boston,On Leave,15422.0,4
+1474,Thomas,Wilson,emp1474@company.com,Marketing,Lead,148211,2023-06-12,42,Austin,Active,9700.0,5
+1475,Richard,Davis,emp1475@company.com,Operations,Senior,110313,2016-06-29,48,San Francisco,On Leave,5693.0,3
+1476,Thomas,Davis,emp1476@company.com,Operations,Lead,93006,2022-03-12,52,Los Angeles,On Leave,767.0,4
+1477,Jane,Brown,emp1477@company.com,Engineering,Lead,135285,2022-08-05,27,Austin,Active,18428.0,3
+1478,John,Davis,emp1478@company.com,HR,Lead,55338,2016-08-08,48,Boston,Active,14818.0,5
+1479,Lisa,Rodriguez,emp1479@company.com,Finance,Lead,108027,2015-10-08,61,Boston,Active,1549.0,3
+1480,Maria,Williams,emp1480@company.com,Marketing,Junior,132772,2020-12-12,55,Chicago,Inactive,9956.0,4
+1481,Maria,Miller,emp1481@company.com,IT,Director,120135,2021-04-26,33,Chicago,Inactive,6140.0,4
+1482,Jane,Brown,emp1482@company.com,Operations,Director,59508,2015-02-04,28,San Francisco,Inactive,10837.0,3
+1483,Jane,Anderson,emp1483@company.com,IT,Manager,43051,2021-11-04,31,Los Angeles,Active,3716.0,2
+1484,James,Martinez,emp1484@company.com,HR,Mid-Level,88747,2022-04-16,38,Chicago,Active,4481.0,4
+1485,Emily,Rodriguez,emp1485@company.com,Engineering,Director,127142,2016-11-03,47,Seattle,Active,6548.0,4
+1486,James,Lopez,emp1486@company.com,Finance,Senior,127235,2019-12-08,42,Los Angeles,Inactive,18677.0,3
+1487,David,Anderson,emp1487@company.com,Engineering,Junior,94021,2018-12-09,49,Seattle,On Leave,4837.0,4
+1488,Michael,Williams,emp1488@company.com,Marketing,Mid-Level,106412,2023-02-07,23,New York,Active,,3
+1489,Thomas,Wilson,emp1489@company.com,IT,Manager,98335,2017-05-22,64,Chicago,Active,10900.0,4
+1490,Sarah,Johnson,emp1490@company.com,IT,Lead,96179,2022-01-16,22,New York,Active,7993.0,2
+1491,Thomas,Jones,emp1491@company.com,HR,Manager,72093,2023-05-23,57,Austin,Active,5542.0,5
+1492,Jane,Gonzalez,emp1492@company.com,IT,Mid-Level,109678,2016-09-12,47,New York,On Leave,14828.0,3
+1493,Thomas,Gonzalez,emp1493@company.com,Engineering,Director,120738,2019-08-14,50,San Francisco,Active,16052.0,3
+1494,Emily,Wilson,emp1494@company.com,Marketing,Mid-Level,79734,2021-11-28,42,Los Angeles,Active,2385.0,2
+1495,Sarah,Miller,emp1495@company.com,Operations,Junior,112615,2022-09-13,32,Boston,Active,14308.0,2
+1496,David,Garcia,emp1496@company.com,Finance,Junior,113523,2019-12-18,61,Los Angeles,Active,671.0,4
+1497,Michael,Anderson,emp1497@company.com,HR,Senior,145103,2017-06-08,32,San Francisco,Inactive,163.0,3
+1498,Lisa,Gonzalez,emp1498@company.com,HR,Lead,134476,2015-12-22,57,Los Angeles,On Leave,8656.0,4
+1499,Linda,Rodriguez,emp1499@company.com,IT,Director,142769,2016-02-16,60,San Francisco,Active,11234.0,1
+1500,James,Jones,emp1500@company.com,Marketing,Director,57019,2016-07-27,61,Seattle,On Leave,4795.0,3
+1501,Jennifer,Wilson,emp1501@company.com,IT,Manager,123613,2023-06-10,56,San Francisco,Active,10634.0,3
+1502,David,Smith,emp1502@company.com,HR,Lead,131794,2016-05-19,55,Seattle,Inactive,4798.0,1
+1503,Maria,Jones,emp1503@company.com,Finance,Manager,126672,2021-08-11,45,San Francisco,On Leave,18739.0,2
+1504,Richard,Lopez,emp1504@company.com,Finance,Lead,113847,2023-03-10,43,Chicago,Active,10749.0,3
+1505,William,Jones,emp1505@company.com,HR,Mid-Level,122750,2019-04-22,26,Seattle,Active,5827.0,3
+1506,James,Wilson,emp1506@company.com,Engineering,Mid-Level,119634,2018-12-10,54,Austin,Inactive,4719.0,3
+1507,John,Martinez,emp1507@company.com,IT,Lead,68251,2019-10-25,57,Boston,Active,593.0,4
+1508,William,Martinez,emp1508@company.com,Engineering,Senior,143481,2018-07-12,41,New York,Active,7394.0,4
+1509,Linda,Hernandez,emp1509@company.com,IT,Mid-Level,65945,2023-11-15,40,Los Angeles,Active,14056.0,1
+1510,James,Davis,emp1510@company.com,Finance,Senior,130852,2016-07-26,56,Los Angeles,Active,19877.0,3
+1511,David,Wilson,emp1511@company.com,Engineering,Mid-Level,72217,2017-10-11,64,Los Angeles,Inactive,,5
+1512,Thomas,Williams,emp1512@company.com,IT,Director,48308,2018-02-08,38,Seattle,On Leave,19056.0,4
+1513,William,Davis,emp1513@company.com,Marketing,Junior,45949,2022-03-25,64,New York,Active,16.0,4
+1514,Jane,Rodriguez,emp1514@company.com,Sales,Junior,91990,2015-12-12,55,Austin,Active,3191.0,3
+1515,Thomas,Davis,emp1515@company.com,Operations,Director,41150,2017-10-13,30,San Francisco,Active,392.0,4
+1516,Michael,Garcia,emp1516@company.com,HR,Lead,129480,2021-03-16,47,Seattle,Active,6272.0,4
+1517,David,Garcia,emp1517@company.com,IT,Manager,140235,2021-09-27,23,San Francisco,Inactive,16955.0,4
+1518,Jane,Rodriguez,emp1518@company.com,Marketing,Junior,114740,2021-09-23,30,Boston,Inactive,3631.0,5
+1519,Thomas,Gonzalez,emp1519@company.com,Finance,Mid-Level,106617,2023-02-01,30,Los Angeles,Active,6172.0,2
+1520,Jane,Rodriguez,emp1520@company.com,Sales,Mid-Level,134841,2021-10-24,61,New York,Active,9312.0,1
+1521,Jennifer,Miller,emp1521@company.com,Operations,Junior,56896,2018-03-13,38,San Francisco,Active,18663.0,4
+1522,James,Davis,emp1522@company.com,IT,Junior,86175,2023-09-26,22,Chicago,On Leave,8906.0,4
+1523,Michael,Anderson,emp1523@company.com,Finance,Manager,47805,2022-09-29,46,Boston,Active,17159.0,2
+1524,David,Garcia,emp1524@company.com,IT,Junior,45237,2015-04-20,64,Los Angeles,Active,18631.0,3
+1525,David,Wilson,emp1525@company.com,Sales,Lead,60056,2022-05-20,61,Chicago,Active,16462.0,1
+1526,Maria,Brown,emp1526@company.com,Marketing,Manager,85543,2018-05-20,63,Seattle,Active,8080.0,3
+1527,Emily,Lopez,emp1527@company.com,Sales,Director,96556,2017-04-21,46,Seattle,Active,7099.0,4
+1528,Jennifer,Brown,emp1528@company.com,IT,Director,43343,2020-10-21,60,Seattle,Active,14916.0,4
+1529,Sarah,Martinez,,Engineering,Junior,53500,2021-10-21,56,Chicago,On Leave,7083.0,3
+1530,Emily,Miller,emp1530@company.com,Marketing,Mid-Level,93222,2020-09-18,24,Austin,Inactive,9223.0,3
+1531,William,Brown,emp1531@company.com,HR,Director,69375,2017-02-11,58,Austin,Active,4940.0,1
+1532,William,Wilson,emp1532@company.com,Finance,Junior,49662,2023-05-22,51,Los Angeles,Inactive,19655.0,3
+1533,Linda,Gonzalez,emp1533@company.com,Engineering,Lead,56964,2019-05-24,59,Chicago,On Leave,3456.0,4
+1534,David,Miller,emp1534@company.com,IT,Lead,99638,2018-04-25,55,Austin,Active,7788.0,5
+1535,James,Smith,emp1535@company.com,HR,Mid-Level,113666,2022-03-31,33,Chicago,On Leave,2711.0,4
+1536,Lisa,Garcia,emp1536@company.com,Sales,Manager,125067,2015-08-12,40,San Francisco,On Leave,11280.0,1
+1537,David,Lopez,emp1537@company.com,Engineering,Mid-Level,107215,2023-10-16,58,Austin,Active,18052.0,5
+1538,Thomas,Davis,emp1538@company.com,IT,Junior,109042,2023-11-26,38,Chicago,Active,16531.0,4
+1539,Thomas,Lopez,emp1539@company.com,HR,Mid-Level,53284,2017-09-07,31,Seattle,Active,12089.0,4
+1540,Linda,Anderson,emp1540@company.com,Marketing,Manager,112789,2020-07-20,33,Boston,Active,10142.0,3
+1541,John,Gonzalez,emp1541@company.com,Sales,Senior,124664,2019-04-30,37,Los Angeles,Active,16749.0,3
+1542,Jane,Miller,emp1542@company.com,HR,Mid-Level,133468,2016-04-06,45,Boston,Active,15587.0,3
+1543,William,Miller,emp1543@company.com,Sales,Director,101389,2017-09-14,40,Austin,Active,9866.0,2
+1544,Robert,Hernandez,emp1544@company.com,HR,Manager,49435,2020-08-08,29,Boston,Active,4531.0,3
+1545,Linda,Gonzalez,emp1545@company.com,Finance,Senior,94340,2022-02-26,52,New York,Inactive,12686.0,3
+1546,David,Wilson,emp1546@company.com,Marketing,Manager,84078,2021-08-29,42,New York,Inactive,5330.0,3
+1547,John,Hernandez,emp1547@company.com,Engineering,Manager,118832,2015-10-18,38,Boston,Inactive,5510.0,4
+1548,John,Williams,emp1548@company.com,HR,Director,91293,2020-12-03,44,Seattle,Active,8964.0,3
+1549,Sarah,Davis,,Sales,Senior,135981,2015-02-19,58,Los Angeles,Active,6493.0,2
+1550,Richard,Smith,emp1550@company.com,Marketing,Mid-Level,118781,2019-01-19,37,Los Angeles,Active,10759.0,5
+1551,Michael,Williams,emp1551@company.com,Engineering,Senior,100403,2018-07-20,27,Chicago,Active,5439.0,5
+1552,William,Rodriguez,emp1552@company.com,Sales,Mid-Level,69124,2016-06-24,29,Boston,Inactive,14473.0,4
+1553,David,Martinez,emp1553@company.com,Marketing,Director,135435,2019-05-04,46,Seattle,Inactive,9765.0,5
+1554,Michael,Garcia,emp1554@company.com,Sales,Manager,83919,2021-05-17,39,Boston,Active,13279.0,4
+1555,Jennifer,Wilson,emp1555@company.com,IT,Mid-Level,148761,2019-09-20,46,Boston,Active,6511.0,5
+1556,Lisa,Johnson,emp1556@company.com,Operations,Lead,75247,2019-02-05,33,Chicago,Active,11483.0,2
+1557,James,Wilson,emp1557@company.com,Operations,Senior,134758,2021-02-15,36,Chicago,Active,17630.0,3
+1558,Jennifer,Wilson,emp1558@company.com,Marketing,Senior,131747,2022-08-29,47,Seattle,Active,2376.0,3
+1559,Robert,Davis,emp1559@company.com,IT,Junior,102752,2016-12-08,62,New York,Active,19393.0,2
+1560,James,Johnson,emp1560@company.com,Engineering,Manager,96573,2023-07-22,47,Austin,Active,11824.0,2
+1561,John,Rodriguez,emp1561@company.com,Engineering,Manager,99101,2020-04-13,53,New York,On Leave,18211.0,4
+1562,Jane,Anderson,emp1562@company.com,Sales,Director,142756,2023-08-22,31,Chicago,Active,6979.0,4
+1563,Jane,Davis,emp1563@company.com,Marketing,Mid-Level,66646,2015-10-26,37,Chicago,Active,9832.0,4
+1564,Thomas,Smith,emp1564@company.com,IT,Director,144185,2015-03-10,28,Seattle,Inactive,12504.0,2
+1565,Jennifer,Lopez,emp1565@company.com,HR,Director,63049,2021-08-02,38,Chicago,On Leave,6910.0,4
+1566,Thomas,Williams,emp1566@company.com,Operations,Lead,119605,2015-10-04,44,Los Angeles,Active,14089.0,4
+1567,Michael,Miller,emp1567@company.com,IT,Manager,138116,2015-02-26,47,Chicago,Active,2196.0,3
+1568,James,Wilson,,Engineering,Lead,137379,2017-12-09,42,Chicago,Active,5978.0,4
+1569,John,Hernandez,emp1569@company.com,IT,Junior,108385,2017-06-02,43,Seattle,On Leave,17153.0,3
+1570,Linda,Williams,emp1570@company.com,Operations,Senior,80158,2015-06-13,28,Seattle,Active,780.0,3
+1571,Sarah,Johnson,emp1571@company.com,HR,Director,105417,2015-09-05,35,Seattle,Active,9908.0,5
+1572,Maria,Davis,emp1572@company.com,HR,Director,63289,2023-11-07,36,Chicago,Inactive,6303.0,3
+1573,James,Gonzalez,emp1573@company.com,Finance,Lead,140793,2019-06-19,28,San Francisco,Inactive,14686.0,3
+1574,Michael,Jones,emp1574@company.com,Sales,Manager,49823,2020-09-06,30,San Francisco,Active,3983.0,5
+1575,Robert,Garcia,emp1575@company.com,Sales,Senior,100160,2018-03-19,29,Boston,Inactive,9503.0,4
+1576,Michael,Martinez,emp1576@company.com,Sales,Director,81975,2022-01-18,44,Los Angeles,Active,16905.0,2
+1577,John,Lopez,emp1577@company.com,Marketing,Lead,49540,2022-12-28,50,San Francisco,Active,13070.0,2
+1578,David,Miller,emp1578@company.com,Engineering,Lead,56364,2020-08-14,39,New York,On Leave,12232.0,1
+1579,Sarah,Hernandez,emp1579@company.com,IT,Mid-Level,44611,2023-08-09,52,Los Angeles,Inactive,4583.0,4
+1580,Thomas,Johnson,emp1580@company.com,Engineering,Senior,67663,2019-08-29,51,Los Angeles,Active,5946.0,3
+1581,Thomas,Wilson,emp1581@company.com,Finance,Lead,91991,2019-10-01,60,Los Angeles,On Leave,16377.0,2
+1582,Richard,Garcia,emp1582@company.com,Operations,Mid-Level,97679,2022-11-14,56,Los Angeles,On Leave,7128.0,5
+1583,Linda,Wilson,emp1583@company.com,Finance,Manager,144182,2019-07-06,39,Boston,Active,11889.0,4
+1584,John,Hernandez,emp1584@company.com,Finance,Lead,70977,2015-12-04,63,Austin,On Leave,12275.0,3
+1585,Thomas,Wilson,emp1585@company.com,HR,Mid-Level,134704,2022-03-08,60,Seattle,Active,2461.0,4
+1586,Sarah,Rodriguez,emp1586@company.com,Sales,Mid-Level,89115,2021-01-06,38,Chicago,Active,14291.0,4
+1587,Emily,Miller,emp1587@company.com,IT,Senior,131007,2021-01-11,35,Seattle,On Leave,14036.0,2
+1588,William,Garcia,emp1588@company.com,Marketing,Director,128223,2021-11-28,52,San Francisco,Active,,3
+1589,Emily,Hernandez,emp1589@company.com,Engineering,Mid-Level,100890,2016-09-17,45,Seattle,On Leave,685.0,4
+1590,William,Lopez,emp1590@company.com,Marketing,Lead,106387,2018-02-10,56,New York,On Leave,18544.0,3
+1591,Jane,Anderson,emp1591@company.com,Sales,Junior,58071,2015-12-09,55,Seattle,Active,12258.0,4
+1592,Sarah,Gonzalez,emp1592@company.com,Sales,Manager,99275,2018-06-23,24,Austin,Inactive,15990.0,3
+1593,Richard,Davis,emp1593@company.com,Engineering,Lead,112369,2015-11-20,58,Chicago,Active,16422.0,1
+1594,James,Wilson,emp1594@company.com,HR,Lead,51938,2020-09-25,64,Chicago,Active,10736.0,2
+1595,Thomas,Rodriguez,emp1595@company.com,Operations,Manager,75195,2017-04-12,61,Austin,Active,4875.0,3
+1596,Linda,Smith,emp1596@company.com,IT,Manager,131680,2016-09-28,47,Austin,Active,17640.0,3
+1597,Robert,Martinez,emp1597@company.com,Finance,Mid-Level,44000,2021-01-06,44,Austin,On Leave,11182.0,1
+1598,Maria,Johnson,emp1598@company.com,HR,Lead,110588,2018-08-31,60,Seattle,Inactive,2196.0,4
+1599,Jennifer,Brown,emp1599@company.com,Sales,Mid-Level,141042,2019-05-20,36,New York,Active,7165.0,5
+1600,Michael,Hernandez,emp1600@company.com,Sales,Senior,133610,2021-07-30,25,Boston,Active,15997.0,4
+1601,Thomas,Hernandez,emp1601@company.com,IT,Mid-Level,143691,2022-02-11,50,Seattle,Active,14215.0,5
+1602,Thomas,Anderson,emp1602@company.com,HR,Senior,146306,2023-07-24,43,Boston,On Leave,301.0,3
+1603,Emily,Jones,emp1603@company.com,Finance,Director,137856,2022-04-15,46,Los Angeles,On Leave,17030.0,5
+1604,Linda,Brown,emp1604@company.com,Finance,Junior,78304,2022-08-21,34,San Francisco,Active,14571.0,2
+1605,Michael,Lopez,emp1605@company.com,Sales,Lead,109449,2022-03-19,39,Chicago,Active,9951.0,5
+1606,Richard,Johnson,emp1606@company.com,Operations,Senior,122986,2015-09-28,54,Seattle,Active,10773.0,5
+1607,Richard,Miller,emp1607@company.com,Finance,Junior,129643,2018-06-24,37,Seattle,On Leave,16140.0,4
+1608,Michael,Johnson,emp1608@company.com,Finance,Manager,60764,2022-11-01,63,San Francisco,Active,19921.0,5
+1609,Thomas,Gonzalez,emp1609@company.com,Engineering,Director,148940,2019-11-27,23,Seattle,Inactive,13057.0,4
+1610,Robert,Hernandez,emp1610@company.com,Operations,Mid-Level,126027,2023-03-09,56,Boston,Active,12500.0,3
+1611,John,Lopez,emp1611@company.com,Engineering,Junior,78494,2017-09-04,63,Seattle,On Leave,15921.0,3
+1612,Michael,Wilson,emp1612@company.com,Marketing,Senior,43373,2015-08-26,55,Los Angeles,Inactive,11870.0,4
+1613,Jennifer,Johnson,emp1613@company.com,HR,Lead,52161,2017-09-28,51,Austin,Active,4082.0,2
+1614,Thomas,Davis,emp1614@company.com,Sales,Director,137532,2015-12-20,34,Seattle,On Leave,13718.0,4
+1615,Sarah,Williams,emp1615@company.com,Finance,Manager,132658,2019-11-15,34,Chicago,Active,10517.0,5
+1616,Richard,Lopez,emp1616@company.com,Marketing,Manager,140386,2016-04-20,39,Boston,Active,3754.0,2
+1617,Thomas,Jones,emp1617@company.com,Engineering,Junior,67350,2020-02-01,53,Chicago,Active,1724.0,4
+1618,Robert,Anderson,emp1618@company.com,Finance,Junior,133008,2021-11-12,53,Los Angeles,Active,1376.0,5
+1619,Richard,Smith,emp1619@company.com,HR,Mid-Level,134297,2021-10-29,56,San Francisco,On Leave,8706.0,5
+1620,William,Smith,emp1620@company.com,Engineering,Manager,65351,2015-08-14,60,Los Angeles,On Leave,8894.0,5
+1621,Linda,Garcia,emp1621@company.com,Operations,Director,128668,2018-06-20,50,Seattle,Inactive,18037.0,4
+1622,Jennifer,Gonzalez,emp1622@company.com,Operations,Director,55305,2022-06-21,50,Boston,Active,18450.0,5
+1623,Richard,Smith,emp1623@company.com,Sales,Manager,115353,2023-04-26,37,San Francisco,Inactive,16406.0,4
+1624,Emily,Jones,emp1624@company.com,Finance,Mid-Level,116797,2022-05-19,31,Chicago,Inactive,18844.0,2
+1625,David,Garcia,emp1625@company.com,Marketing,Lead,105953,2023-04-22,51,New York,Active,5926.0,3
+1626,Michael,Garcia,emp1626@company.com,Sales,Mid-Level,97458,2016-12-20,46,Austin,Active,6251.0,4
+1627,Richard,Miller,emp1627@company.com,Finance,Senior,147112,2016-05-04,60,San Francisco,Active,9496.0,3
+1628,Jennifer,Williams,emp1628@company.com,Finance,Senior,60358,2015-02-21,41,Seattle,Active,3300.0,4
+1629,Jane,Brown,emp1629@company.com,Finance,Junior,43267,2022-12-09,26,Chicago,Active,8553.0,4
+1630,Robert,Rodriguez,emp1630@company.com,IT,Mid-Level,122745,2016-07-16,22,Seattle,Active,3727.0,2
+1631,Linda,Miller,emp1631@company.com,Finance,Mid-Level,129588,2022-11-13,51,Los Angeles,Active,16898.0,4
+1632,John,Martinez,emp1632@company.com,Finance,Director,78513,2015-02-16,24,Boston,Active,16832.0,4
+1633,Linda,Hernandez,emp1633@company.com,Sales,Junior,66092,2016-11-02,35,Los Angeles,Active,6019.0,3
+1634,Lisa,Gonzalez,emp1634@company.com,HR,Director,51338,2020-07-26,51,San Francisco,Active,15463.0,1
+1635,Emily,Williams,emp1635@company.com,IT,Lead,40412,2018-11-21,25,Seattle,Active,10047.0,1
+1636,Emily,Williams,emp1636@company.com,HR,Mid-Level,47543,2020-11-12,39,Chicago,Inactive,11754.0,3
+1637,Linda,Williams,emp1637@company.com,Sales,Director,145891,2020-10-19,58,Seattle,Active,2520.0,5
+1638,Thomas,Johnson,emp1638@company.com,Operations,Manager,73496,2023-10-13,46,New York,On Leave,3081.0,3
+1639,Lisa,Martinez,emp1639@company.com,HR,Director,100692,2023-01-31,22,San Francisco,Active,1428.0,4
+1640,Sarah,Wilson,emp1640@company.com,Marketing,Mid-Level,129084,2017-11-27,36,Chicago,Active,3967.0,3
+1641,David,Miller,emp1641@company.com,Marketing,Lead,132920,2016-11-14,30,San Francisco,Active,6445.0,3
+1642,Linda,Martinez,emp1642@company.com,Operations,Mid-Level,84425,2019-03-04,36,Seattle,Active,14566.0,4
+1643,Richard,Hernandez,emp1643@company.com,Sales,Manager,78756,2016-06-03,45,Los Angeles,Active,14042.0,4
+1644,Linda,Brown,emp1644@company.com,Marketing,Senior,58888,2023-05-30,25,Chicago,Active,11329.0,2
+1645,Emily,Davis,emp1645@company.com,IT,Senior,75735,2023-10-05,33,Austin,Inactive,2159.0,3
+1646,Emily,Anderson,emp1646@company.com,Sales,Lead,87295,2018-01-05,58,Los Angeles,Active,5132.0,1
+1647,John,Martinez,emp1647@company.com,Marketing,Lead,123042,2023-03-22,58,Chicago,Active,18931.0,3
+1648,William,Williams,emp1648@company.com,Engineering,Manager,125999,2016-04-28,64,Chicago,Inactive,19363.0,4
+1649,Emily,Brown,,Operations,Director,57955,2023-08-26,27,Chicago,On Leave,14933.0,2
+1650,Robert,Davis,emp1650@company.com,Operations,Senior,77841,2015-05-01,60,Boston,Inactive,10473.0,3
+1651,Sarah,Hernandez,emp1651@company.com,Operations,Senior,110640,2018-10-04,45,Chicago,Active,19033.0,3
+1652,David,Jones,emp1652@company.com,Sales,Senior,105510,2019-10-25,32,Austin,Inactive,10805.0,5
+1653,Linda,Davis,emp1653@company.com,IT,Senior,74911,2018-01-19,34,Los Angeles,Active,3083.0,5
+1654,Jane,Jones,emp1654@company.com,Finance,Manager,99031,2020-11-15,55,New York,On Leave,17421.0,1
+1655,Richard,Hernandez,emp1655@company.com,Operations,Lead,128726,2015-09-19,46,Austin,On Leave,13944.0,4
+1656,David,Smith,emp1656@company.com,IT,Lead,47357,2017-12-13,28,New York,On Leave,19873.0,3
+1657,Sarah,Anderson,emp1657@company.com,Marketing,Junior,72479,2022-12-27,25,Los Angeles,Active,7604.0,3
+1658,William,Gonzalez,emp1658@company.com,Engineering,Director,101476,2021-06-19,29,Seattle,Active,15379.0,4
+1659,James,Davis,emp1659@company.com,Sales,Lead,84811,2022-01-14,41,Boston,Inactive,19018.0,5
+1660,Robert,Anderson,emp1660@company.com,Marketing,Senior,76208,2015-11-12,50,Boston,Active,3983.0,5
+1661,William,Jones,emp1661@company.com,Finance,Mid-Level,60150,2020-07-25,31,Boston,Active,1778.0,4
+1662,Linda,Hernandez,emp1662@company.com,Marketing,Senior,111180,2020-02-08,64,New York,On Leave,5110.0,3
+1663,James,Rodriguez,emp1663@company.com,IT,Senior,83286,2020-09-23,55,Austin,Inactive,12087.0,4
+1664,Sarah,Williams,emp1664@company.com,Operations,Lead,108450,2019-01-15,47,San Francisco,Active,17508.0,3
+1665,John,Johnson,emp1665@company.com,Engineering,Junior,61352,2015-08-16,62,Boston,On Leave,17081.0,4
+1666,Jane,Davis,emp1666@company.com,IT,Manager,95069,2020-08-08,24,New York,Active,2179.0,3
+1667,Thomas,Garcia,emp1667@company.com,IT,Mid-Level,54397,2021-05-10,27,Los Angeles,Active,9596.0,4
+1668,David,Martinez,emp1668@company.com,Operations,Director,81555,2016-11-14,26,Seattle,Active,5251.0,3
+1669,Michael,Jones,emp1669@company.com,HR,Mid-Level,86959,2019-02-15,26,Austin,On Leave,9235.0,2
+1670,Maria,Hernandez,emp1670@company.com,Operations,Junior,40728,2016-10-06,44,Boston,Active,18313.0,5
+1671,David,Miller,emp1671@company.com,HR,Senior,90517,2017-11-10,30,Chicago,Active,14871.0,2
+1672,John,Lopez,emp1672@company.com,Operations,Manager,106234,2023-09-03,56,Austin,Active,1013.0,4
+1673,Jane,Jones,emp1673@company.com,Engineering,Manager,79954,2016-02-26,41,New York,Active,16610.0,3
+1674,Maria,Davis,emp1674@company.com,IT,Manager,87280,2021-06-08,63,Los Angeles,Active,1828.0,1
+1675,Robert,Wilson,emp1675@company.com,Engineering,Director,119459,2022-07-24,56,Los Angeles,On Leave,7909.0,1
+1676,Sarah,Jones,emp1676@company.com,Sales,Lead,56779,2023-02-08,39,San Francisco,Active,5588.0,2
+1677,Jennifer,Brown,emp1677@company.com,Operations,Senior,103932,2016-04-17,38,San Francisco,On Leave,13109.0,5
+1678,Richard,Miller,emp1678@company.com,IT,Mid-Level,112936,2017-07-24,45,San Francisco,Active,2023.0,3
+1679,Sarah,Wilson,emp1679@company.com,HR,Mid-Level,64466,2023-04-23,24,Chicago,Active,14537.0,5
+1680,Robert,Davis,emp1680@company.com,Sales,Senior,76939,2020-09-15,53,Austin,Active,5891.0,4
+1681,Maria,Johnson,emp1681@company.com,Marketing,Mid-Level,109896,2015-01-11,56,Boston,Active,1080.0,3
+1682,James,Brown,emp1682@company.com,Engineering,Lead,75270,2015-06-30,59,Austin,Active,5036.0,4
+1683,Jane,Miller,emp1683@company.com,Sales,Manager,99163,2015-02-20,34,San Francisco,On Leave,15379.0,4
+1684,Robert,Martinez,emp1684@company.com,IT,Mid-Level,122637,2017-09-28,46,Chicago,Inactive,10822.0,4
+1685,Thomas,Garcia,emp1685@company.com,Engineering,Lead,91934,2015-07-08,30,Los Angeles,Active,2563.0,3
+1686,Maria,Martinez,emp1686@company.com,Sales,Manager,104895,2020-04-16,25,Seattle,Active,3292.0,3
+1687,Emily,Jones,emp1687@company.com,Marketing,Director,72307,2019-01-30,35,San Francisco,Active,3586.0,5
+1688,David,Lopez,emp1688@company.com,Marketing,Director,94098,2019-04-18,58,Los Angeles,Active,16087.0,5
+1689,John,Jones,emp1689@company.com,Finance,Senior,100921,2016-09-06,55,New York,Active,16100.0,5
+1690,Jennifer,Smith,,HR,Senior,45486,2017-01-03,32,Austin,Active,6643.0,3
+1691,Robert,Wilson,emp1691@company.com,IT,Lead,48335,2015-05-25,62,Chicago,On Leave,3959.0,4
+1692,John,Hernandez,emp1692@company.com,Finance,Director,126900,2021-03-14,24,Seattle,Inactive,11005.0,3
+1693,James,Miller,emp1693@company.com,HR,Director,142795,2023-01-03,49,San Francisco,Active,10775.0,3
+1694,Thomas,Jones,,Marketing,Director,129112,2023-04-22,50,Chicago,Inactive,161.0,3
+1695,Richard,Smith,emp1695@company.com,Sales,Lead,137203,2022-05-09,30,Seattle,Active,16029.0,4
+1696,James,Martinez,emp1696@company.com,IT,Lead,51130,2019-09-14,24,New York,Active,16977.0,2
+1697,William,Wilson,emp1697@company.com,Operations,Mid-Level,127508,2017-07-08,46,New York,Active,14226.0,3
+1698,Jennifer,Hernandez,emp1698@company.com,Engineering,Director,145955,2018-08-11,55,Austin,Inactive,11154.0,5
+1699,Jennifer,Gonzalez,emp1699@company.com,Marketing,Senior,100566,2017-10-13,33,Chicago,Active,12080.0,3
+1700,Jennifer,Lopez,emp1700@company.com,Marketing,Mid-Level,106703,2019-09-01,63,San Francisco,Active,,2
+1701,William,Smith,emp1701@company.com,IT,Mid-Level,67192,2023-01-29,30,Los Angeles,Inactive,5997.0,2
+1702,Emily,Anderson,emp1702@company.com,IT,Director,41062,2018-08-03,36,Los Angeles,Active,12693.0,5
+1703,Sarah,Martinez,emp1703@company.com,Sales,Manager,124076,2018-01-16,61,San Francisco,Active,17047.0,4
+1704,Robert,Lopez,emp1704@company.com,IT,Lead,129780,2015-11-16,46,Boston,Active,9324.0,3
+1705,Jane,Davis,emp1705@company.com,Operations,Mid-Level,61545,2021-05-30,26,Los Angeles,On Leave,541.0,4
+1706,William,Wilson,emp1706@company.com,Marketing,Manager,61689,2019-03-08,32,San Francisco,Active,5093.0,4
+1707,Thomas,Anderson,emp1707@company.com,Marketing,Director,51174,2016-05-04,55,Austin,Inactive,13428.0,3
+1708,Sarah,Anderson,emp1708@company.com,Sales,Junior,128461,2020-08-18,45,Los Angeles,Active,11166.0,4
+1709,Maria,Jones,emp1709@company.com,IT,Manager,143033,2022-07-20,36,Los Angeles,Active,17251.0,4
+1710,Sarah,Gonzalez,emp1710@company.com,Marketing,Junior,49348,2015-08-04,59,Los Angeles,Active,16063.0,4
+1711,William,Gonzalez,emp1711@company.com,HR,Junior,63714,2017-01-04,29,New York,Active,10258.0,2
+1712,Linda,Brown,emp1712@company.com,HR,Director,78102,2017-07-03,26,San Francisco,Active,16044.0,5
+1713,Jane,Martinez,emp1713@company.com,Operations,Junior,114460,2020-10-13,47,Boston,On Leave,5469.0,4
+1714,Jennifer,Gonzalez,emp1714@company.com,HR,Junior,142634,2015-07-08,39,Austin,On Leave,6256.0,3
+1715,Thomas,Garcia,emp1715@company.com,HR,Lead,129930,2019-07-01,27,Seattle,Active,10720.0,3
+1716,David,Brown,emp1716@company.com,Marketing,Mid-Level,46801,2015-10-10,58,Austin,Active,1169.0,1
+1717,James,Hernandez,emp1717@company.com,Engineering,Director,143150,2020-03-20,34,Austin,Inactive,830.0,2
+1718,David,Brown,,HR,Mid-Level,112267,2018-03-02,49,Austin,On Leave,1651.0,4
+1719,William,Martinez,,Operations,Junior,88136,2023-09-04,26,Austin,Active,17520.0,1
+1720,Robert,Jones,emp1720@company.com,HR,Director,63625,2018-06-26,34,Austin,On Leave,19194.0,3
+1721,Sarah,Hernandez,emp1721@company.com,Marketing,Mid-Level,122873,2018-09-02,38,New York,Active,9518.0,4
+1722,Robert,Gonzalez,emp1722@company.com,IT,Junior,140843,2015-12-20,61,New York,Active,13258.0,2
+1723,Jennifer,Lopez,emp1723@company.com,Finance,Mid-Level,112592,2021-03-15,53,Boston,Active,16184.0,5
+1724,David,Gonzalez,emp1724@company.com,Marketing,Manager,117052,2020-02-14,50,San Francisco,Active,1019.0,3
+1725,James,Hernandez,emp1725@company.com,IT,Lead,84261,2015-02-02,24,Seattle,Active,10028.0,3
+1726,Michael,Hernandez,emp1726@company.com,Sales,Senior,41542,2019-02-20,61,Chicago,On Leave,12448.0,3
+1727,Emily,Wilson,emp1727@company.com,Operations,Junior,61677,2017-04-01,55,New York,Active,12485.0,3
+1728,Robert,Williams,emp1728@company.com,HR,Manager,86732,2018-04-09,61,Chicago,On Leave,1283.0,1
+1729,William,Hernandez,emp1729@company.com,Sales,Director,90343,2021-04-28,48,Los Angeles,On Leave,17043.0,4
+1730,Robert,Johnson,emp1730@company.com,HR,Director,79081,2023-10-19,34,Los Angeles,Inactive,18394.0,5
+1731,William,Anderson,emp1731@company.com,Finance,Manager,102856,2018-05-29,54,Boston,Active,1733.0,3
+1732,Jennifer,Hernandez,emp1732@company.com,IT,Lead,133105,2023-04-18,27,San Francisco,Inactive,18509.0,4
+1733,Thomas,Hernandez,emp1733@company.com,Engineering,Director,128858,2021-12-25,45,New York,Inactive,18555.0,4
+1734,Michael,Smith,emp1734@company.com,Finance,Lead,59065,2017-09-20,40,Seattle,Inactive,16230.0,4
+1735,Maria,Jones,emp1735@company.com,Marketing,Junior,123460,2020-03-15,37,New York,Active,14472.0,3
+1736,Maria,Gonzalez,emp1736@company.com,Marketing,Junior,128092,2019-02-17,61,Seattle,Active,12889.0,3
+1737,David,Davis,emp1737@company.com,Sales,Manager,94693,2021-08-20,49,Seattle,Active,3471.0,3
+1738,Robert,Smith,emp1738@company.com,Sales,Manager,66962,2020-07-13,54,San Francisco,Active,9028.0,4
+1739,James,Martinez,emp1739@company.com,Marketing,Lead,68295,2023-08-31,62,San Francisco,On Leave,8329.0,4
+1740,Linda,Garcia,emp1740@company.com,Operations,Junior,53807,2023-09-14,34,Seattle,Active,2097.0,2
+1741,John,Lopez,emp1741@company.com,Marketing,Junior,82348,2017-03-11,64,Chicago,Active,14082.0,3
+1742,David,Williams,emp1742@company.com,Marketing,Manager,66432,2023-03-20,46,Chicago,Active,13930.0,5
+1743,David,Johnson,emp1743@company.com,HR,Director,123285,2021-02-16,63,San Francisco,Active,10077.0,4
+1744,Emily,Anderson,emp1744@company.com,Finance,Senior,146995,2023-07-12,57,New York,Active,6397.0,5
+1745,Robert,Jones,emp1745@company.com,Operations,Manager,131792,2023-12-05,48,Austin,On Leave,2757.0,4
+1746,Richard,Garcia,emp1746@company.com,HR,Senior,97854,2017-10-01,59,Boston,Active,18284.0,3
+1747,Maria,Lopez,emp1747@company.com,Engineering,Junior,80262,2016-09-08,28,Boston,On Leave,18994.0,4
+1748,Maria,Miller,emp1748@company.com,Operations,Manager,77080,2015-01-27,26,Chicago,Active,17833.0,4
+1749,William,Williams,emp1749@company.com,HR,Director,41324,2019-08-07,64,San Francisco,On Leave,5017.0,2
+1750,Sarah,Brown,emp1750@company.com,Marketing,Director,131267,2015-04-08,52,New York,Inactive,16370.0,4
+1751,Lisa,Williams,emp1751@company.com,HR,Lead,75909,2017-08-12,44,Los Angeles,On Leave,7999.0,4
+1752,Lisa,Gonzalez,emp1752@company.com,Sales,Mid-Level,129339,2021-01-27,63,New York,Active,10195.0,2
+1753,Lisa,Rodriguez,emp1753@company.com,Operations,Junior,59870,2018-11-19,31,Chicago,Active,2096.0,4
+1754,William,Anderson,emp1754@company.com,IT,Junior,74578,2022-02-17,53,Chicago,Inactive,,4
+1755,Emily,Garcia,emp1755@company.com,Marketing,Manager,112124,2022-10-11,64,Austin,Inactive,,5
+1756,James,Rodriguez,emp1756@company.com,Finance,Mid-Level,143605,2015-02-09,51,Seattle,Active,15941.0,1
+1757,Lisa,Rodriguez,emp1757@company.com,HR,Mid-Level,66790,2018-10-04,60,Boston,Active,19715.0,3
+1758,Richard,Anderson,emp1758@company.com,Marketing,Mid-Level,65289,2015-01-06,52,Boston,On Leave,15078.0,4
+1759,Thomas,Jones,emp1759@company.com,Operations,Manager,95129,2023-07-06,39,Boston,On Leave,5105.0,3
+1760,Richard,Wilson,emp1760@company.com,IT,Manager,133714,2022-05-16,57,Chicago,Active,19362.0,4
+1761,Jennifer,Williams,emp1761@company.com,Sales,Senior,134246,2019-03-22,23,Austin,Active,2839.0,4
+1762,Michael,Jones,emp1762@company.com,Sales,Senior,55485,2023-04-12,35,Seattle,Active,3384.0,2
+1763,William,Anderson,emp1763@company.com,Operations,Senior,84482,2023-02-26,34,San Francisco,Active,10851.0,4
+1764,Jane,Wilson,emp1764@company.com,Operations,Lead,126188,2018-06-13,50,Chicago,Active,10053.0,4
+1765,David,Davis,emp1765@company.com,HR,Junior,44748,2016-03-01,33,Austin,Active,,3
+1766,James,Gonzalez,emp1766@company.com,Marketing,Senior,126769,2017-04-20,60,Chicago,Active,17069.0,5
+1767,William,Jones,,Finance,Lead,49435,2020-12-10,23,Los Angeles,Active,14139.0,4
+1768,William,Lopez,emp1768@company.com,IT,Lead,43709,2017-09-02,53,San Francisco,On Leave,7531.0,4
+1769,Maria,Wilson,emp1769@company.com,Operations,Manager,70355,2019-09-16,34,San Francisco,On Leave,4283.0,4
+1770,Sarah,Garcia,emp1770@company.com,Operations,Mid-Level,95771,2020-07-08,48,Los Angeles,Inactive,7736.0,3
+1771,Jane,Gonzalez,emp1771@company.com,Engineering,Director,97799,2015-09-03,62,Austin,Active,7710.0,5
+1772,Linda,Johnson,emp1772@company.com,Sales,Mid-Level,53116,2016-08-06,38,New York,Active,1619.0,4
+1773,Richard,Davis,emp1773@company.com,Engineering,Senior,65470,2022-12-24,61,San Francisco,On Leave,13975.0,4
+1774,Emily,Johnson,emp1774@company.com,IT,Director,82344,2018-02-20,52,San Francisco,Active,12835.0,5
+1775,William,Williams,emp1775@company.com,Finance,Junior,82918,2016-01-17,55,Seattle,Active,15261.0,3
+1776,David,Gonzalez,emp1776@company.com,Operations,Director,92224,2015-06-29,45,San Francisco,Active,1431.0,4
+1777,Emily,Brown,emp1777@company.com,IT,Director,79298,2017-08-06,56,San Francisco,On Leave,9067.0,2
+1778,Richard,Wilson,emp1778@company.com,HR,Junior,148492,2020-10-29,27,Seattle,On Leave,4713.0,3
+1779,Emily,Hernandez,emp1779@company.com,Sales,Junior,120219,2019-08-19,40,New York,Active,9557.0,3
+1780,Michael,Lopez,emp1780@company.com,Engineering,Lead,101629,2022-11-10,51,Boston,On Leave,9435.0,5
+1781,John,Hernandez,emp1781@company.com,Sales,Lead,106040,2019-03-06,28,Boston,On Leave,4998.0,5
+1782,John,Miller,emp1782@company.com,Engineering,Lead,139518,2020-02-21,31,San Francisco,Active,162.0,4
+1783,Emily,Wilson,emp1783@company.com,IT,Manager,139835,2023-05-22,62,New York,Active,1974.0,4
+1784,Lisa,Gonzalez,emp1784@company.com,Operations,Lead,68016,2015-12-14,53,Chicago,Active,19675.0,4
+1785,Maria,Rodriguez,emp1785@company.com,Marketing,Junior,63960,2021-07-06,55,Seattle,Inactive,8461.0,5
+1786,Linda,Garcia,emp1786@company.com,Marketing,Director,73591,2016-01-27,49,Seattle,Active,17015.0,3
+1787,Richard,Johnson,emp1787@company.com,HR,Junior,122848,2020-09-01,36,Los Angeles,On Leave,17289.0,3
+1788,Jane,Gonzalez,emp1788@company.com,Finance,Director,143333,2016-06-30,51,New York,On Leave,2014.0,2
+1789,Lisa,Miller,emp1789@company.com,Sales,Mid-Level,107641,2022-02-23,58,Austin,Active,9833.0,4
+1790,Robert,Smith,emp1790@company.com,Finance,Junior,76395,2019-06-04,50,Seattle,Inactive,7896.0,4
+1791,Thomas,Jones,emp1791@company.com,Engineering,Lead,62700,2015-11-03,43,Chicago,Inactive,204.0,3
+1792,William,Rodriguez,emp1792@company.com,Operations,Lead,74620,2021-08-21,25,Los Angeles,Active,16965.0,1
+1793,Maria,Johnson,emp1793@company.com,HR,Director,143214,2021-05-14,41,Boston,On Leave,9032.0,4
+1794,Emily,Davis,emp1794@company.com,Marketing,Senior,60559,2015-09-13,53,Boston,Active,5347.0,1
+1795,Jennifer,Garcia,emp1795@company.com,Marketing,Manager,133045,2019-11-17,57,New York,Active,2643.0,4
+1796,Jennifer,Hernandez,emp1796@company.com,HR,Junior,133396,2022-06-06,25,Boston,Active,8017.0,5
+1797,Robert,Lopez,emp1797@company.com,IT,Manager,101642,2016-06-19,48,New York,Inactive,18681.0,3
+1798,Lisa,Hernandez,emp1798@company.com,Sales,Junior,116539,2017-08-27,38,Seattle,On Leave,17258.0,3
+1799,Robert,Jones,emp1799@company.com,Finance,Mid-Level,61732,2018-04-09,33,New York,Active,5560.0,4
+1800,Emily,Martinez,emp1800@company.com,Engineering,Mid-Level,131362,2017-12-05,43,Seattle,Active,15892.0,4
+1801,Michael,Miller,emp1801@company.com,Finance,Director,70354,2018-07-14,38,Los Angeles,Active,14531.0,4
+1802,William,Wilson,emp1802@company.com,Marketing,Manager,53843,2023-12-25,31,New York,Active,17073.0,5
+1803,Jennifer,Hernandez,emp1803@company.com,HR,Lead,111726,2019-05-29,22,New York,Active,4000.0,2
+1804,John,Garcia,emp1804@company.com,Marketing,Senior,57640,2022-11-10,43,Seattle,On Leave,14289.0,4
+1805,Thomas,Johnson,emp1805@company.com,Operations,Junior,92528,2023-04-01,47,New York,Inactive,17055.0,4
+1806,Richard,Hernandez,emp1806@company.com,Marketing,Junior,78413,2018-08-29,39,Austin,Inactive,7927.0,5
+1807,Linda,Brown,emp1807@company.com,Engineering,Director,92638,2018-07-26,35,Austin,On Leave,15562.0,2
+1808,Richard,Davis,,Sales,Senior,92736,2020-01-29,50,Austin,Active,1171.0,4
+1809,Thomas,Smith,emp1809@company.com,Sales,Manager,147892,2018-01-18,33,New York,Active,11918.0,4
+1810,Jane,Martinez,emp1810@company.com,Operations,Manager,146357,2017-08-14,57,Boston,Active,9135.0,3
+1811,Richard,Anderson,emp1811@company.com,Engineering,Director,108866,2015-11-02,56,Chicago,Active,6342.0,2
+1812,Robert,Rodriguez,emp1812@company.com,HR,Junior,59087,2017-04-10,33,Austin,Active,17833.0,5
+1813,Emily,Garcia,emp1813@company.com,Finance,Mid-Level,81430,2016-07-11,28,Seattle,Active,11929.0,2
+1814,Michael,Anderson,emp1814@company.com,HR,Senior,64504,2023-09-30,50,San Francisco,Active,2539.0,3
+1815,Richard,Martinez,emp1815@company.com,Finance,Junior,47114,2023-08-21,32,San Francisco,Active,3959.0,3
+1816,Jennifer,Brown,emp1816@company.com,Sales,Mid-Level,118859,2021-07-22,54,Seattle,On Leave,13183.0,5
+1817,James,Hernandez,emp1817@company.com,Marketing,Manager,139657,2016-03-22,27,Seattle,On Leave,5432.0,4
+1818,Lisa,Johnson,emp1818@company.com,IT,Mid-Level,50975,2016-09-28,36,Seattle,Active,18745.0,4
+1819,John,Hernandez,emp1819@company.com,Marketing,Director,51023,2016-03-08,53,New York,Active,1753.0,3
+1820,James,Wilson,,Operations,Lead,61447,2016-11-04,32,Chicago,Active,18322.0,4
+1821,Emily,Davis,emp1821@company.com,HR,Junior,130469,2020-01-16,44,Austin,Active,10123.0,4
+1822,Thomas,Anderson,emp1822@company.com,Engineering,Senior,63959,2020-03-23,47,Seattle,Inactive,16376.0,4
+1823,Linda,Lopez,emp1823@company.com,Finance,Mid-Level,106203,2018-07-10,55,New York,Inactive,6588.0,5
+1824,Jane,Jones,emp1824@company.com,Marketing,Manager,69703,2019-07-24,55,Seattle,Active,6304.0,1
+1825,Lisa,Hernandez,emp1825@company.com,Operations,Mid-Level,49337,2016-05-09,50,Boston,On Leave,7345.0,4
+1826,Michael,Miller,emp1826@company.com,HR,Manager,86427,2021-01-04,25,Chicago,On Leave,15352.0,2
+1827,Richard,Johnson,emp1827@company.com,Engineering,Lead,101529,2019-01-07,38,Boston,Active,597.0,4
+1828,Lisa,Williams,emp1828@company.com,Sales,Director,142023,2023-08-22,56,Boston,On Leave,19446.0,3
+1829,William,Smith,emp1829@company.com,Engineering,Manager,124665,2017-04-30,34,Seattle,Active,2336.0,3
+1830,James,Smith,emp1830@company.com,IT,Senior,145787,2020-01-26,62,San Francisco,Active,9879.0,3
+1831,James,Jones,emp1831@company.com,Sales,Lead,71921,2018-06-16,60,Austin,Inactive,572.0,4
+1832,Maria,Davis,emp1832@company.com,HR,Director,73307,2020-03-12,36,Los Angeles,Active,7521.0,3
+1833,Sarah,Johnson,emp1833@company.com,Engineering,Mid-Level,67355,2017-12-21,50,New York,Inactive,6171.0,4
+1834,Richard,Johnson,emp1834@company.com,Operations,Director,143268,2016-05-06,50,Boston,Active,18474.0,3
+1835,Thomas,Brown,emp1835@company.com,HR,Director,44835,2016-01-06,32,Seattle,Active,13992.0,2
+1836,Lisa,Anderson,emp1836@company.com,Sales,Junior,60159,2016-10-07,53,Boston,Active,11861.0,4
+1837,Maria,Rodriguez,emp1837@company.com,IT,Manager,144346,2022-09-11,23,New York,Active,12464.0,3
+1838,Linda,Williams,emp1838@company.com,Operations,Director,87605,2018-05-31,35,Chicago,Active,1633.0,3
+1839,Jennifer,Miller,emp1839@company.com,IT,Senior,145616,2022-11-26,41,New York,Active,17901.0,4
+1840,Thomas,Davis,emp1840@company.com,Marketing,Junior,78088,2022-10-25,43,Los Angeles,Inactive,12485.0,3
+1841,James,Garcia,,Operations,Junior,118752,2021-10-07,32,New York,On Leave,10849.0,2
+1842,Robert,Hernandez,emp1842@company.com,Marketing,Lead,95284,2015-06-15,48,Austin,Active,3648.0,3
+1843,Linda,Lopez,emp1843@company.com,Operations,Mid-Level,97043,2017-05-30,24,San Francisco,Active,15177.0,5
+1844,Thomas,Lopez,emp1844@company.com,Sales,Junior,75547,2018-09-04,38,Boston,On Leave,13140.0,4
+1845,James,Rodriguez,emp1845@company.com,Finance,Senior,137007,2016-08-30,49,San Francisco,Active,17921.0,4
+1846,Lisa,Miller,emp1846@company.com,Finance,Manager,122844,2016-01-09,50,Los Angeles,On Leave,14357.0,4
+1847,Thomas,Martinez,emp1847@company.com,Marketing,Manager,67532,2022-12-22,42,Chicago,Active,13368.0,2
+1848,Michael,Lopez,emp1848@company.com,Marketing,Manager,74349,2017-10-13,37,Los Angeles,On Leave,3137.0,3
+1849,Jennifer,Lopez,emp1849@company.com,IT,Lead,85445,2018-12-28,58,Boston,Active,97.0,4
+1850,Linda,Williams,emp1850@company.com,Engineering,Senior,45713,2019-06-12,41,San Francisco,Inactive,11407.0,2
+1851,Lisa,Anderson,emp1851@company.com,Operations,Junior,96178,2020-10-04,27,Chicago,Active,12722.0,3
+1852,Lisa,Miller,emp1852@company.com,Operations,Director,89407,2015-07-20,40,Seattle,Active,12924.0,3
+1853,David,Hernandez,,Operations,Senior,110340,2022-08-05,26,Austin,Active,3750.0,3
+1854,Richard,Johnson,emp1854@company.com,Operations,Lead,90990,2018-05-09,24,Chicago,On Leave,8535.0,5
+1855,Emily,Wilson,emp1855@company.com,Engineering,Lead,115672,2017-12-01,22,San Francisco,On Leave,4666.0,2
+1856,Linda,Davis,emp1856@company.com,IT,Mid-Level,105545,2016-12-13,59,New York,Active,16009.0,4
+1857,William,Martinez,emp1857@company.com,Marketing,Senior,124791,2015-05-08,36,Boston,Active,16994.0,2
+1858,David,Miller,emp1858@company.com,Finance,Manager,98141,2019-07-15,55,Austin,Active,1727.0,5
+1859,Richard,Jones,emp1859@company.com,Engineering,Lead,63793,2020-01-27,56,San Francisco,On Leave,1854.0,2
+1860,Richard,Smith,emp1860@company.com,Sales,Lead,96570,2021-03-27,46,Seattle,On Leave,10800.0,3
+1861,James,Lopez,emp1861@company.com,Engineering,Mid-Level,135084,2023-05-23,45,Austin,Active,5055.0,4
+1862,Lisa,Garcia,emp1862@company.com,IT,Director,77892,2021-03-03,33,Chicago,Active,10271.0,4
+1863,William,Brown,emp1863@company.com,Engineering,Manager,41015,2017-10-20,39,San Francisco,Active,18708.0,3
+1864,Emily,Davis,emp1864@company.com,Engineering,Director,101813,2016-01-23,36,New York,On Leave,12819.0,3
+1865,David,Davis,emp1865@company.com,IT,Lead,67712,2020-03-07,37,New York,Active,9369.0,3
+1866,Lisa,Brown,emp1866@company.com,HR,Junior,140497,2016-02-22,48,Seattle,Inactive,9283.0,3
+1867,Jane,Wilson,emp1867@company.com,Sales,Manager,48415,2023-11-26,29,New York,Active,13171.0,3
+1868,Jennifer,Garcia,emp1868@company.com,Marketing,Senior,102292,2016-07-26,46,New York,Inactive,5774.0,3
+1869,David,Johnson,emp1869@company.com,Finance,Mid-Level,63833,2016-05-12,38,Los Angeles,Active,6519.0,3
+1870,Emily,Hernandez,emp1870@company.com,Finance,Director,44158,2015-02-18,50,Boston,Inactive,10983.0,3
+1871,David,Garcia,emp1871@company.com,Marketing,Junior,102680,2015-09-10,29,Seattle,Active,18133.0,4
+1872,Sarah,Rodriguez,emp1872@company.com,HR,Junior,60309,2023-10-04,36,Austin,Inactive,14939.0,5
+1873,Sarah,Anderson,emp1873@company.com,IT,Senior,46970,2017-06-29,48,San Francisco,Active,781.0,4
+1874,Thomas,Hernandez,emp1874@company.com,Finance,Mid-Level,112474,2016-06-19,28,New York,Active,16282.0,2
+1875,James,Garcia,emp1875@company.com,Engineering,Lead,126704,2017-03-22,24,Los Angeles,Inactive,6823.0,2
+1876,Jane,Smith,emp1876@company.com,Finance,Director,86540,2019-06-29,50,Boston,Active,18489.0,5
+1877,Michael,Miller,emp1877@company.com,Sales,Director,60384,2019-03-05,45,New York,Active,7193.0,3
+1878,Michael,Jones,emp1878@company.com,Sales,Mid-Level,58017,2022-09-12,24,Seattle,Active,2113.0,2
+1879,Emily,Brown,emp1879@company.com,Marketing,Director,115880,2022-01-25,41,Seattle,On Leave,16280.0,4
+1880,Robert,Johnson,emp1880@company.com,HR,Lead,145570,2022-03-25,36,New York,Active,13565.0,4
+1881,Jennifer,Wilson,emp1881@company.com,Operations,Senior,48702,2015-12-11,46,Chicago,Active,10183.0,4
+1882,Michael,Wilson,emp1882@company.com,Operations,Senior,40384,2021-07-13,51,Seattle,On Leave,17961.0,3
+1883,Jennifer,Davis,emp1883@company.com,HR,Junior,40404,2021-07-28,35,San Francisco,On Leave,9203.0,1
+1884,Emily,Johnson,emp1884@company.com,Finance,Junior,80943,2017-11-26,28,Austin,Inactive,18658.0,5
+1885,Jane,Hernandez,emp1885@company.com,HR,Junior,87926,2015-11-04,38,Chicago,Inactive,15795.0,3
+1886,Robert,Brown,emp1886@company.com,IT,Senior,69189,2015-03-31,41,Chicago,Inactive,18810.0,4
+1887,Robert,Hernandez,emp1887@company.com,HR,Lead,52763,2015-09-22,57,Austin,Active,13489.0,4
+1888,Sarah,Hernandez,emp1888@company.com,IT,Senior,58384,2017-03-20,30,New York,Active,5546.0,4
+1889,James,Martinez,emp1889@company.com,Finance,Senior,100100,2022-03-30,59,New York,Active,6852.0,3
+1890,Lisa,Smith,emp1890@company.com,Sales,Junior,138142,2019-12-22,43,Los Angeles,Inactive,2551.0,3
+1891,Robert,Smith,emp1891@company.com,Engineering,Mid-Level,49860,2016-06-11,23,San Francisco,Active,6411.0,4
+1892,John,Gonzalez,emp1892@company.com,Marketing,Junior,144293,2016-01-12,45,Los Angeles,Active,16391.0,5
+1893,Emily,Garcia,emp1893@company.com,Operations,Mid-Level,120642,2018-09-20,29,New York,Active,18939.0,5
+1894,Linda,Brown,emp1894@company.com,Sales,Lead,90612,2016-05-16,32,Los Angeles,Active,475.0,2
+1895,Robert,Williams,emp1895@company.com,HR,Lead,63574,2015-06-24,34,Chicago,On Leave,10403.0,2
+1896,Robert,Gonzalez,emp1896@company.com,HR,Manager,63524,2020-03-03,38,Chicago,Active,7239.0,5
+1897,Thomas,Martinez,emp1897@company.com,Operations,Manager,109172,2015-07-27,29,Los Angeles,Active,6710.0,4
+1898,Richard,Brown,emp1898@company.com,Finance,Manager,50916,2016-11-19,42,Seattle,Active,8078.0,5
+1899,Maria,Johnson,emp1899@company.com,Marketing,Lead,44809,2021-06-08,39,Chicago,Active,2285.0,3
+1900,Jennifer,Wilson,emp1900@company.com,Engineering,Junior,72201,2019-11-10,51,Austin,Active,5223.0,4
+1901,John,Gonzalez,emp1901@company.com,IT,Junior,93330,2023-02-15,39,Seattle,Active,13521.0,4
+1902,Linda,Rodriguez,emp1902@company.com,IT,Junior,53456,2019-06-06,52,New York,Active,14889.0,4
+1903,Thomas,Brown,emp1903@company.com,Finance,Senior,96397,2020-07-25,59,New York,On Leave,6971.0,3
+1904,Richard,Martinez,emp1904@company.com,Operations,Manager,78765,2015-05-01,53,Los Angeles,Active,19909.0,1
+1905,Maria,Brown,emp1905@company.com,Finance,Junior,74816,2019-04-17,32,Los Angeles,Inactive,11531.0,4
+1906,Robert,Wilson,emp1906@company.com,Engineering,Manager,85106,2022-08-30,46,New York,Active,14721.0,3
+1907,Lisa,Wilson,emp1907@company.com,IT,Manager,93932,2019-10-14,54,New York,Active,19206.0,3
+1908,John,Brown,emp1908@company.com,Engineering,Senior,57100,2016-12-08,59,Los Angeles,On Leave,4943.0,5
+1909,Sarah,Garcia,emp1909@company.com,HR,Lead,97091,2018-12-20,62,San Francisco,Inactive,6530.0,3
+1910,David,Gonzalez,emp1910@company.com,Finance,Junior,61949,2017-05-29,29,Seattle,On Leave,11116.0,4
+1911,Richard,Williams,emp1911@company.com,IT,Senior,110080,2017-02-05,32,Seattle,Active,258.0,2
+1912,Robert,Gonzalez,emp1912@company.com,Sales,Lead,77744,2018-01-31,43,San Francisco,Inactive,282.0,4
+1913,Linda,Anderson,emp1913@company.com,IT,Lead,85543,2018-02-20,45,Chicago,On Leave,13937.0,5
+1914,Thomas,Martinez,emp1914@company.com,Sales,Junior,148319,2020-01-01,62,Chicago,Active,1898.0,2
+1915,Linda,Smith,emp1915@company.com,Finance,Director,132193,2016-08-31,38,Austin,Active,4135.0,1
+1916,Robert,Jones,emp1916@company.com,Engineering,Manager,76187,2015-05-22,33,Boston,Inactive,,3
+1917,James,Wilson,emp1917@company.com,Marketing,Mid-Level,47239,2021-11-20,53,Chicago,Active,11168.0,2
+1918,Jennifer,Williams,emp1918@company.com,Engineering,Manager,54489,2021-12-11,36,Seattle,Active,19584.0,4
+1919,Jennifer,Williams,emp1919@company.com,Engineering,Manager,98017,2021-12-02,37,New York,Active,612.0,5
+1920,James,Rodriguez,emp1920@company.com,Marketing,Mid-Level,101877,2017-10-03,43,Chicago,Active,14203.0,3
+1921,Richard,Jones,emp1921@company.com,Operations,Director,83125,2022-04-05,49,Los Angeles,Inactive,17071.0,3
+1922,Maria,Gonzalez,emp1922@company.com,Engineering,Lead,89922,2018-04-23,41,Chicago,On Leave,2307.0,3
+1923,Thomas,Williams,emp1923@company.com,Marketing,Mid-Level,134074,2020-08-05,54,San Francisco,Active,7133.0,4
+1924,Emily,Johnson,emp1924@company.com,Finance,Mid-Level,72049,2019-08-15,31,New York,Active,11205.0,1
+1925,Lisa,Hernandez,emp1925@company.com,Marketing,Senior,77131,2021-03-05,61,Austin,Active,5906.0,4
+1926,Emily,Wilson,emp1926@company.com,IT,Senior,82944,2020-05-16,53,Austin,On Leave,2591.0,4
+1927,David,Smith,emp1927@company.com,Sales,Senior,113963,2015-09-07,54,Austin,On Leave,15149.0,4
+1928,Robert,Williams,emp1928@company.com,Marketing,Lead,146884,2015-12-26,23,Chicago,On Leave,12150.0,3
+1929,Lisa,Smith,emp1929@company.com,Engineering,Mid-Level,64285,2018-02-19,54,Los Angeles,Inactive,7183.0,4
+1930,John,Garcia,emp1930@company.com,Operations,Junior,77626,2019-04-18,54,Austin,Active,10102.0,2
+1931,Robert,Gonzalez,emp1931@company.com,Finance,Mid-Level,82808,2016-07-16,62,Seattle,On Leave,19988.0,2
+1932,Sarah,Gonzalez,emp1932@company.com,Marketing,Lead,128464,2019-09-14,34,Los Angeles,Active,,5
+1933,William,Brown,emp1933@company.com,Engineering,Senior,93871,2017-03-27,51,Austin,Inactive,1283.0,4
+1934,William,Martinez,emp1934@company.com,Operations,Lead,59198,2022-03-17,54,Los Angeles,Active,923.0,1
+1935,Richard,Garcia,emp1935@company.com,Marketing,Senior,59758,2023-12-10,34,Austin,Active,1125.0,3
+1936,Robert,Smith,emp1936@company.com,Finance,Lead,55254,2020-11-23,47,Seattle,Active,1529.0,3
+1937,Jennifer,Williams,emp1937@company.com,Finance,Junior,84238,2017-10-17,43,Los Angeles,Inactive,8438.0,3
+1938,Michael,Jones,emp1938@company.com,Sales,Senior,41252,2022-01-27,60,San Francisco,Active,16154.0,3
+1939,Linda,Smith,emp1939@company.com,Finance,Senior,79764,2023-12-30,23,New York,Active,8004.0,2
+1940,Lisa,Williams,emp1940@company.com,Operations,Mid-Level,117709,2021-02-04,59,San Francisco,Active,9752.0,3
+1941,Thomas,Lopez,emp1941@company.com,Engineering,Director,77441,2023-11-30,60,Seattle,Active,10592.0,4
+1942,Michael,Miller,emp1942@company.com,Finance,Director,132234,2015-03-21,47,Seattle,Active,3864.0,4
+1943,Maria,Rodriguez,emp1943@company.com,Finance,Lead,93682,2019-04-16,36,New York,Active,226.0,4
+1944,James,Johnson,emp1944@company.com,Engineering,Manager,99494,2023-10-08,55,Los Angeles,Inactive,15036.0,2
+1945,John,Lopez,emp1945@company.com,Engineering,Manager,121317,2022-12-31,63,San Francisco,Active,11739.0,5
+1946,Thomas,Johnson,emp1946@company.com,Operations,Mid-Level,105215,2019-01-10,61,New York,Active,16648.0,4
+1947,Robert,Davis,emp1947@company.com,Finance,Lead,118587,2020-05-18,32,Austin,On Leave,9587.0,4
+1948,Maria,Davis,emp1948@company.com,Operations,Junior,145185,2021-02-08,24,Boston,Active,11749.0,4
+1949,Maria,Gonzalez,emp1949@company.com,Finance,Mid-Level,46949,2023-10-06,27,Austin,On Leave,645.0,5
+1950,William,Garcia,emp1950@company.com,Marketing,Senior,147825,2020-06-08,30,Los Angeles,Active,16299.0,4
+1951,John,Rodriguez,emp1951@company.com,IT,Junior,95393,2018-11-10,27,Boston,Inactive,19374.0,3
+1952,Jane,Martinez,emp1952@company.com,Finance,Lead,113553,2021-05-05,30,Seattle,Inactive,13675.0,4
+1953,William,Johnson,emp1953@company.com,Sales,Senior,46941,2020-08-19,60,Austin,Active,,4
+1954,Robert,Davis,,IT,Manager,65934,2018-08-10,52,San Francisco,Active,10964.0,4
+1955,Michael,Rodriguez,emp1955@company.com,IT,Lead,63386,2019-05-10,53,Boston,On Leave,16087.0,4
+1956,Linda,Brown,emp1956@company.com,Sales,Senior,101886,2018-01-12,62,Austin,Active,13537.0,2
+1957,Lisa,Martinez,emp1957@company.com,Sales,Lead,115745,2017-01-06,33,Los Angeles,Inactive,13269.0,3
+1958,Michael,Smith,emp1958@company.com,Sales,Senior,123251,2015-04-17,29,Chicago,On Leave,9346.0,5
+1959,John,Lopez,emp1959@company.com,Operations,Lead,134456,2018-07-30,29,Boston,On Leave,587.0,4
+1960,David,Gonzalez,emp1960@company.com,IT,Director,93413,2021-09-11,49,New York,Active,12763.0,4
+1961,Robert,Anderson,emp1961@company.com,Finance,Manager,96800,2017-06-16,41,Los Angeles,Active,9177.0,3
+1962,Sarah,Wilson,emp1962@company.com,Marketing,Mid-Level,137239,2015-05-01,28,Seattle,Active,4079.0,3
+1963,Emily,Hernandez,emp1963@company.com,Operations,Senior,82318,2023-09-24,32,Los Angeles,Active,3348.0,5
+1964,Lisa,Rodriguez,emp1964@company.com,Engineering,Senior,110173,2018-02-24,41,Seattle,On Leave,18099.0,4
+1965,Sarah,Jones,emp1965@company.com,IT,Manager,110390,2015-08-28,37,San Francisco,Active,10785.0,4
+1966,Sarah,Davis,emp1966@company.com,Finance,Director,92329,2020-04-16,25,Austin,Active,12328.0,3
+1967,Richard,Hernandez,emp1967@company.com,HR,Mid-Level,83088,2020-12-08,27,Austin,Active,6450.0,4
+1968,Thomas,Smith,emp1968@company.com,Finance,Lead,143196,2019-01-04,43,New York,On Leave,13230.0,3
+1969,Robert,Smith,emp1969@company.com,Operations,Senior,79811,2023-08-07,47,Austin,Active,5433.0,4
+1970,David,Davis,emp1970@company.com,Sales,Mid-Level,95479,2021-07-20,24,Austin,Active,,3
+1971,Richard,Wilson,emp1971@company.com,HR,Lead,125392,2017-08-11,62,New York,Active,7096.0,3
+1972,Linda,Miller,emp1972@company.com,Operations,Senior,127369,2016-10-15,63,New York,Active,18710.0,4
+1973,Robert,Miller,emp1973@company.com,Finance,Senior,59963,2016-02-15,35,Chicago,On Leave,11439.0,5
+1974,David,Hernandez,emp1974@company.com,Marketing,Director,95123,2017-10-12,32,Seattle,Active,9087.0,2
+1975,Linda,Johnson,emp1975@company.com,Operations,Director,142468,2022-05-14,39,Chicago,On Leave,16021.0,4
+1976,Jane,Davis,emp1976@company.com,Marketing,Director,132705,2017-09-14,33,New York,Active,6416.0,3
+1977,Lisa,Lopez,emp1977@company.com,HR,Lead,113477,2017-12-27,44,Seattle,On Leave,6980.0,3
+1978,John,Anderson,emp1978@company.com,Engineering,Manager,54388,2020-12-25,33,Los Angeles,Active,18058.0,1
+1979,Jennifer,Davis,,IT,Mid-Level,45569,2023-11-15,34,Seattle,Active,11101.0,3
+1980,James,Johnson,emp1980@company.com,IT,Senior,109836,2023-04-07,46,Boston,Active,7950.0,4
+1981,John,Anderson,emp1981@company.com,Operations,Lead,144573,2015-08-18,40,Los Angeles,On Leave,9122.0,2
+1982,Sarah,Johnson,emp1982@company.com,HR,Senior,76586,2023-07-27,57,Seattle,Active,12576.0,3
+1983,Emily,Garcia,emp1983@company.com,Marketing,Lead,52015,2017-06-17,29,Boston,On Leave,1089.0,5
+1984,William,Martinez,emp1984@company.com,HR,Senior,85002,2021-06-16,50,Seattle,On Leave,4578.0,2
+1985,Jane,Williams,emp1985@company.com,Sales,Junior,46254,2023-12-11,53,Boston,Active,9127.0,4
+1986,Richard,Johnson,emp1986@company.com,Operations,Manager,57144,2019-05-10,39,San Francisco,Inactive,10487.0,3
+1987,William,Williams,emp1987@company.com,Sales,Mid-Level,64214,2018-12-24,27,Seattle,Active,155.0,4
+1988,John,Jones,emp1988@company.com,Engineering,Manager,145654,2016-12-12,39,Los Angeles,Active,1958.0,3
+1989,Richard,Martinez,emp1989@company.com,HR,Manager,120719,2016-12-22,40,Chicago,On Leave,10693.0,2
+1990,John,Hernandez,emp1990@company.com,HR,Mid-Level,111774,2017-08-26,43,Boston,Active,6344.0,2
+1991,Emily,Martinez,emp1991@company.com,HR,Director,46090,2021-08-23,58,Boston,Active,5779.0,2
+1992,Emily,Rodriguez,emp1992@company.com,HR,Manager,51637,2018-07-26,53,Seattle,Active,3830.0,2
+1993,Linda,Lopez,emp1993@company.com,Engineering,Junior,62415,2023-04-12,62,Seattle,Active,9046.0,4
+1994,John,Garcia,emp1994@company.com,Marketing,Director,64071,2022-10-28,24,Boston,Inactive,9794.0,5
+1995,Maria,Miller,emp1995@company.com,Finance,Lead,98243,2019-01-09,49,New York,Active,441.0,4
+1996,Michael,Martinez,emp1996@company.com,Engineering,Director,148215,2021-08-20,31,Austin,On Leave,14478.0,4
+1997,Emily,Rodriguez,emp1997@company.com,Marketing,Mid-Level,81240,2015-04-26,56,Seattle,Active,4628.0,2
+1998,Michael,Jones,emp1998@company.com,IT,Lead,123807,2022-11-21,50,Seattle,Active,6370.0,3
+1999,Lisa,Davis,emp1999@company.com,Operations,Senior,141570,2022-11-09,36,San Francisco,Active,9528.0,3
+2000,William,Rodriguez,emp2000@company.com,Marketing,Director,73434,2018-12-11,54,Austin,Active,17332.0,3
+1728,Robert,Williams,emp1728@company.com,HR,Manager,86732,2018-04-09,61,Chicago,On Leave,1283.0,1
+1225,Maria,Jones,emp1225@company.com,HR,Junior,92733,2015-02-09,58,San Francisco,Active,13076.0,5
+1427,James,Gonzalez,emp1427@company.com,HR,Junior,122074,2022-04-11,58,Los Angeles,Inactive,7137.0,4
+1100,Emily,Brown,emp1100@company.com,Operations,Mid-Level,103704,2019-11-30,57,Seattle,Active,5178.0,1
+1763,William,Anderson,emp1763@company.com,Operations,Senior,84482,2023-02-26,34,San Francisco,Active,10851.0,4
+1410,Jennifer,Johnson,emp1410@company.com,Marketing,Manager,90336,2020-02-13,40,Austin,On Leave,5656.0,4
+1341,Linda,Rodriguez,emp1341@company.com,Engineering,Lead,101135,2017-10-10,22,Boston,Active,9686.0,4
+1697,William,Wilson,emp1697@company.com,Operations,Mid-Level,127508,2017-07-08,46,New York,Active,14226.0,3
+1154,Emily,Garcia,emp1154@company.com,Finance,Director,127054,2021-06-22,36,San Francisco,Active,11865.0,3
+1849,Jennifer,Lopez,emp1849@company.com,IT,Lead,85445,2018-12-28,58,Boston,Active,97.0,4

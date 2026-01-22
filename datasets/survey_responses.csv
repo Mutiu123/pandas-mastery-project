@@ -1,0 +1,3001 @@
+response_id,customer_id,survey_date,overall_satisfaction,product_quality,customer_service,value_for_money,would_recommend,nps_score,comments
+1,11288,2024-02-18,Dissatisfied,4,3,4,Yes,0.0,Average
+2,11401,2024-05-23,Dissatisfied,1,1,1,No,3.0,Great!
+3,10093,2024-02-21,Dissatisfied,1,2,4,No,2.0,Average
+4,10622,2024-01-21,Dissatisfied,4,3,5,No,,Great!
+5,11490,2024-01-05,Neutral,2,4,4,Yes,4.0,Good
+6,10835,2024-02-03,Dissatisfied,3,5,2,Yes,0.0,Great!
+7,10947,2024-06-10,Neutral,2,2,3,No,1.0,
+8,10847,2024-03-20,Dissatisfied,2,1,1,Yes,10.0,
+9,10714,2024-03-22,Dissatisfied,4,4,3,Yes,7.0,Could be better
+10,10764,2024-04-10,Dissatisfied,2,2,3,Yes,0.0,Could be better
+11,11016,2024-01-30,Very Dissatisfied,3,5,1,No,9.0,Could be better
+12,10284,2024-02-06,Very Satisfied,4,2,2,No,3.0,Could be better
+13,11058,2024-03-28,Very Dissatisfied,3,5,5,Yes,3.0,Average
+14,10277,2024-03-15,Very Satisfied,1,2,2,No,8.0,
+15,10681,2024-02-27,Very Satisfied,3,3,3,Yes,9.0,
+16,11053,2024-03-02,Neutral,5,2,1,No,8.0,Average
+17,11782,2024-04-27,Neutral,5,5,2,Yes,8.0,Could be better
+18,10315,2024-03-11,Very Satisfied,2,2,3,No,4.0,
+19,11413,2024-04-22,Satisfied,2,3,4,Yes,2.0,
+20,10315,2024-05-23,Very Satisfied,4,5,1,Yes,8.0,Could be better
+21,10735,2024-06-01,Very Satisfied,5,2,4,Yes,7.0,
+22,10200,2024-06-21,Neutral,5,3,3,No,3.0,
+23,10743,2024-05-03,Neutral,2,4,3,No,0.0,Great!
+24,10952,2024-05-27,Satisfied,2,4,3,No,,Could be better
+25,10664,2024-05-02,Neutral,3,3,1,Yes,4.0,
+26,11079,2024-03-12,Very Satisfied,1,2,4,Yes,0.0,Could be better
+27,11544,2024-04-28,Neutral,2,1,2,Yes,,Could be better
+28,10895,2024-04-11,Satisfied,2,1,2,No,1.0,Good
+29,11359,2024-06-01,Very Dissatisfied,5,3,5,No,8.0,Good
+30,10741,2024-01-02,Very Satisfied,4,5,2,No,4.0,Average
+31,10738,2024-05-25,Very Dissatisfied,4,1,4,No,6.0,
+32,10678,2024-06-04,Dissatisfied,2,5,4,No,4.0,Average
+33,11768,2024-04-03,Satisfied,3,2,5,No,9.0,
+34,10006,2024-01-19,Satisfied,5,5,5,Yes,1.0,
+35,11864,2024-03-08,Satisfied,4,5,3,No,7.0,
+36,10822,2024-06-09,Dissatisfied,3,4,4,No,4.0,Could be better
+37,10058,2024-04-04,Very Satisfied,5,2,3,Yes,9.0,
+38,11002,2024-05-01,Neutral,2,5,3,Yes,6.0,
+39,11162,2024-04-25,Satisfied,2,2,2,No,3.0,
+40,10126,2024-06-13,Very Dissatisfied,3,5,3,No,10.0,Great!
+41,11218,2024-04-16,Very Satisfied,5,3,5,Yes,4.0,
+42,10027,2024-05-10,Very Satisfied,1,2,3,No,10.0,Average
+43,10272,2024-01-22,Neutral,2,3,4,Yes,10.0,Average
+44,10753,2024-04-04,Very Satisfied,3,1,4,No,9.0,Great!
+45,10509,2024-04-02,Neutral,3,1,3,No,2.0,
+46,10638,2024-05-07,Satisfied,1,5,5,Yes,7.0,Could be better
+47,11628,2024-06-21,Neutral,5,4,3,No,1.0,Could be better
+48,11243,2024-03-14,Very Satisfied,1,3,4,Yes,6.0,Average
+49,10571,2024-03-25,Very Dissatisfied,2,2,2,No,9.0,
+50,11005,2024-06-07,Very Dissatisfied,2,5,4,No,8.0,Great!
+51,10266,2024-02-23,Neutral,5,5,4,Yes,5.0,Could be better
+52,11398,2024-03-27,Very Satisfied,1,1,2,Yes,6.0,
+53,10529,2024-04-06,Satisfied,4,5,1,No,3.0,
+54,11271,2024-02-23,Very Dissatisfied,2,2,4,Yes,3.0,
+55,11110,2024-05-05,Dissatisfied,5,2,4,No,7.0,Average
+56,11912,2024-06-28,Very Dissatisfied,1,4,2,Yes,8.0,Average
+57,10753,2024-04-15,Dissatisfied,4,2,3,No,9.0,Average
+58,11292,2024-03-11,Satisfied,5,1,1,No,0.0,
+59,10237,2024-02-19,Very Satisfied,4,5,1,Yes,10.0,Could be better
+60,11095,2024-03-01,Very Satisfied,3,4,4,No,10.0,Could be better
+61,10971,2024-03-20,Very Satisfied,2,3,5,Yes,7.0,Could be better
+62,10472,2024-04-10,Dissatisfied,2,3,2,Yes,3.0,Could be better
+63,10419,2024-04-28,Very Satisfied,3,5,4,No,8.0,Great!
+64,10681,2024-01-18,Satisfied,1,4,2,Yes,7.0,Could be better
+65,11781,2024-02-01,Neutral,4,3,1,No,5.0,Average
+66,10295,2024-01-09,Very Satisfied,1,2,5,No,6.0,Good
+67,11487,2024-03-28,Neutral,3,1,5,No,9.0,Could be better
+68,10150,2024-04-14,Dissatisfied,5,5,5,No,2.0,Could be better
+69,11235,2024-05-18,Very Dissatisfied,5,2,3,No,7.0,
+70,11376,2024-06-17,Very Satisfied,1,2,1,No,8.0,Great!
+71,10325,2024-01-16,Neutral,4,2,1,Yes,0.0,Average
+72,11357,2024-04-14,Very Dissatisfied,1,3,3,No,0.0,Average
+73,11456,2024-04-21,Dissatisfied,1,1,2,Yes,10.0,Average
+74,10547,2024-02-02,Very Satisfied,5,2,5,Yes,7.0,Great!
+75,11212,2024-05-24,Very Satisfied,5,5,3,Yes,6.0,Average
+76,10283,2024-02-17,Neutral,2,2,2,Yes,9.0,Great!
+77,11943,2024-05-30,Satisfied,5,4,5,Yes,6.0,Average
+78,10221,2024-02-03,Very Dissatisfied,1,1,3,Yes,2.0,Great!
+79,11517,2024-02-07,Neutral,5,3,3,No,10.0,Could be better
+80,11982,2024-02-20,Dissatisfied,5,4,1,No,4.0,Could be better
+81,10024,2024-04-01,Dissatisfied,3,5,4,Yes,6.0,
+82,11359,2024-01-12,Dissatisfied,5,3,5,Yes,4.0,
+83,10534,2024-05-14,Neutral,2,2,2,No,1.0,Good
+84,11503,2024-03-03,Neutral,4,1,2,No,10.0,Great!
+85,10638,2024-01-01,Dissatisfied,4,4,1,Yes,10.0,
+86,11059,2024-03-12,Neutral,2,3,1,No,1.0,Great!
+87,10422,2024-03-30,Neutral,3,1,3,No,4.0,Great!
+88,11636,2024-01-29,Very Satisfied,1,2,5,No,10.0,
+89,11087,2024-04-11,Neutral,3,3,3,Yes,3.0,Average
+90,11730,2024-02-22,Satisfied,3,1,4,Yes,2.0,
+91,10130,2024-05-25,Very Satisfied,5,3,5,No,6.0,Good
+92,11110,2024-02-04,Very Satisfied,3,5,4,No,3.0,Good
+93,11963,2024-01-07,Satisfied,2,3,5,Yes,7.0,
+94,11065,2024-05-02,Satisfied,3,1,2,Yes,7.0,Good
+95,11189,2024-05-31,Neutral,5,5,3,No,2.0,
+96,11835,2024-02-13,Very Satisfied,2,4,4,Yes,0.0,Average
+97,10663,2024-03-27,Very Satisfied,3,4,2,No,8.0,Could be better
+98,11738,2024-06-08,Very Dissatisfied,3,3,2,Yes,7.0,
+99,10661,2024-04-27,Very Dissatisfied,3,3,4,Yes,6.0,
+100,11241,2024-01-16,Neutral,5,1,5,No,3.0,Great!
+101,11670,2024-01-21,Very Satisfied,2,2,2,No,3.0,Great!
+102,11354,2024-01-08,Very Satisfied,3,3,3,Yes,5.0,Good
+103,10338,2024-04-17,Very Satisfied,2,1,2,No,2.0,Average
+104,11909,2024-06-19,Dissatisfied,2,4,3,Yes,3.0,
+105,10630,2024-06-05,Satisfied,2,1,4,No,2.0,Great!
+106,11180,2024-06-19,Very Satisfied,3,4,4,Yes,2.0,
+107,10748,2024-04-25,Dissatisfied,3,2,5,Yes,9.0,
+108,10050,2024-03-28,Very Dissatisfied,2,2,5,Yes,4.0,Could be better
+109,11495,2024-06-04,Satisfied,3,3,5,Yes,8.0,
+110,10008,2024-02-22,Neutral,1,5,1,No,4.0,Great!
+111,11839,2024-05-11,Satisfied,2,5,3,No,5.0,Good
+112,10579,2024-02-24,Neutral,3,1,4,Yes,1.0,
+113,10481,2024-04-16,Satisfied,5,2,4,Yes,8.0,
+114,10990,2024-05-23,Very Satisfied,4,3,4,Yes,1.0,Great!
+115,11966,2024-05-11,Satisfied,2,3,3,No,8.0,
+116,11624,2024-04-09,Very Satisfied,5,3,4,No,6.0,Could be better
+117,11355,2024-02-10,Very Dissatisfied,4,2,4,Yes,4.0,Great!
+118,11281,2024-02-03,Very Dissatisfied,2,2,2,Yes,4.0,
+119,10343,2024-04-30,Dissatisfied,5,2,5,No,,Average
+120,11732,2024-04-27,Dissatisfied,4,1,3,No,2.0,
+121,11183,2024-02-09,Neutral,5,4,5,No,7.0,
+122,11333,2024-04-09,Neutral,3,1,2,No,7.0,Could be better
+123,11883,2024-04-29,Very Satisfied,5,5,4,Yes,3.0,Good
+124,10275,2024-06-22,Very Dissatisfied,5,1,2,Yes,6.0,Could be better
+125,10094,2024-03-28,Very Dissatisfied,2,1,2,Yes,6.0,Good
+126,11668,2024-01-26,Neutral,4,5,5,Yes,9.0,Could be better
+127,10761,2024-04-14,Very Satisfied,4,5,1,Yes,5.0,Good
+128,11002,2024-06-07,Neutral,3,1,2,No,5.0,Average
+129,10362,2024-01-23,Satisfied,5,2,1,No,3.0,Could be better
+130,11158,2024-04-19,Dissatisfied,1,2,1,No,0.0,
+131,10896,2024-06-13,Very Satisfied,5,3,5,No,2.0,
+132,11351,2024-06-09,Dissatisfied,4,3,4,Yes,9.0,
+133,11188,2024-02-28,Dissatisfied,5,4,4,No,0.0,Good
+134,10045,2024-02-07,Dissatisfied,1,4,5,No,1.0,
+135,10356,2024-03-31,Satisfied,4,3,1,Yes,4.0,
+136,10319,2024-06-08,Satisfied,2,1,2,No,3.0,Great!
+137,11376,2024-04-30,Very Satisfied,4,1,3,Yes,9.0,
+138,11735,2024-05-08,Satisfied,5,1,1,No,1.0,Good
+139,11392,2024-04-06,Neutral,3,4,3,Yes,5.0,Great!
+140,11046,2024-03-14,Neutral,5,4,3,Yes,1.0,Could be better
+141,10961,2024-03-18,Satisfied,5,5,3,No,3.0,
+142,11520,2024-03-01,Very Dissatisfied,1,1,4,No,3.0,Average
+143,10003,2024-06-17,Neutral,5,3,1,Yes,4.0,Average
+144,10895,2024-03-28,Neutral,4,5,4,No,5.0,Good
+145,10017,2024-04-20,Very Satisfied,1,4,1,Yes,5.0,Average
+146,10661,2024-05-23,Satisfied,2,5,3,Yes,9.0,
+147,10212,2024-05-11,Satisfied,3,5,5,No,0.0,Great!
+148,10238,2024-03-30,Satisfied,3,3,4,No,4.0,Great!
+149,10390,2024-02-04,Satisfied,3,1,1,No,8.0,Good
+150,10824,2024-01-30,Dissatisfied,4,4,1,No,3.0,Good
+151,11858,2024-04-06,Dissatisfied,4,3,1,Yes,,Great!
+152,10641,2024-04-26,Very Satisfied,1,5,2,Yes,10.0,Could be better
+153,10115,2024-06-10,Satisfied,3,3,5,Yes,3.0,Good
+154,10742,2024-01-25,Very Dissatisfied,2,5,3,Yes,,Could be better
+155,10401,2024-03-05,Very Satisfied,4,2,1,Yes,6.0,Good
+156,11464,2024-06-03,Dissatisfied,1,4,1,No,8.0,Good
+157,10408,2024-05-16,Very Dissatisfied,5,3,2,No,2.0,Could be better
+158,10065,2024-04-28,Neutral,2,1,2,No,6.0,
+159,10985,2024-03-06,Satisfied,2,5,3,No,3.0,Great!
+160,11245,2024-01-26,Satisfied,1,1,4,Yes,9.0,Good
+161,11712,2024-03-10,Very Satisfied,3,3,5,No,5.0,Good
+162,11091,2024-04-24,Dissatisfied,3,3,2,Yes,9.0,Great!
+163,10025,2024-02-23,Very Dissatisfied,1,1,1,Yes,6.0,
+164,11970,2024-01-17,Dissatisfied,1,5,3,Yes,10.0,
+165,11143,2024-02-17,Dissatisfied,2,1,3,Yes,3.0,Average
+166,10879,2024-04-19,Dissatisfied,1,1,4,No,0.0,Great!
+167,10559,2024-05-31,Neutral,1,5,5,No,2.0,Great!
+168,11778,2024-01-30,Neutral,4,2,5,Yes,7.0,Could be better
+169,11061,2024-02-10,Very Dissatisfied,2,4,4,Yes,6.0,Average
+170,11547,2024-02-26,Very Dissatisfied,1,3,3,Yes,3.0,Average
+171,10926,2024-05-09,Neutral,5,1,2,No,5.0,
+172,11628,2024-06-13,Satisfied,3,3,4,No,3.0,
+173,10753,2024-05-05,Neutral,3,2,5,Yes,1.0,Great!
+174,10923,2024-02-17,Satisfied,3,1,3,No,2.0,
+175,11459,2024-03-17,Satisfied,5,5,5,Yes,3.0,Great!
+176,10161,2024-02-03,Very Dissatisfied,3,5,2,No,9.0,
+177,11506,2024-04-12,Dissatisfied,1,5,4,No,10.0,Could be better
+178,10897,2024-05-27,Very Dissatisfied,3,1,5,No,10.0,Average
+179,10735,2024-05-05,Satisfied,1,3,5,No,6.0,Good
+180,11857,2024-06-05,Very Satisfied,5,2,3,Yes,0.0,Could be better
+181,10963,2024-05-16,Very Dissatisfied,3,3,4,No,2.0,
+182,10468,2024-01-17,Neutral,5,4,4,Yes,0.0,
+183,11114,2024-03-28,Neutral,1,5,5,No,6.0,Could be better
+184,11683,2024-02-22,Very Satisfied,4,2,3,Yes,6.0,
+185,11984,2024-06-29,Dissatisfied,3,3,4,Yes,4.0,Could be better
+186,11849,2024-04-05,Satisfied,4,5,5,Yes,5.0,Great!
+187,11543,2024-01-29,Very Dissatisfied,3,5,4,Yes,5.0,
+188,11351,2024-03-05,Very Dissatisfied,1,3,1,Yes,0.0,Could be better
+189,11633,2024-02-21,Very Satisfied,2,4,2,No,8.0,Great!
+190,11431,2024-04-18,Very Dissatisfied,3,1,5,No,10.0,Great!
+191,10318,2024-01-29,Very Dissatisfied,4,4,2,No,3.0,
+192,11779,2024-06-24,Satisfied,5,4,3,No,0.0,Could be better
+193,11768,2024-03-21,Neutral,2,2,4,No,1.0,Could be better
+194,10588,2024-04-28,Dissatisfied,2,4,3,Yes,4.0,Good
+195,10885,2024-06-01,Very Satisfied,2,5,3,Yes,1.0,Average
+196,10418,2024-01-02,Very Satisfied,1,1,5,No,9.0,
+197,10676,2024-04-21,Very Dissatisfied,4,5,4,No,0.0,Good
+198,11176,2024-04-20,Very Satisfied,5,2,3,Yes,8.0,Average
+199,10387,2024-02-02,Dissatisfied,3,1,2,No,10.0,
+200,10143,2024-06-08,Dissatisfied,3,5,4,Yes,2.0,Could be better
+201,11682,2024-02-19,Very Dissatisfied,3,1,2,No,9.0,
+202,11022,2024-06-01,Very Dissatisfied,4,1,5,No,5.0,
+203,11787,2024-04-27,Neutral,3,1,4,No,8.0,Could be better
+204,11161,2024-04-13,Satisfied,2,4,1,No,4.0,Good
+205,10168,2024-01-20,Very Satisfied,4,1,4,No,7.0,
+206,11221,2024-01-01,Very Satisfied,1,3,1,No,4.0,Great!
+207,11713,2024-06-26,Very Satisfied,3,2,5,Yes,9.0,
+208,10089,2024-01-03,Very Satisfied,4,2,1,No,9.0,
+209,11378,2024-06-19,Dissatisfied,5,2,4,Yes,7.0,Great!
+210,11741,2024-06-23,Neutral,3,5,1,No,9.0,Average
+211,10400,2024-06-15,Satisfied,4,3,5,No,4.0,Great!
+212,11564,2024-05-30,Dissatisfied,3,1,4,Yes,6.0,Great!
+213,11591,2024-01-05,Very Dissatisfied,5,5,4,No,7.0,Great!
+214,10707,2024-01-18,Satisfied,1,3,4,Yes,5.0,Could be better
+215,11770,2024-05-23,Very Satisfied,2,4,3,No,10.0,Good
+216,10171,2024-02-28,Dissatisfied,3,2,5,Yes,5.0,Could be better
+217,11515,2024-04-21,Satisfied,3,3,1,Yes,0.0,Could be better
+218,11643,2024-04-16,Very Dissatisfied,1,3,3,Yes,6.0,Good
+219,11069,2024-06-09,Neutral,3,2,4,Yes,8.0,
+220,10764,2024-02-02,Very Satisfied,5,5,5,No,2.0,
+221,10782,2024-02-03,Very Dissatisfied,2,1,4,Yes,3.0,Average
+222,10253,2024-02-12,Dissatisfied,2,1,5,No,2.0,Could be better
+223,10104,2024-05-20,Dissatisfied,5,5,1,Yes,6.0,
+224,10451,2024-05-09,Very Dissatisfied,5,4,2,No,4.0,Great!
+225,10041,2024-06-06,Neutral,2,3,5,No,3.0,Average
+226,10590,2024-06-04,Neutral,5,5,2,Yes,9.0,Average
+227,11243,2024-02-21,Neutral,2,2,5,Yes,10.0,Average
+228,10759,2024-02-19,Very Satisfied,4,2,3,No,10.0,Great!
+229,11150,2024-05-27,Dissatisfied,1,2,5,No,1.0,
+230,10397,2024-04-24,Very Dissatisfied,5,2,2,No,8.0,Could be better
+231,11530,2024-02-11,Dissatisfied,5,5,5,Yes,7.0,Could be better
+232,11059,2024-03-29,Satisfied,5,4,2,No,2.0,Could be better
+233,11902,2024-06-12,Very Satisfied,5,1,4,Yes,9.0,Great!
+234,11045,2024-03-31,Very Satisfied,1,5,2,Yes,8.0,Good
+235,10109,2024-06-11,Satisfied,2,3,5,No,10.0,
+236,11763,2024-01-09,Dissatisfied,2,2,1,Yes,7.0,Average
+237,11751,2024-03-04,Satisfied,2,2,4,No,4.0,Could be better
+238,11216,2024-02-02,Dissatisfied,2,4,2,Yes,8.0,Could be better
+239,10367,2024-01-29,Neutral,1,4,2,No,1.0,Great!
+240,10158,2024-03-11,Dissatisfied,5,1,2,No,3.0,Good
+241,11561,2024-06-14,Very Dissatisfied,3,3,2,No,10.0,Average
+242,11623,2024-02-26,Very Dissatisfied,4,1,2,Yes,1.0,Could be better
+243,11171,2024-06-19,Very Satisfied,1,2,5,Yes,5.0,
+244,10058,2024-05-08,Dissatisfied,4,4,2,Yes,7.0,Good
+245,11822,2024-01-23,Dissatisfied,4,1,1,No,2.0,
+246,10458,2024-02-19,Satisfied,1,4,3,Yes,5.0,
+247,10062,2024-04-05,Very Satisfied,5,1,5,Yes,2.0,Great!
+248,11976,2024-06-12,Dissatisfied,5,3,1,Yes,4.0,Average
+249,11550,2024-03-25,Very Dissatisfied,4,4,1,No,10.0,Good
+250,11913,2024-01-16,Satisfied,1,1,5,No,2.0,Good
+251,10520,2024-01-08,Very Satisfied,3,5,5,Yes,3.0,Average
+252,10429,2024-06-21,Satisfied,4,1,1,Yes,7.0,
+253,10525,2024-03-18,Satisfied,5,2,3,Yes,1.0,
+254,11462,2024-02-03,Very Dissatisfied,5,2,4,No,8.0,Great!
+255,10070,2024-01-20,Satisfied,5,4,2,Yes,3.0,Good
+256,10057,2024-03-29,Satisfied,2,3,3,No,3.0,Great!
+257,10628,2024-03-14,Satisfied,2,5,3,No,2.0,
+258,11136,2024-04-06,Very Satisfied,3,2,3,No,9.0,Great!
+259,10152,2024-06-10,Dissatisfied,2,2,5,No,9.0,Average
+260,11895,2024-05-14,Very Dissatisfied,5,1,2,No,7.0,
+261,11701,2024-03-10,Dissatisfied,3,1,4,No,5.0,
+262,10161,2024-06-28,Dissatisfied,2,3,5,Yes,0.0,Good
+263,11590,2024-05-01,Very Dissatisfied,1,3,5,Yes,5.0,Good
+264,10383,2024-04-29,Very Satisfied,1,2,1,Yes,4.0,Good
+265,10852,2024-04-06,Very Dissatisfied,3,2,3,Yes,8.0,Great!
+266,10132,2024-03-05,Dissatisfied,1,1,5,No,3.0,Could be better
+267,10481,2024-04-05,Dissatisfied,5,4,3,Yes,0.0,Good
+268,11509,2024-05-03,Very Dissatisfied,3,2,5,No,9.0,
+269,10531,2024-03-25,Dissatisfied,2,1,3,No,7.0,Good
+270,10284,2024-03-01,Very Satisfied,5,2,3,No,1.0,Good
+271,10623,2024-03-26,Very Satisfied,5,3,1,No,4.0,Could be better
+272,10761,2024-03-18,Satisfied,1,4,1,No,5.0,Could be better
+273,10861,2024-04-30,Satisfied,1,5,4,Yes,6.0,Could be better
+274,11509,2024-03-16,Satisfied,4,4,3,Yes,5.0,
+275,10783,2024-01-26,Dissatisfied,2,4,1,No,8.0,Great!
+276,10653,2024-02-23,Dissatisfied,4,5,5,Yes,7.0,
+277,11393,2024-05-08,Satisfied,5,2,2,Yes,7.0,Average
+278,10045,2024-02-28,Satisfied,3,3,1,Yes,6.0,Great!
+279,10439,2024-03-22,Very Dissatisfied,5,5,4,No,10.0,Average
+280,11613,2024-05-12,Very Dissatisfied,3,3,4,No,1.0,Good
+281,11960,2024-01-02,Very Satisfied,1,5,5,No,1.0,Great!
+282,10017,2024-05-15,Neutral,1,2,4,No,6.0,
+283,10464,2024-01-24,Very Satisfied,2,2,4,Yes,5.0,Could be better
+284,11350,2024-03-08,Satisfied,4,2,3,No,10.0,
+285,10576,2024-05-01,Very Dissatisfied,1,2,2,Yes,6.0,
+286,10764,2024-01-07,Satisfied,2,3,1,Yes,6.0,
+287,10166,2024-01-29,Satisfied,1,5,5,Yes,0.0,Great!
+288,11271,2024-05-26,Very Dissatisfied,1,3,3,No,0.0,Average
+289,10657,2024-04-28,Dissatisfied,4,3,3,No,1.0,Average
+290,11218,2024-02-11,Dissatisfied,1,4,5,Yes,2.0,
+291,11473,2024-03-25,Satisfied,4,5,5,No,,Average
+292,10257,2024-05-06,Satisfied,3,1,2,No,8.0,Average
+293,10393,2024-03-13,Very Dissatisfied,5,3,2,Yes,3.0,Great!
+294,11168,2024-05-23,Dissatisfied,1,5,1,No,1.0,
+295,10334,2024-02-24,Dissatisfied,2,1,2,No,8.0,
+296,10506,2024-06-29,Very Satisfied,3,5,2,Yes,7.0,Great!
+297,10531,2024-01-13,Neutral,2,4,4,Yes,3.0,Good
+298,11178,2024-02-23,Very Dissatisfied,5,2,3,No,0.0,
+299,11098,2024-06-11,Dissatisfied,3,4,5,No,0.0,Great!
+300,10251,2024-04-13,Very Dissatisfied,4,2,3,No,3.0,Could be better
+301,10961,2024-05-11,Satisfied,4,2,3,Yes,8.0,Good
+302,10302,2024-01-24,Satisfied,3,1,4,No,7.0,Average
+303,10633,2024-02-01,Satisfied,1,1,4,Yes,9.0,
+304,11840,2024-04-11,Very Dissatisfied,1,2,2,No,10.0,Could be better
+305,10955,2024-06-28,Very Dissatisfied,2,3,5,Yes,3.0,Could be better
+306,10279,2024-04-20,Satisfied,4,4,2,Yes,,
+307,11750,2024-02-12,Neutral,3,4,5,Yes,5.0,
+308,11273,2024-06-29,Very Satisfied,3,2,2,Yes,7.0,Average
+309,11450,2024-06-06,Very Satisfied,2,2,3,Yes,7.0,Great!
+310,11757,2024-01-18,Very Satisfied,4,1,4,Yes,8.0,Great!
+311,10964,2024-05-10,Neutral,5,4,4,Yes,8.0,Average
+312,10231,2024-04-04,Neutral,3,2,1,Yes,1.0,Average
+313,10218,2024-02-29,Very Dissatisfied,3,4,3,No,10.0,Average
+314,11356,2024-01-02,Neutral,2,5,3,No,10.0,Great!
+315,11179,2024-04-06,Dissatisfied,5,4,3,No,9.0,Good
+316,11660,2024-04-02,Very Satisfied,2,1,3,No,9.0,Could be better
+317,10773,2024-02-02,Neutral,4,5,4,No,5.0,
+318,10953,2024-05-26,Neutral,4,1,4,Yes,3.0,Great!
+319,11783,2024-04-22,Very Satisfied,1,3,4,No,10.0,Great!
+320,10837,2024-04-28,Satisfied,3,1,3,No,10.0,
+321,10561,2024-04-26,Neutral,3,4,5,No,8.0,
+322,11814,2024-02-08,Very Satisfied,1,3,5,No,5.0,
+323,11069,2024-05-04,Very Dissatisfied,5,2,2,Yes,2.0,Average
+324,11298,2024-05-22,Dissatisfied,3,2,2,Yes,7.0,
+325,11185,2024-03-01,Dissatisfied,1,2,3,No,3.0,Could be better
+326,11957,2024-02-02,Very Dissatisfied,4,3,2,Yes,0.0,
+327,11115,2024-02-25,Very Dissatisfied,4,2,5,Yes,4.0,Great!
+328,10743,2024-05-28,Dissatisfied,2,5,1,Yes,2.0,Average
+329,10013,2024-02-26,Very Dissatisfied,1,2,5,No,10.0,
+330,11339,2024-03-30,Very Dissatisfied,4,4,2,Yes,9.0,Average
+331,10034,2024-03-13,Very Dissatisfied,1,5,4,No,10.0,Could be better
+332,11792,2024-02-14,Very Dissatisfied,4,2,2,Yes,10.0,Great!
+333,10071,2024-01-06,Neutral,1,4,3,Yes,5.0,Average
+334,11820,2024-06-10,Very Satisfied,2,1,2,Yes,5.0,Could be better
+335,10473,2024-05-07,Satisfied,1,5,1,Yes,4.0,Average
+336,10557,2024-04-20,Neutral,4,5,2,Yes,2.0,Average
+337,10513,2024-03-13,Dissatisfied,1,1,1,Yes,10.0,
+338,10272,2024-01-17,Satisfied,4,5,3,No,7.0,Average
+339,10365,2024-01-03,Very Satisfied,1,3,1,Yes,9.0,
+340,10704,2024-02-03,Satisfied,2,2,3,Yes,6.0,Could be better
+341,11455,2024-03-24,Very Dissatisfied,2,1,5,Yes,7.0,
+342,11742,2024-03-24,Satisfied,4,3,4,Yes,,
+343,10802,2024-04-27,Satisfied,5,1,4,Yes,10.0,Great!
+344,11096,2024-05-29,Very Dissatisfied,5,1,5,No,3.0,Average
+345,11111,2024-03-06,Dissatisfied,5,5,5,Yes,3.0,Great!
+346,10894,2024-01-10,Very Dissatisfied,4,1,1,No,4.0,Great!
+347,11473,2024-02-08,Neutral,2,5,2,No,2.0,Good
+348,10739,2024-05-26,Very Satisfied,2,4,4,Yes,7.0,
+349,10203,2024-03-01,Very Satisfied,5,2,3,No,7.0,Good
+350,10985,2024-01-23,Satisfied,3,2,2,Yes,3.0,
+351,10590,2024-06-09,Very Satisfied,1,4,2,No,7.0,Great!
+352,11796,2024-05-24,Neutral,3,4,1,Yes,10.0,
+353,11453,2024-01-09,Neutral,3,3,4,No,8.0,
+354,11175,2024-01-15,Very Dissatisfied,2,4,1,Yes,0.0,Great!
+355,11681,2024-04-29,Very Satisfied,4,4,5,No,0.0,Great!
+356,10416,2024-03-17,Satisfied,1,5,5,Yes,1.0,Average
+357,11745,2024-02-12,Satisfied,5,1,4,Yes,3.0,
+358,11190,2024-02-02,Dissatisfied,2,1,4,Yes,7.0,Great!
+359,10215,2024-03-05,Neutral,4,4,5,No,10.0,
+360,10569,2024-01-14,Satisfied,3,3,1,Yes,2.0,Could be better
+361,11160,2024-03-17,Neutral,1,3,1,No,1.0,Great!
+362,11477,2024-02-05,Very Dissatisfied,3,5,2,Yes,1.0,
+363,11876,2024-04-21,Dissatisfied,4,5,5,Yes,4.0,Great!
+364,11657,2024-03-02,Very Dissatisfied,1,4,5,No,1.0,Good
+365,10789,2024-05-07,Very Satisfied,5,2,1,Yes,0.0,
+366,10399,2024-06-22,Very Satisfied,3,4,5,Yes,3.0,
+367,11642,2024-05-27,Dissatisfied,1,1,2,No,6.0,
+368,10531,2024-01-24,Satisfied,5,4,2,No,5.0,
+369,10128,2024-01-14,Dissatisfied,2,4,1,Yes,9.0,Average
+370,11875,2024-05-04,Very Dissatisfied,1,4,1,Yes,0.0,Could be better
+371,11670,2024-04-14,Satisfied,4,3,3,No,10.0,Could be better
+372,10099,2024-04-19,Very Satisfied,5,1,5,No,4.0,Good
+373,10272,2024-05-15,Satisfied,4,5,4,No,4.0,Great!
+374,11334,2024-02-13,Dissatisfied,3,1,2,No,2.0,Good
+375,11271,2024-03-14,Neutral,5,1,3,No,5.0,Good
+376,10562,2024-05-15,Dissatisfied,4,4,1,No,6.0,
+377,11778,2024-02-01,Very Satisfied,2,1,1,No,10.0,Great!
+378,11935,2024-05-02,Dissatisfied,2,3,5,Yes,3.0,Average
+379,10256,2024-01-07,Satisfied,2,4,5,No,7.0,Average
+380,10350,2024-03-31,Satisfied,2,1,5,No,4.0,Could be better
+381,10939,2024-05-22,Satisfied,3,2,5,Yes,1.0,Great!
+382,11753,2024-01-16,Very Satisfied,4,1,1,No,7.0,Average
+383,11860,2024-06-01,Satisfied,2,2,4,No,9.0,Could be better
+384,10521,2024-04-25,Neutral,4,4,1,Yes,8.0,Great!
+385,11559,2024-04-28,Very Satisfied,3,3,4,No,3.0,
+386,11331,2024-05-17,Neutral,5,2,4,Yes,2.0,Great!
+387,10380,2024-05-01,Satisfied,5,5,4,Yes,4.0,Great!
+388,11997,2024-05-15,Dissatisfied,3,5,3,No,5.0,Average
+389,11772,2024-04-29,Satisfied,1,2,1,No,9.0,
+390,10895,2024-05-24,Very Dissatisfied,3,3,1,Yes,5.0,Average
+391,11199,2024-05-23,Very Dissatisfied,3,4,5,Yes,7.0,
+392,11984,2024-02-25,Very Dissatisfied,4,1,3,No,7.0,Good
+393,10964,2024-06-15,Very Dissatisfied,5,4,4,Yes,8.0,Average
+394,11774,2024-04-09,Neutral,3,3,1,No,3.0,Good
+395,10183,2024-06-04,Very Dissatisfied,4,4,5,Yes,0.0,Could be better
+396,11042,2024-03-17,Dissatisfied,3,5,3,No,5.0,
+397,11915,2024-01-18,Very Dissatisfied,2,2,2,Yes,9.0,Good
+398,11401,2024-02-10,Very Satisfied,4,2,1,No,7.0,
+399,11883,2024-03-01,Very Dissatisfied,4,1,2,No,4.0,
+400,10156,2024-06-14,Neutral,2,3,3,No,10.0,
+401,11855,2024-06-18,Very Satisfied,5,5,2,Yes,3.0,Great!
+402,10683,2024-04-04,Satisfied,3,3,3,Yes,6.0,Average
+403,10658,2024-02-21,Very Dissatisfied,2,4,2,Yes,9.0,
+404,11472,2024-02-06,Very Satisfied,2,2,3,No,4.0,Great!
+405,11160,2024-05-11,Dissatisfied,3,4,5,Yes,1.0,
+406,10151,2024-01-09,Dissatisfied,4,2,2,No,9.0,Great!
+407,10547,2024-02-25,Very Satisfied,2,4,4,No,10.0,Great!
+408,11549,2024-06-17,Neutral,3,5,4,Yes,5.0,Average
+409,10326,2024-05-05,Dissatisfied,3,4,2,Yes,0.0,Great!
+410,10325,2024-04-13,Neutral,2,3,3,Yes,1.0,Great!
+411,11929,2024-05-30,Very Satisfied,4,2,3,Yes,4.0,
+412,10412,2024-03-20,Satisfied,5,4,4,No,5.0,Average
+413,11733,2024-02-29,Dissatisfied,1,3,1,Yes,4.0,
+414,10776,2024-02-14,Very Satisfied,2,2,3,Yes,4.0,
+415,10045,2024-03-28,Dissatisfied,2,1,3,Yes,1.0,Good
+416,11896,2024-05-25,Dissatisfied,5,3,5,No,8.0,Great!
+417,11106,2024-06-21,Dissatisfied,2,3,3,No,8.0,Could be better
+418,10606,2024-05-06,Very Dissatisfied,5,1,3,Yes,5.0,
+419,10823,2024-06-15,Satisfied,2,3,5,Yes,,Great!
+420,11872,2024-01-31,Very Satisfied,5,5,2,Yes,2.0,
+421,10824,2024-04-22,Very Satisfied,3,2,2,Yes,10.0,Great!
+422,11260,2024-03-11,Satisfied,1,3,2,No,10.0,
+423,11399,2024-02-13,Dissatisfied,1,3,3,No,1.0,Good
+424,11651,2024-05-24,Very Dissatisfied,1,5,5,Yes,9.0,
+425,11189,2024-01-17,Satisfied,4,1,1,Yes,10.0,Average
+426,11996,2024-01-28,Very Dissatisfied,5,5,1,No,7.0,
+427,11014,2024-03-26,Satisfied,4,3,4,Yes,10.0,Average
+428,11495,2024-04-13,Very Satisfied,2,4,4,Yes,8.0,Could be better
+429,10649,2024-02-24,Satisfied,3,1,2,No,2.0,
+430,11518,2024-04-25,Very Satisfied,2,4,4,No,0.0,Average
+431,10131,2024-06-05,Dissatisfied,1,4,2,Yes,1.0,
+432,11764,2024-01-29,Satisfied,3,4,5,No,2.0,
+433,11219,2024-01-09,Very Dissatisfied,2,1,5,Yes,0.0,
+434,11268,2024-06-28,Satisfied,3,2,3,Yes,0.0,Average
+435,11462,2024-03-31,Very Dissatisfied,3,5,1,Yes,2.0,
+436,11274,2024-01-04,Very Dissatisfied,5,3,1,No,5.0,Could be better
+437,11378,2024-02-11,Very Dissatisfied,5,2,5,Yes,10.0,
+438,11960,2024-03-17,Neutral,2,4,2,Yes,1.0,Good
+439,10639,2024-02-24,Dissatisfied,4,1,5,Yes,0.0,Average
+440,10263,2024-01-25,Very Satisfied,1,2,1,No,0.0,Average
+441,10154,2024-05-15,Dissatisfied,5,2,5,No,3.0,
+442,10471,2024-03-29,Very Dissatisfied,1,4,3,No,9.0,Good
+443,10918,2024-05-01,Very Satisfied,2,2,3,Yes,3.0,Average
+444,10890,2024-06-06,Very Dissatisfied,2,4,3,No,5.0,
+445,11824,2024-02-23,Dissatisfied,5,3,1,Yes,2.0,Great!
+446,11642,2024-03-07,Satisfied,2,4,4,No,5.0,Could be better
+447,10364,2024-06-08,Dissatisfied,5,5,3,Yes,4.0,
+448,10795,2024-06-04,Satisfied,1,4,5,No,10.0,
+449,10950,2024-01-19,Very Dissatisfied,3,2,5,No,3.0,Average
+450,10263,2024-04-06,Satisfied,5,2,2,No,10.0,
+451,11708,2024-02-08,Neutral,4,5,5,Yes,4.0,Could be better
+452,11354,2024-03-25,Dissatisfied,1,2,1,Yes,5.0,Could be better
+453,10733,2024-01-05,Neutral,3,1,3,Yes,4.0,Average
+454,10860,2024-02-04,Neutral,1,3,3,Yes,3.0,Could be better
+455,11520,2024-04-20,Dissatisfied,5,5,2,Yes,9.0,Great!
+456,10756,2024-02-24,Dissatisfied,2,4,2,No,6.0,Could be better
+457,11729,2024-04-28,Very Dissatisfied,4,1,4,No,4.0,
+458,11932,2024-06-10,Satisfied,3,4,1,Yes,2.0,Good
+459,11192,2024-03-10,Neutral,5,1,2,Yes,5.0,
+460,10052,2024-05-03,Very Satisfied,1,5,5,Yes,5.0,
+461,11862,2024-02-03,Satisfied,3,3,3,Yes,,Great!
+462,10100,2024-05-29,Dissatisfied,3,1,4,No,4.0,Could be better
+463,10789,2024-01-30,Very Dissatisfied,5,3,4,No,7.0,
+464,11604,2024-05-02,Dissatisfied,4,1,2,Yes,7.0,Could be better
+465,10689,2024-02-27,Dissatisfied,5,4,4,No,8.0,Good
+466,11015,2024-01-26,Dissatisfied,5,3,3,No,1.0,
+467,10317,2024-01-22,Satisfied,5,2,3,No,,Could be better
+468,11530,2024-01-17,Dissatisfied,5,2,4,Yes,,Could be better
+469,10507,2024-03-19,Satisfied,5,4,4,Yes,7.0,
+470,10683,2024-04-06,Dissatisfied,4,1,3,No,10.0,Could be better
+471,10517,2024-02-17,Very Satisfied,2,2,4,Yes,4.0,Average
+472,11704,2024-01-23,Satisfied,2,5,3,No,5.0,Average
+473,10295,2024-01-05,Dissatisfied,4,1,3,No,1.0,Could be better
+474,10735,2024-03-25,Satisfied,1,4,4,Yes,9.0,Great!
+475,10689,2024-01-21,Neutral,5,3,3,No,10.0,
+476,11820,2024-05-21,Very Satisfied,1,4,3,No,9.0,Could be better
+477,10038,2024-03-06,Very Dissatisfied,1,3,1,No,10.0,
+478,11720,2024-02-20,Very Dissatisfied,4,2,5,Yes,6.0,
+479,10547,2024-05-29,Very Satisfied,3,4,3,Yes,4.0,Great!
+480,11022,2024-05-25,Dissatisfied,1,3,4,Yes,7.0,
+481,11140,2024-03-30,Very Dissatisfied,1,2,3,Yes,6.0,Good
+482,10316,2024-01-16,Very Dissatisfied,3,4,2,No,6.0,Could be better
+483,10452,2024-01-15,Dissatisfied,3,4,2,Yes,5.0,Average
+484,11232,2024-02-19,Very Satisfied,1,2,5,Yes,4.0,Good
+485,11376,2024-04-06,Very Dissatisfied,5,5,1,No,6.0,Average
+486,11219,2024-03-26,Dissatisfied,1,3,3,Yes,6.0,Great!
+487,11035,2024-01-16,Very Satisfied,2,3,1,Yes,2.0,
+488,10124,2024-06-06,Very Satisfied,2,4,4,No,10.0,Average
+489,11107,2024-01-17,Very Satisfied,4,3,5,No,1.0,Great!
+490,10905,2024-01-23,Satisfied,4,3,1,No,0.0,Good
+491,11380,2024-05-09,Very Dissatisfied,3,3,5,No,6.0,Great!
+492,11311,2024-05-27,Dissatisfied,3,5,5,No,9.0,Could be better
+493,11314,2024-06-25,Very Dissatisfied,3,2,1,No,,Good
+494,10623,2024-04-26,Very Satisfied,1,3,1,No,8.0,Great!
+495,10762,2024-06-11,Neutral,5,4,5,No,7.0,Good
+496,11113,2024-03-03,Very Satisfied,1,2,2,Yes,10.0,Great!
+497,10593,2024-03-19,Very Dissatisfied,2,2,1,Yes,8.0,Could be better
+498,10171,2024-01-03,Neutral,4,1,1,No,6.0,Average
+499,11803,2024-01-03,Satisfied,1,1,1,Yes,6.0,
+500,11742,2024-01-25,Very Dissatisfied,2,5,5,Yes,8.0,
+501,10310,2024-06-24,Neutral,2,1,5,Yes,0.0,
+502,11608,2024-03-26,Satisfied,2,1,3,No,9.0,Good
+503,11623,2024-03-11,Satisfied,4,5,3,No,9.0,Good
+504,10883,2024-04-08,Dissatisfied,4,3,4,Yes,9.0,
+505,10712,2024-02-18,Very Dissatisfied,5,5,3,Yes,3.0,
+506,10632,2024-03-04,Neutral,1,2,5,No,8.0,
+507,10819,2024-06-09,Dissatisfied,1,2,5,No,5.0,Great!
+508,11890,2024-06-03,Very Satisfied,1,1,5,No,5.0,Great!
+509,10289,2024-05-02,Very Satisfied,4,2,4,No,5.0,Could be better
+510,11888,2024-04-03,Satisfied,3,5,5,Yes,6.0,
+511,10118,2024-04-02,Very Satisfied,4,1,3,Yes,10.0,Could be better
+512,11853,2024-05-01,Very Satisfied,2,5,4,No,8.0,Great!
+513,10033,2024-03-09,Satisfied,1,5,2,Yes,1.0,Could be better
+514,10378,2024-05-17,Neutral,4,3,2,No,6.0,Great!
+515,11127,2024-01-12,Neutral,1,4,4,No,0.0,Could be better
+516,10059,2024-04-28,Dissatisfied,3,1,3,Yes,3.0,Average
+517,11352,2024-02-08,Neutral,3,3,2,Yes,2.0,Average
+518,10732,2024-03-24,Very Dissatisfied,4,2,3,No,4.0,Could be better
+519,10510,2024-05-12,Very Satisfied,1,4,3,No,8.0,
+520,10178,2024-05-16,Neutral,1,1,4,Yes,3.0,
+521,11952,2024-04-13,Satisfied,5,3,4,Yes,2.0,
+522,10839,2024-06-12,Very Satisfied,2,1,2,No,9.0,Great!
+523,10222,2024-03-13,Very Dissatisfied,2,3,3,Yes,1.0,
+524,10522,2024-03-19,Very Satisfied,1,5,2,No,3.0,Average
+525,10329,2024-04-02,Very Dissatisfied,5,3,5,Yes,2.0,Could be better
+526,11004,2024-04-14,Dissatisfied,1,2,2,No,1.0,
+527,10993,2024-05-25,Dissatisfied,1,3,3,No,6.0,Could be better
+528,10571,2024-02-08,Dissatisfied,1,4,3,No,,Good
+529,10468,2024-02-04,Very Dissatisfied,2,4,2,No,0.0,Good
+530,11313,2024-03-18,Neutral,2,2,3,No,0.0,Great!
+531,11026,2024-01-12,Neutral,4,2,5,No,4.0,Average
+532,10109,2024-06-18,Neutral,3,3,2,No,1.0,Could be better
+533,11342,2024-02-11,Dissatisfied,1,4,2,No,0.0,
+534,10705,2024-05-24,Very Satisfied,5,5,3,No,7.0,Could be better
+535,11012,2024-04-18,Very Satisfied,3,4,3,Yes,1.0,
+536,11333,2024-04-07,Very Dissatisfied,4,2,5,No,5.0,Great!
+537,11268,2024-04-20,Neutral,3,5,2,No,9.0,Great!
+538,10714,2024-05-22,Very Satisfied,4,3,1,No,5.0,
+539,11298,2024-03-21,Dissatisfied,1,4,5,No,9.0,Could be better
+540,10967,2024-05-30,Neutral,4,4,5,No,7.0,Could be better
+541,11113,2024-05-30,Satisfied,4,3,1,Yes,4.0,Great!
+542,10289,2024-02-22,Dissatisfied,1,1,3,No,6.0,Good
+543,11178,2024-06-18,Very Dissatisfied,4,1,4,Yes,0.0,Could be better
+544,10703,2024-05-08,Neutral,4,5,4,No,6.0,Good
+545,10937,2024-01-24,Satisfied,5,4,5,No,8.0,Average
+546,11594,2024-03-20,Dissatisfied,4,1,4,No,0.0,Average
+547,10112,2024-05-16,Neutral,2,2,5,Yes,0.0,
+548,10239,2024-01-16,Dissatisfied,5,3,1,Yes,4.0,Great!
+549,11602,2024-04-12,Neutral,2,5,5,No,9.0,
+550,10738,2024-06-26,Very Satisfied,1,5,2,Yes,3.0,Average
+551,11593,2024-02-07,Dissatisfied,4,1,4,Yes,10.0,Average
+552,10103,2024-03-21,Satisfied,5,4,1,No,10.0,Could be better
+553,11148,2024-01-25,Very Dissatisfied,4,3,1,Yes,2.0,
+554,11989,2024-05-28,Very Satisfied,2,4,5,Yes,3.0,Average
+555,11970,2024-06-19,Dissatisfied,4,3,2,Yes,3.0,Average
+556,10697,2024-01-29,Very Satisfied,2,3,1,No,1.0,Average
+557,10339,2024-02-22,Dissatisfied,3,4,3,Yes,10.0,Good
+558,10581,2024-04-23,Satisfied,2,1,3,No,,Good
+559,11353,2024-03-22,Dissatisfied,1,3,3,No,9.0,Could be better
+560,10366,2024-06-02,Satisfied,2,3,5,No,0.0,Could be better
+561,11472,2024-02-17,Neutral,3,5,1,Yes,8.0,Good
+562,11296,2024-01-01,Neutral,5,1,1,No,1.0,Could be better
+563,11618,2024-06-26,Dissatisfied,4,5,3,Yes,6.0,Great!
+564,10452,2024-05-11,Dissatisfied,5,2,1,Yes,2.0,Average
+565,10853,2024-06-21,Dissatisfied,4,1,4,No,7.0,Good
+566,10971,2024-01-09,Neutral,2,4,2,No,2.0,
+567,11222,2024-03-03,Satisfied,2,5,4,Yes,9.0,Great!
+568,11092,2024-05-19,Very Dissatisfied,4,2,4,No,8.0,Could be better
+569,10449,2024-01-10,Neutral,3,2,4,Yes,4.0,
+570,10531,2024-01-02,Dissatisfied,2,5,3,No,5.0,Could be better
+571,10522,2024-01-26,Satisfied,1,5,5,No,10.0,
+572,11483,2024-06-28,Very Dissatisfied,4,3,1,No,1.0,Great!
+573,11845,2024-02-19,Very Dissatisfied,1,5,4,No,1.0,
+574,10272,2024-03-12,Very Dissatisfied,2,3,1,No,5.0,Good
+575,10372,2024-05-26,Satisfied,3,2,1,Yes,9.0,Could be better
+576,10158,2024-05-10,Neutral,2,3,4,No,4.0,Great!
+577,10416,2024-04-09,Very Dissatisfied,5,4,4,No,9.0,
+578,10671,2024-02-29,Satisfied,2,4,2,Yes,0.0,
+579,11218,2024-04-09,Neutral,1,5,3,No,8.0,Average
+580,10129,2024-06-22,Very Dissatisfied,1,3,3,Yes,5.0,
+581,10198,2024-02-15,Dissatisfied,2,2,4,Yes,3.0,Average
+582,11089,2024-01-06,Dissatisfied,1,2,5,Yes,4.0,Average
+583,11080,2024-01-07,Very Dissatisfied,4,4,1,No,6.0,Could be better
+584,10583,2024-01-16,Satisfied,2,2,3,Yes,5.0,
+585,11413,2024-05-01,Neutral,2,4,5,No,0.0,Average
+586,10377,2024-02-23,Very Dissatisfied,1,2,5,Yes,1.0,Good
+587,11496,2024-01-14,Satisfied,3,2,2,Yes,8.0,
+588,11122,2024-04-16,Very Satisfied,5,4,5,Yes,10.0,Great!
+589,10225,2024-03-09,Dissatisfied,3,5,2,No,4.0,
+590,11941,2024-05-07,Neutral,5,2,3,No,7.0,Great!
+591,10984,2024-05-18,Very Dissatisfied,1,1,3,Yes,2.0,Good
+592,10108,2024-05-16,Neutral,3,1,5,No,6.0,Could be better
+593,10805,2024-01-29,Satisfied,1,5,4,Yes,1.0,
+594,11398,2024-04-25,Satisfied,3,2,5,Yes,2.0,
+595,10904,2024-02-16,Very Satisfied,3,2,4,Yes,8.0,Could be better
+596,11919,2024-04-03,Dissatisfied,1,5,4,Yes,5.0,
+597,10409,2024-01-23,Neutral,2,1,2,Yes,8.0,Good
+598,11829,2024-01-26,Neutral,2,3,2,No,7.0,Good
+599,11201,2024-02-05,Neutral,1,5,2,Yes,0.0,Great!
+600,10331,2024-01-22,Very Dissatisfied,1,5,1,Yes,3.0,Good
+601,11043,2024-01-12,Very Satisfied,5,3,3,Yes,0.0,
+602,11974,2024-02-08,Dissatisfied,2,5,3,No,3.0,Average
+603,11651,2024-05-13,Very Satisfied,4,2,4,Yes,5.0,Good
+604,10454,2024-04-20,Very Dissatisfied,4,5,3,Yes,9.0,
+605,11969,2024-05-30,Neutral,2,2,5,No,,
+606,10717,2024-05-15,Neutral,5,2,5,No,3.0,Average
+607,10908,2024-02-05,Dissatisfied,1,1,5,No,10.0,Average
+608,10382,2024-04-01,Neutral,5,3,5,No,10.0,
+609,11969,2024-05-10,Very Satisfied,3,1,1,No,8.0,Great!
+610,10408,2024-01-09,Very Dissatisfied,1,2,1,Yes,5.0,
+611,10683,2024-06-24,Very Satisfied,5,4,4,No,8.0,Good
+612,10575,2024-05-20,Very Satisfied,5,5,3,Yes,1.0,Could be better
+613,10692,2024-06-08,Dissatisfied,5,4,1,No,3.0,Average
+614,11743,2024-05-19,Very Satisfied,3,3,5,No,0.0,Good
+615,10527,2024-02-14,Satisfied,1,3,1,Yes,4.0,
+616,10729,2024-01-15,Very Satisfied,5,3,4,Yes,5.0,Good
+617,11855,2024-04-07,Neutral,2,1,3,No,1.0,Average
+618,11610,2024-03-13,Neutral,1,2,3,No,8.0,
+619,11031,2024-01-17,Satisfied,3,1,3,Yes,1.0,Could be better
+620,11714,2024-03-18,Very Dissatisfied,3,3,2,No,0.0,Could be better
+621,11251,2024-02-22,Satisfied,5,3,4,Yes,3.0,
+622,10714,2024-02-07,Neutral,1,2,4,No,0.0,
+623,11978,2024-02-19,Satisfied,2,3,3,No,4.0,Great!
+624,10087,2024-04-09,Dissatisfied,4,4,3,No,3.0,Great!
+625,10969,2024-06-22,Satisfied,5,3,2,No,0.0,
+626,11788,2024-06-11,Neutral,5,2,1,Yes,1.0,Good
+627,10136,2024-01-07,Neutral,4,4,5,Yes,9.0,
+628,10485,2024-01-08,Satisfied,5,4,5,No,3.0,Average
+629,11387,2024-01-24,Very Dissatisfied,4,4,3,No,1.0,
+630,10932,2024-03-04,Neutral,4,5,1,Yes,1.0,
+631,10054,2024-01-06,Very Dissatisfied,3,4,5,Yes,2.0,Average
+632,10433,2024-03-07,Very Dissatisfied,5,3,2,Yes,9.0,
+633,11018,2024-05-22,Very Satisfied,1,5,1,Yes,3.0,Could be better
+634,10319,2024-03-17,Very Dissatisfied,1,1,1,No,7.0,Good
+635,11180,2024-05-02,Very Dissatisfied,2,3,1,Yes,5.0,Could be better
+636,10475,2024-05-31,Dissatisfied,1,2,5,No,6.0,Great!
+637,10884,2024-05-06,Neutral,1,2,2,Yes,1.0,Great!
+638,11016,2024-01-24,Neutral,3,5,1,Yes,8.0,Average
+639,10059,2024-04-18,Very Satisfied,3,2,5,No,4.0,Average
+640,11112,2024-04-18,Very Satisfied,3,1,1,Yes,1.0,
+641,10102,2024-04-24,Very Dissatisfied,5,1,4,Yes,1.0,
+642,11036,2024-04-09,Very Dissatisfied,1,5,4,No,0.0,Average
+643,10559,2024-05-25,Very Dissatisfied,4,1,3,Yes,0.0,Could be better
+644,10172,2024-02-20,Satisfied,5,2,1,No,4.0,Good
+645,11891,2024-02-29,Satisfied,1,4,5,Yes,2.0,Good
+646,11415,2024-04-26,Very Dissatisfied,1,4,4,No,1.0,Average
+647,11270,2024-04-07,Neutral,3,4,1,Yes,0.0,
+648,10115,2024-01-27,Very Dissatisfied,3,3,2,No,9.0,Good
+649,10465,2024-04-08,Dissatisfied,3,2,1,No,0.0,Average
+650,10465,2024-01-04,Very Satisfied,3,1,1,Yes,3.0,Could be better
+651,10082,2024-05-08,Satisfied,5,2,1,Yes,10.0,Could be better
+652,10334,2024-06-01,Very Satisfied,3,1,5,Yes,1.0,Average
+653,10412,2024-06-03,Very Satisfied,3,3,1,Yes,7.0,Good
+654,11628,2024-04-04,Dissatisfied,2,2,5,Yes,1.0,
+655,10352,2024-04-26,Satisfied,2,3,3,No,9.0,Could be better
+656,11238,2024-05-08,Dissatisfied,5,5,2,No,,Great!
+657,11108,2024-06-21,Very Dissatisfied,4,4,5,No,4.0,Average
+658,11895,2024-01-13,Very Dissatisfied,3,1,1,No,4.0,Good
+659,11417,2024-04-08,Very Satisfied,3,4,1,No,8.0,Could be better
+660,10189,2024-05-04,Very Dissatisfied,3,3,1,Yes,8.0,
+661,10880,2024-03-03,Satisfied,1,3,2,Yes,,
+662,11209,2024-04-22,Satisfied,4,1,4,No,7.0,
+663,10274,2024-03-07,Very Satisfied,1,3,4,Yes,2.0,
+664,11499,2024-05-29,Satisfied,5,4,5,Yes,7.0,Good
+665,10705,2024-05-26,Very Satisfied,5,1,4,No,3.0,Average
+666,10258,2024-01-26,Very Satisfied,4,1,3,Yes,6.0,Good
+667,11605,2024-05-16,Satisfied,5,5,2,No,1.0,
+668,11676,2024-04-18,Very Satisfied,5,3,4,Yes,0.0,Good
+669,10730,2024-06-09,Neutral,5,2,3,Yes,0.0,
+670,10883,2024-05-15,Very Dissatisfied,2,3,4,Yes,5.0,Great!
+671,10151,2024-04-13,Satisfied,1,5,1,Yes,7.0,Average
+672,11188,2024-06-18,Satisfied,2,3,4,Yes,8.0,Average
+673,11532,2024-01-03,Very Dissatisfied,4,3,2,No,6.0,Good
+674,10170,2024-06-11,Very Satisfied,5,3,4,Yes,6.0,Could be better
+675,11107,2024-01-07,Very Dissatisfied,2,3,3,No,5.0,Could be better
+676,11615,2024-04-27,Satisfied,4,3,5,Yes,3.0,
+677,11383,2024-05-25,Very Satisfied,3,2,4,Yes,2.0,
+678,11696,2024-02-03,Very Satisfied,1,3,3,No,10.0,Great!
+679,10974,2024-04-27,Neutral,2,2,3,Yes,3.0,
+680,11831,2024-03-09,Very Dissatisfied,3,2,2,No,7.0,Average
+681,11594,2024-01-22,Very Satisfied,3,2,3,Yes,0.0,
+682,11939,2024-01-14,Neutral,1,2,3,Yes,6.0,Average
+683,10284,2024-06-24,Neutral,1,1,4,No,5.0,Great!
+684,11583,2024-02-21,Very Satisfied,1,2,3,No,5.0,
+685,10013,2024-02-11,Dissatisfied,4,2,3,No,2.0,Average
+686,11948,2024-02-26,Dissatisfied,1,3,5,Yes,6.0,Average
+687,10920,2024-02-12,Satisfied,1,4,4,No,7.0,
+688,11230,2024-05-15,Very Satisfied,2,4,4,Yes,0.0,Great!
+689,11117,2024-05-04,Very Satisfied,1,1,5,Yes,5.0,Could be better
+690,11471,2024-01-27,Neutral,3,5,2,Yes,9.0,Average
+691,10623,2024-01-13,Very Dissatisfied,4,5,2,No,9.0,
+692,10940,2024-03-05,Very Dissatisfied,2,1,4,Yes,8.0,
+693,10124,2024-04-05,Very Dissatisfied,4,4,5,Yes,9.0,Great!
+694,11038,2024-03-18,Satisfied,1,2,4,Yes,7.0,Average
+695,11276,2024-02-27,Very Satisfied,1,4,5,No,8.0,Could be better
+696,11252,2024-02-11,Neutral,3,2,3,No,0.0,Great!
+697,11209,2024-06-26,Very Satisfied,1,4,4,No,1.0,Great!
+698,10740,2024-01-17,Satisfied,1,5,1,Yes,1.0,
+699,10338,2024-04-13,Dissatisfied,2,2,4,Yes,2.0,
+700,10865,2024-01-23,Neutral,1,2,1,No,4.0,Average
+701,11071,2024-03-15,Satisfied,4,3,5,Yes,9.0,Good
+702,10257,2024-06-24,Satisfied,4,2,3,No,6.0,
+703,11279,2024-03-24,Very Satisfied,2,3,4,No,3.0,Great!
+704,10816,2024-05-29,Satisfied,3,5,2,No,5.0,Could be better
+705,11680,2024-03-21,Very Dissatisfied,1,1,2,Yes,1.0,Good
+706,10367,2024-04-24,Dissatisfied,5,2,3,No,9.0,Good
+707,10855,2024-06-12,Neutral,2,5,5,No,5.0,Could be better
+708,10747,2024-05-06,Dissatisfied,1,1,3,Yes,9.0,Could be better
+709,11020,2024-06-17,Neutral,1,2,3,No,9.0,Great!
+710,11260,2024-02-20,Satisfied,3,3,3,No,7.0,
+711,10228,2024-06-06,Satisfied,2,3,2,Yes,8.0,Could be better
+712,10602,2024-05-08,Dissatisfied,1,4,4,Yes,9.0,Good
+713,11312,2024-06-05,Very Dissatisfied,2,2,3,Yes,6.0,
+714,10314,2024-02-24,Dissatisfied,4,3,5,Yes,3.0,Average
+715,11876,2024-01-27,Satisfied,2,1,5,No,9.0,Could be better
+716,11586,2024-02-02,Very Satisfied,3,3,3,No,6.0,
+717,11667,2024-01-29,Very Satisfied,5,5,2,No,10.0,Average
+718,11917,2024-03-01,Very Satisfied,1,3,4,No,0.0,
+719,11690,2024-06-21,Satisfied,2,1,5,Yes,0.0,Great!
+720,10817,2024-04-14,Very Dissatisfied,2,5,2,No,5.0,Could be better
+721,11825,2024-01-18,Dissatisfied,5,2,5,Yes,0.0,Good
+722,10808,2024-06-11,Very Dissatisfied,4,3,4,No,7.0,
+723,10565,2024-01-07,Dissatisfied,5,1,1,Yes,3.0,Average
+724,11679,2024-01-21,Very Dissatisfied,5,5,3,Yes,4.0,Good
+725,11202,2024-05-24,Very Satisfied,4,1,2,Yes,7.0,
+726,10541,2024-03-13,Neutral,3,1,2,No,6.0,Average
+727,10559,2024-01-23,Neutral,3,1,4,Yes,0.0,
+728,10000,2024-06-11,Neutral,4,4,1,No,6.0,
+729,10736,2024-01-14,Very Dissatisfied,5,4,4,No,5.0,
+730,10846,2024-06-20,Satisfied,4,2,5,Yes,5.0,
+731,10918,2024-03-17,Very Satisfied,4,3,4,Yes,3.0,Great!
+732,10628,2024-03-26,Dissatisfied,2,4,1,Yes,4.0,Great!
+733,11271,2024-01-18,Neutral,3,4,1,No,2.0,Average
+734,11646,2024-04-28,Very Dissatisfied,5,1,5,Yes,1.0,Good
+735,10400,2024-01-09,Very Satisfied,1,1,1,Yes,4.0,
+736,11210,2024-04-01,Very Dissatisfied,1,3,1,No,6.0,Could be better
+737,11330,2024-04-10,Neutral,1,4,1,Yes,5.0,Good
+738,10702,2024-06-12,Very Dissatisfied,4,3,5,Yes,6.0,
+739,11333,2024-03-27,Neutral,2,5,5,Yes,0.0,
+740,10864,2024-01-02,Neutral,4,3,1,Yes,2.0,Average
+741,11532,2024-02-19,Very Dissatisfied,2,5,1,Yes,3.0,Could be better
+742,11794,2024-01-19,Neutral,3,2,4,No,1.0,
+743,10864,2024-04-23,Very Satisfied,1,5,2,No,10.0,
+744,10497,2024-05-27,Neutral,2,1,5,No,4.0,Good
+745,10950,2024-06-01,Very Dissatisfied,5,2,1,Yes,0.0,Good
+746,11793,2024-01-16,Very Dissatisfied,1,1,4,No,2.0,Could be better
+747,11198,2024-02-11,Very Satisfied,2,2,2,No,6.0,Average
+748,10969,2024-03-17,Dissatisfied,2,2,3,Yes,0.0,Could be better
+749,11404,2024-06-16,Very Dissatisfied,2,4,5,Yes,7.0,Could be better
+750,11432,2024-05-23,Dissatisfied,1,4,5,No,4.0,
+751,10837,2024-05-24,Neutral,1,4,3,No,7.0,
+752,10295,2024-01-22,Very Satisfied,4,3,1,Yes,7.0,
+753,10048,2024-01-29,Satisfied,1,1,3,No,0.0,Average
+754,11895,2024-03-05,Satisfied,1,2,3,Yes,6.0,Great!
+755,10315,2024-06-24,Dissatisfied,3,1,2,Yes,0.0,Great!
+756,11539,2024-03-20,Very Satisfied,1,3,4,Yes,10.0,
+757,11271,2024-02-11,Dissatisfied,1,5,3,No,3.0,Great!
+758,11554,2024-05-22,Neutral,2,1,3,No,10.0,Good
+759,11392,2024-03-06,Satisfied,1,5,3,No,8.0,
+760,11530,2024-03-14,Very Satisfied,1,4,1,No,8.0,Could be better
+761,11696,2024-04-15,Very Dissatisfied,2,5,4,No,6.0,Average
+762,11369,2024-06-12,Neutral,5,3,1,No,4.0,
+763,11654,2024-01-22,Very Dissatisfied,2,3,4,Yes,2.0,
+764,10384,2024-03-20,Very Dissatisfied,5,2,5,Yes,0.0,Could be better
+765,11817,2024-04-07,Satisfied,1,2,4,No,8.0,Could be better
+766,10353,2024-01-06,Dissatisfied,3,4,5,No,2.0,
+767,11820,2024-01-15,Dissatisfied,3,4,2,No,1.0,
+768,10811,2024-03-03,Satisfied,4,5,3,Yes,4.0,Average
+769,11804,2024-02-11,Dissatisfied,4,4,5,Yes,7.0,Great!
+770,10269,2024-01-17,Very Dissatisfied,4,4,3,Yes,5.0,Could be better
+771,11620,2024-02-08,Neutral,2,4,5,No,3.0,Great!
+772,11572,2024-03-29,Neutral,3,1,1,Yes,0.0,Good
+773,10699,2024-02-10,Neutral,1,5,4,No,8.0,Could be better
+774,10048,2024-05-28,Satisfied,5,3,2,Yes,9.0,
+775,11301,2024-01-23,Neutral,5,4,5,Yes,3.0,Could be better
+776,11047,2024-04-02,Very Dissatisfied,2,2,1,Yes,0.0,Could be better
+777,11235,2024-03-14,Very Satisfied,5,1,4,No,9.0,Average
+778,10835,2024-05-09,Satisfied,4,1,3,Yes,3.0,Could be better
+779,11723,2024-06-28,Neutral,1,4,5,No,3.0,Great!
+780,10209,2024-06-24,Satisfied,1,3,1,No,6.0,Great!
+781,11451,2024-01-10,Satisfied,3,4,5,Yes,2.0,Could be better
+782,10399,2024-05-07,Very Dissatisfied,3,4,5,Yes,7.0,Good
+783,10034,2024-01-05,Neutral,2,3,4,Yes,7.0,Good
+784,11956,2024-01-24,Very Dissatisfied,1,5,1,Yes,0.0,Good
+785,11572,2024-01-23,Neutral,5,5,5,Yes,10.0,Could be better
+786,10990,2024-04-16,Very Dissatisfied,2,5,3,No,7.0,Good
+787,11793,2024-06-12,Satisfied,2,1,2,Yes,1.0,Good
+788,10003,2024-06-13,Very Dissatisfied,3,3,2,No,8.0,Good
+789,11607,2024-02-07,Very Dissatisfied,5,3,2,No,6.0,
+790,11040,2024-06-28,Very Satisfied,5,3,3,No,8.0,
+791,11427,2024-02-20,Satisfied,2,1,1,Yes,4.0,Could be better
+792,11387,2024-02-27,Very Dissatisfied,1,4,2,No,10.0,
+793,10791,2024-01-18,Very Dissatisfied,1,2,3,Yes,10.0,Great!
+794,11740,2024-04-03,Neutral,2,3,4,Yes,9.0,Could be better
+795,10010,2024-06-18,Satisfied,2,2,4,No,0.0,Could be better
+796,11832,2024-02-29,Dissatisfied,1,3,4,Yes,0.0,Average
+797,10158,2024-02-27,Satisfied,3,2,5,No,5.0,Could be better
+798,11321,2024-01-08,Dissatisfied,4,5,3,Yes,1.0,Average
+799,11559,2024-01-31,Satisfied,3,4,2,Yes,2.0,
+800,10953,2024-04-27,Satisfied,5,2,2,No,10.0,Could be better
+801,10193,2024-03-18,Neutral,2,4,5,No,9.0,Great!
+802,11945,2024-01-03,Dissatisfied,1,1,4,No,7.0,
+803,11233,2024-05-18,Satisfied,3,5,1,Yes,2.0,Great!
+804,11675,2024-02-13,Satisfied,1,5,3,No,10.0,
+805,10335,2024-01-16,Dissatisfied,5,5,1,Yes,9.0,
+806,11809,2024-06-03,Dissatisfied,2,4,2,Yes,7.0,Could be better
+807,10595,2024-06-06,Neutral,3,5,1,No,3.0,Average
+808,11483,2024-03-04,Neutral,1,4,2,No,10.0,Could be better
+809,11202,2024-06-06,Very Dissatisfied,5,5,1,No,6.0,Good
+810,11764,2024-01-10,Dissatisfied,5,3,5,Yes,,
+811,10571,2024-03-31,Neutral,3,5,3,No,7.0,Great!
+812,11227,2024-01-18,Satisfied,4,5,3,Yes,5.0,Good
+813,10604,2024-02-20,Neutral,2,4,3,Yes,2.0,Great!
+814,10802,2024-05-13,Neutral,3,5,1,No,6.0,Good
+815,11491,2024-03-16,Dissatisfied,4,4,1,No,10.0,Good
+816,11661,2024-02-09,Neutral,4,1,3,Yes,6.0,Could be better
+817,11359,2024-01-22,Neutral,5,5,1,Yes,10.0,Great!
+818,10545,2024-01-18,Neutral,1,4,1,No,7.0,Could be better
+819,11297,2024-03-08,Dissatisfied,2,1,4,Yes,5.0,Could be better
+820,10302,2024-03-25,Neutral,2,4,1,Yes,5.0,
+821,11336,2024-03-25,Dissatisfied,2,5,2,No,4.0,Average
+822,10201,2024-02-01,Satisfied,3,3,3,No,8.0,Great!
+823,10298,2024-06-12,Very Dissatisfied,2,1,5,No,10.0,Could be better
+824,10817,2024-02-06,Neutral,5,3,1,Yes,8.0,Great!
+825,11837,2024-06-28,Neutral,5,4,2,Yes,7.0,Could be better
+826,11834,2024-02-27,Dissatisfied,2,5,5,Yes,9.0,
+827,11609,2024-01-30,Satisfied,5,3,3,No,10.0,
+828,11483,2024-03-30,Very Dissatisfied,4,5,2,Yes,6.0,Average
+829,11023,2024-06-12,Dissatisfied,5,3,4,Yes,9.0,Average
+830,11007,2024-02-15,Satisfied,4,5,5,No,3.0,Could be better
+831,10437,2024-03-23,Very Satisfied,4,5,2,No,2.0,
+832,10830,2024-05-23,Dissatisfied,3,2,5,No,1.0,Average
+833,11778,2024-06-18,Very Satisfied,3,2,1,Yes,2.0,
+834,10216,2024-06-06,Dissatisfied,1,3,1,Yes,10.0,Good
+835,11970,2024-01-15,Dissatisfied,3,3,3,Yes,3.0,Great!
+836,11557,2024-03-17,Satisfied,2,1,3,No,6.0,
+837,11898,2024-06-01,Satisfied,5,2,3,Yes,4.0,Could be better
+838,10901,2024-03-08,Very Dissatisfied,2,3,2,Yes,0.0,Could be better
+839,10576,2024-06-21,Satisfied,2,5,1,Yes,1.0,
+840,10771,2024-03-14,Satisfied,5,1,3,Yes,10.0,Great!
+841,11412,2024-01-06,Dissatisfied,2,4,5,No,,Could be better
+842,11449,2024-06-19,Satisfied,1,5,1,No,7.0,Average
+843,11054,2024-01-19,Satisfied,5,5,1,No,5.0,Could be better
+844,10455,2024-01-31,Dissatisfied,3,3,5,No,2.0,Good
+845,11072,2024-03-23,Satisfied,5,2,1,No,0.0,Could be better
+846,11446,2024-03-22,Very Satisfied,2,3,2,Yes,4.0,Good
+847,11678,2024-01-13,Satisfied,1,4,4,Yes,4.0,
+848,10284,2024-02-04,Satisfied,5,3,5,No,9.0,Average
+849,10812,2024-02-21,Neutral,3,5,5,Yes,5.0,Good
+850,11036,2024-01-15,Neutral,1,1,5,Yes,6.0,Average
+851,10482,2024-03-26,Dissatisfied,4,3,5,Yes,10.0,
+852,10094,2024-01-01,Very Satisfied,5,2,4,Yes,4.0,
+853,10955,2024-03-21,Dissatisfied,4,3,1,No,10.0,
+854,10932,2024-01-03,Neutral,5,4,3,No,3.0,
+855,11429,2024-03-16,Dissatisfied,2,5,3,No,2.0,Average
+856,10018,2024-06-24,Dissatisfied,5,3,4,Yes,4.0,Good
+857,11552,2024-03-27,Neutral,2,1,5,Yes,4.0,Great!
+858,10211,2024-06-05,Dissatisfied,1,1,1,No,8.0,
+859,11547,2024-02-09,Very Dissatisfied,4,4,3,Yes,9.0,
+860,11533,2024-04-05,Very Dissatisfied,1,5,4,No,5.0,Great!
+861,10729,2024-05-06,Very Dissatisfied,1,3,3,Yes,6.0,Average
+862,11017,2024-06-07,Neutral,5,2,3,Yes,,Great!
+863,11363,2024-05-16,Very Satisfied,2,2,2,Yes,2.0,Average
+864,10133,2024-05-07,Very Dissatisfied,1,5,5,Yes,6.0,Average
+865,11566,2024-03-08,Dissatisfied,5,3,1,No,1.0,Average
+866,11519,2024-05-29,Neutral,2,5,5,No,4.0,Great!
+867,11574,2024-06-09,Dissatisfied,2,1,4,No,10.0,Could be better
+868,11771,2024-03-17,Very Satisfied,4,3,3,Yes,4.0,Great!
+869,10864,2024-01-01,Very Dissatisfied,3,1,1,No,3.0,
+870,10272,2024-01-07,Very Dissatisfied,1,3,4,Yes,6.0,Good
+871,10439,2024-02-03,Dissatisfied,5,4,2,Yes,7.0,Average
+872,11877,2024-01-11,Satisfied,3,1,5,Yes,0.0,
+873,11184,2024-04-06,Satisfied,5,1,1,Yes,1.0,
+874,11616,2024-01-16,Very Satisfied,5,5,3,No,4.0,Good
+875,11725,2024-05-19,Very Dissatisfied,4,1,2,No,,
+876,11752,2024-02-24,Neutral,5,3,4,Yes,8.0,Great!
+877,11089,2024-04-02,Satisfied,3,5,2,No,6.0,
+878,10823,2024-02-27,Neutral,1,2,5,No,2.0,Good
+879,10198,2024-04-30,Very Dissatisfied,4,4,5,No,2.0,Average
+880,11214,2024-01-27,Satisfied,5,5,2,Yes,5.0,
+881,10842,2024-02-24,Neutral,5,4,2,Yes,5.0,Could be better
+882,10944,2024-05-04,Neutral,5,5,5,Yes,9.0,Could be better
+883,10890,2024-04-29,Very Satisfied,1,1,2,No,6.0,
+884,10656,2024-04-20,Neutral,1,3,1,Yes,1.0,Could be better
+885,10798,2024-03-12,Dissatisfied,5,5,4,Yes,2.0,
+886,11999,2024-06-23,Dissatisfied,2,2,5,No,6.0,
+887,11614,2024-06-14,Very Satisfied,4,4,5,Yes,2.0,
+888,11711,2024-05-12,Neutral,2,5,2,No,6.0,
+889,10502,2024-01-19,Very Dissatisfied,5,2,3,Yes,,
+890,11753,2024-05-12,Satisfied,5,1,5,No,10.0,Could be better
+891,11539,2024-05-06,Neutral,4,5,5,Yes,1.0,
+892,10137,2024-01-06,Dissatisfied,2,1,2,Yes,0.0,
+893,10911,2024-03-13,Dissatisfied,4,2,3,No,8.0,Good
+894,10572,2024-01-13,Very Dissatisfied,1,5,1,Yes,2.0,Could be better
+895,11891,2024-04-21,Satisfied,2,2,4,No,5.0,Good
+896,11538,2024-04-06,Very Satisfied,5,3,4,Yes,,Could be better
+897,11556,2024-04-05,Dissatisfied,4,1,5,No,5.0,
+898,11190,2024-01-08,Satisfied,2,1,4,No,3.0,
+899,11135,2024-01-06,Dissatisfied,1,5,4,Yes,4.0,Could be better
+900,11001,2024-03-22,Very Dissatisfied,3,3,4,Yes,6.0,Good
+901,11885,2024-04-01,Very Satisfied,4,4,1,Yes,,Could be better
+902,11649,2024-06-12,Neutral,4,2,4,No,1.0,Great!
+903,10492,2024-04-10,Dissatisfied,4,3,3,No,10.0,
+904,11366,2024-05-08,Satisfied,3,4,2,No,9.0,
+905,10145,2024-06-05,Dissatisfied,2,3,1,Yes,7.0,Could be better
+906,10552,2024-06-22,Very Satisfied,3,4,3,No,7.0,Good
+907,11995,2024-01-20,Dissatisfied,4,1,5,No,1.0,Average
+908,11466,2024-01-10,Very Dissatisfied,4,3,4,No,9.0,
+909,11100,2024-04-22,Neutral,1,5,1,No,8.0,Could be better
+910,10631,2024-05-15,Very Satisfied,1,2,1,No,0.0,Could be better
+911,10086,2024-03-10,Very Satisfied,1,4,1,No,10.0,
+912,10007,2024-02-11,Very Satisfied,2,5,1,No,2.0,Good
+913,10964,2024-03-10,Very Dissatisfied,1,4,2,No,,
+914,11965,2024-01-22,Neutral,5,5,4,Yes,5.0,
+915,10668,2024-03-15,Very Satisfied,5,5,3,No,,Could be better
+916,10110,2024-04-20,Dissatisfied,5,5,2,Yes,5.0,Great!
+917,11657,2024-02-09,Neutral,1,4,5,No,6.0,Good
+918,11300,2024-04-27,Very Satisfied,2,1,5,Yes,9.0,
+919,11783,2024-02-29,Very Dissatisfied,1,2,2,No,2.0,Great!
+920,11231,2024-03-06,Very Dissatisfied,4,3,4,No,5.0,
+921,10477,2024-04-07,Very Satisfied,4,2,2,No,0.0,
+922,11951,2024-06-20,Very Satisfied,4,4,2,Yes,0.0,Great!
+923,11298,2024-02-01,Satisfied,3,1,4,Yes,3.0,Good
+924,10232,2024-02-09,Very Dissatisfied,1,4,5,No,0.0,Good
+925,10722,2024-01-16,Dissatisfied,2,3,5,No,8.0,Could be better
+926,10312,2024-02-19,Very Satisfied,4,1,1,Yes,4.0,Could be better
+927,10660,2024-01-15,Neutral,1,5,2,Yes,5.0,Could be better
+928,11930,2024-05-20,Satisfied,2,3,5,No,6.0,Could be better
+929,10856,2024-04-14,Satisfied,3,3,1,No,1.0,
+930,10605,2024-04-02,Very Dissatisfied,3,5,3,No,8.0,Could be better
+931,10616,2024-04-16,Very Dissatisfied,4,4,3,No,5.0,
+932,11247,2024-06-11,Neutral,1,2,4,No,7.0,Good
+933,10015,2024-05-28,Very Dissatisfied,2,5,2,No,10.0,Average
+934,11678,2024-02-06,Very Satisfied,2,1,5,Yes,0.0,
+935,10472,2024-01-16,Neutral,4,5,1,No,1.0,
+936,10486,2024-05-01,Satisfied,4,1,4,Yes,7.0,Good
+937,11574,2024-02-19,Very Dissatisfied,4,1,1,No,10.0,
+938,10260,2024-02-26,Very Satisfied,3,5,4,No,7.0,Good
+939,10628,2024-04-24,Neutral,4,4,5,Yes,5.0,Could be better
+940,10986,2024-03-19,Neutral,3,2,1,Yes,4.0,Average
+941,11403,2024-01-10,Dissatisfied,5,2,3,Yes,4.0,
+942,10551,2024-04-24,Very Satisfied,5,1,3,No,6.0,Good
+943,10658,2024-04-29,Very Dissatisfied,1,1,2,No,10.0,Good
+944,11493,2024-05-20,Very Satisfied,4,4,2,Yes,7.0,Great!
+945,10101,2024-01-25,Neutral,5,3,5,No,7.0,
+946,10348,2024-01-20,Very Satisfied,4,1,2,No,2.0,Great!
+947,10568,2024-02-11,Very Satisfied,5,5,5,Yes,0.0,
+948,10893,2024-01-22,Very Dissatisfied,4,4,1,Yes,8.0,Great!
+949,10607,2024-05-27,Dissatisfied,4,4,2,No,0.0,
+950,10143,2024-05-06,Satisfied,3,5,2,Yes,9.0,Great!
+951,10094,2024-04-12,Satisfied,1,2,3,Yes,,Could be better
+952,11647,2024-05-22,Very Dissatisfied,3,4,3,No,3.0,Average
+953,10670,2024-02-20,Very Satisfied,3,1,2,Yes,8.0,Could be better
+954,11212,2024-03-10,Neutral,3,5,1,No,6.0,Average
+955,11532,2024-01-02,Neutral,1,1,4,No,2.0,Average
+956,11100,2024-03-08,Neutral,3,2,4,Yes,6.0,
+957,11403,2024-02-12,Very Dissatisfied,5,5,2,Yes,8.0,Great!
+958,10726,2024-05-09,Neutral,3,1,3,No,7.0,Could be better
+959,10509,2024-01-23,Satisfied,4,3,5,Yes,5.0,Good
+960,10911,2024-04-14,Dissatisfied,5,4,1,No,2.0,Great!
+961,11089,2024-03-01,Neutral,5,3,3,No,4.0,Good
+962,11624,2024-06-01,Neutral,3,2,4,No,0.0,Average
+963,10943,2024-03-04,Satisfied,4,3,1,Yes,,Good
+964,11204,2024-05-26,Neutral,1,1,4,No,4.0,
+965,10693,2024-05-08,Dissatisfied,4,2,3,Yes,7.0,Could be better
+966,11407,2024-05-17,Satisfied,1,5,4,Yes,9.0,Could be better
+967,11987,2024-02-25,Very Dissatisfied,5,1,1,Yes,5.0,
+968,11063,2024-05-15,Satisfied,2,4,3,No,5.0,
+969,10240,2024-06-07,Satisfied,4,1,3,No,0.0,Average
+970,10189,2024-05-27,Satisfied,5,5,3,No,7.0,Average
+971,11701,2024-02-14,Dissatisfied,5,4,1,Yes,1.0,Could be better
+972,10336,2024-05-14,Dissatisfied,5,2,5,No,5.0,Could be better
+973,11491,2024-04-13,Neutral,3,3,3,No,3.0,Could be better
+974,11115,2024-05-07,Dissatisfied,2,4,1,No,5.0,Average
+975,11554,2024-04-03,Dissatisfied,4,2,2,No,,Good
+976,10906,2024-05-08,Neutral,5,1,5,Yes,1.0,Good
+977,11939,2024-05-09,Dissatisfied,3,3,1,No,4.0,
+978,10425,2024-05-05,Neutral,1,1,2,No,4.0,Good
+979,11308,2024-01-12,Very Satisfied,1,1,4,Yes,7.0,
+980,10992,2024-01-14,Very Satisfied,5,1,2,Yes,8.0,
+981,11164,2024-05-10,Neutral,4,4,3,Yes,9.0,Great!
+982,10483,2024-04-29,Dissatisfied,2,5,2,No,9.0,
+983,10253,2024-02-18,Dissatisfied,1,4,5,No,5.0,Good
+984,11958,2024-04-09,Satisfied,1,3,4,Yes,5.0,Good
+985,10340,2024-01-31,Satisfied,5,1,2,Yes,5.0,Good
+986,11893,2024-04-18,Very Satisfied,3,5,1,Yes,6.0,Average
+987,10247,2024-06-25,Very Dissatisfied,5,1,3,Yes,5.0,
+988,11071,2024-01-23,Very Satisfied,2,2,2,Yes,5.0,Good
+989,11175,2024-03-19,Very Dissatisfied,1,1,4,No,7.0,Could be better
+990,11550,2024-06-02,Very Dissatisfied,3,5,1,Yes,8.0,Good
+991,10283,2024-02-09,Dissatisfied,3,1,3,Yes,1.0,
+992,11680,2024-05-21,Satisfied,4,5,5,Yes,6.0,Average
+993,10028,2024-05-15,Very Satisfied,4,2,1,No,3.0,Great!
+994,10217,2024-03-03,Dissatisfied,4,2,1,Yes,6.0,
+995,10122,2024-04-15,Satisfied,4,3,5,No,8.0,
+996,11433,2024-02-11,Satisfied,3,3,1,No,8.0,
+997,11181,2024-01-13,Neutral,3,1,3,No,6.0,Average
+998,11233,2024-04-19,Satisfied,4,3,3,No,4.0,Could be better
+999,10778,2024-05-26,Satisfied,2,3,5,No,5.0,Good
+1000,11447,2024-01-09,Very Dissatisfied,4,4,5,No,4.0,
+1001,11972,2024-05-17,Satisfied,2,3,2,Yes,8.0,
+1002,11027,2024-04-03,Neutral,1,5,4,No,0.0,
+1003,10732,2024-06-23,Dissatisfied,1,2,1,No,8.0,Great!
+1004,10422,2024-05-31,Dissatisfied,2,1,3,Yes,5.0,Average
+1005,10980,2024-06-10,Neutral,3,1,3,No,5.0,Could be better
+1006,10022,2024-05-20,Neutral,5,1,4,Yes,8.0,Great!
+1007,11706,2024-04-30,Neutral,5,3,5,Yes,2.0,Good
+1008,11162,2024-06-24,Satisfied,3,4,1,Yes,9.0,Could be better
+1009,11809,2024-05-01,Very Dissatisfied,5,5,4,No,7.0,Could be better
+1010,11310,2024-04-01,Very Dissatisfied,4,2,3,No,7.0,
+1011,10462,2024-04-14,Satisfied,5,1,2,No,9.0,Could be better
+1012,10841,2024-06-06,Dissatisfied,3,3,3,Yes,8.0,Great!
+1013,10028,2024-01-23,Very Satisfied,4,2,2,Yes,9.0,Could be better
+1014,11073,2024-02-14,Dissatisfied,4,5,2,Yes,0.0,
+1015,11190,2024-06-24,Dissatisfied,5,5,3,No,8.0,
+1016,10424,2024-03-05,Very Satisfied,5,5,2,Yes,9.0,Great!
+1017,11947,2024-04-16,Very Satisfied,1,2,2,Yes,10.0,Could be better
+1018,11433,2024-06-02,Dissatisfied,2,4,4,Yes,4.0,
+1019,10461,2024-03-20,Neutral,1,5,4,Yes,8.0,Average
+1020,10409,2024-06-06,Very Dissatisfied,3,2,3,No,8.0,Good
+1021,10923,2024-05-24,Dissatisfied,5,2,4,No,,
+1022,11993,2024-05-09,Very Satisfied,4,5,3,Yes,7.0,
+1023,11419,2024-04-01,Very Satisfied,5,4,3,Yes,8.0,
+1024,10546,2024-03-05,Dissatisfied,3,2,2,No,6.0,Great!
+1025,11270,2024-06-06,Very Dissatisfied,5,1,2,No,5.0,
+1026,11872,2024-01-01,Dissatisfied,3,3,4,No,3.0,
+1027,11364,2024-05-01,Very Dissatisfied,2,1,2,Yes,4.0,Average
+1028,10650,2024-02-07,Dissatisfied,2,1,3,Yes,8.0,Average
+1029,10818,2024-01-04,Satisfied,5,5,2,No,1.0,Great!
+1030,11912,2024-03-04,Satisfied,3,3,2,No,0.0,
+1031,10581,2024-06-08,Dissatisfied,1,1,5,Yes,2.0,
+1032,11322,2024-02-14,Satisfied,1,4,5,Yes,7.0,
+1033,10281,2024-02-12,Very Satisfied,1,5,2,No,8.0,Great!
+1034,10059,2024-06-04,Satisfied,2,2,2,Yes,7.0,
+1035,11772,2024-02-13,Dissatisfied,5,4,2,No,7.0,
+1036,10840,2024-01-29,Neutral,3,2,4,No,0.0,
+1037,10161,2024-02-18,Very Dissatisfied,1,1,2,No,5.0,Average
+1038,11927,2024-02-13,Very Satisfied,2,4,2,Yes,6.0,Average
+1039,11083,2024-06-02,Satisfied,3,4,5,Yes,2.0,Great!
+1040,10317,2024-04-19,Very Dissatisfied,1,3,5,Yes,2.0,Great!
+1041,11104,2024-04-14,Very Satisfied,2,2,1,No,9.0,Good
+1042,10355,2024-05-27,Satisfied,2,2,4,No,4.0,Good
+1043,11077,2024-04-03,Satisfied,4,3,1,No,,
+1044,10392,2024-02-22,Dissatisfied,1,3,4,Yes,2.0,Average
+1045,11322,2024-05-20,Neutral,5,5,2,No,8.0,
+1046,11925,2024-01-18,Very Satisfied,3,1,2,Yes,2.0,
+1047,11756,2024-01-08,Very Satisfied,2,3,4,Yes,1.0,Could be better
+1048,11221,2024-04-28,Dissatisfied,1,1,5,No,,
+1049,10467,2024-06-17,Dissatisfied,5,3,5,Yes,8.0,Average
+1050,11679,2024-06-22,Satisfied,2,2,1,No,6.0,Could be better
+1051,11084,2024-06-05,Neutral,2,4,5,No,3.0,Great!
+1052,11354,2024-03-09,Very Satisfied,2,1,4,Yes,,
+1053,11297,2024-06-29,Satisfied,1,4,2,No,9.0,Could be better
+1054,10212,2024-04-24,Neutral,3,5,4,Yes,9.0,
+1055,10956,2024-04-06,Dissatisfied,3,5,4,No,1.0,
+1056,10687,2024-02-03,Very Dissatisfied,3,2,1,No,4.0,Great!
+1057,10687,2024-03-23,Satisfied,1,1,4,Yes,10.0,
+1058,10682,2024-03-15,Dissatisfied,1,5,3,Yes,8.0,Good
+1059,11781,2024-02-08,Satisfied,2,4,3,No,3.0,Good
+1060,11698,2024-04-13,Neutral,2,3,5,Yes,3.0,Average
+1061,11369,2024-01-19,Satisfied,3,1,1,Yes,4.0,
+1062,11747,2024-03-28,Dissatisfied,2,4,4,Yes,7.0,Great!
+1063,10553,2024-05-05,Very Satisfied,4,1,5,No,6.0,
+1064,10265,2024-05-29,Dissatisfied,5,3,1,No,4.0,
+1065,10891,2024-06-19,Neutral,2,3,2,No,2.0,Could be better
+1066,11227,2024-04-01,Satisfied,2,2,1,Yes,5.0,Could be better
+1067,11654,2024-03-03,Very Dissatisfied,5,5,5,No,8.0,Great!
+1068,11160,2024-01-06,Neutral,2,4,1,Yes,10.0,Great!
+1069,11425,2024-01-09,Satisfied,5,4,2,No,2.0,Average
+1070,10565,2024-05-10,Very Satisfied,4,2,5,No,5.0,Average
+1071,10712,2024-06-28,Very Satisfied,5,1,3,Yes,9.0,Good
+1072,10457,2024-02-19,Neutral,2,2,3,No,1.0,Average
+1073,10252,2024-06-19,Dissatisfied,2,4,1,Yes,3.0,Could be better
+1074,10600,2024-04-19,Neutral,5,2,3,No,10.0,Could be better
+1075,10980,2024-05-31,Neutral,1,3,3,Yes,10.0,
+1076,10047,2024-05-17,Neutral,3,5,5,No,4.0,
+1077,10878,2024-05-23,Satisfied,1,2,2,Yes,2.0,Great!
+1078,10604,2024-03-31,Very Dissatisfied,3,1,1,Yes,9.0,
+1079,10864,2024-04-01,Satisfied,1,5,5,No,1.0,Great!
+1080,11804,2024-06-17,Neutral,3,4,3,Yes,2.0,Average
+1081,11617,2024-02-15,Satisfied,1,1,3,Yes,10.0,Average
+1082,10842,2024-03-23,Neutral,2,1,5,No,0.0,Could be better
+1083,11810,2024-03-29,Very Dissatisfied,3,1,4,Yes,2.0,
+1084,11196,2024-05-10,Dissatisfied,2,5,5,Yes,7.0,
+1085,11547,2024-06-24,Neutral,5,5,4,Yes,1.0,
+1086,11167,2024-06-05,Dissatisfied,4,5,5,Yes,8.0,Could be better
+1087,10781,2024-06-21,Very Satisfied,1,2,5,No,6.0,Could be better
+1088,10773,2024-01-13,Dissatisfied,3,2,5,No,9.0,
+1089,10579,2024-04-27,Satisfied,1,3,3,Yes,3.0,Great!
+1090,10182,2024-05-15,Very Satisfied,4,3,2,No,5.0,Great!
+1091,10968,2024-04-22,Satisfied,2,1,2,Yes,,
+1092,11067,2024-06-02,Very Dissatisfied,4,4,1,Yes,0.0,Could be better
+1093,11151,2024-03-05,Satisfied,5,2,2,Yes,3.0,Average
+1094,11058,2024-02-08,Dissatisfied,2,5,4,No,3.0,Great!
+1095,11802,2024-04-29,Dissatisfied,2,1,5,No,2.0,Average
+1096,10490,2024-04-14,Satisfied,2,2,1,Yes,3.0,Great!
+1097,11178,2024-01-27,Very Dissatisfied,5,5,1,No,9.0,Could be better
+1098,11262,2024-05-11,Neutral,4,3,1,No,6.0,Average
+1099,11165,2024-02-12,Satisfied,4,4,4,No,6.0,Great!
+1100,11302,2024-02-11,Satisfied,1,5,4,No,0.0,Average
+1101,10579,2024-01-23,Satisfied,5,1,3,No,9.0,Great!
+1102,10203,2024-05-20,Satisfied,3,2,2,No,8.0,Could be better
+1103,11213,2024-03-20,Neutral,5,1,5,Yes,9.0,
+1104,11239,2024-01-09,Very Dissatisfied,5,4,3,Yes,8.0,
+1105,11057,2024-03-15,Neutral,4,2,4,Yes,6.0,
+1106,11261,2024-01-06,Satisfied,2,1,4,No,9.0,Could be better
+1107,10600,2024-05-02,Satisfied,4,3,3,No,0.0,Good
+1108,11205,2024-05-02,Very Dissatisfied,5,2,5,Yes,3.0,
+1109,10366,2024-06-19,Very Dissatisfied,4,3,2,Yes,0.0,
+1110,10449,2024-06-19,Very Satisfied,4,3,5,No,7.0,Good
+1111,11032,2024-06-11,Dissatisfied,5,4,5,No,0.0,Good
+1112,10510,2024-02-22,Neutral,4,1,1,No,3.0,Could be better
+1113,10894,2024-04-28,Satisfied,5,2,5,No,5.0,Could be better
+1114,11055,2024-02-21,Dissatisfied,5,4,3,No,8.0,Average
+1115,10458,2024-03-17,Very Satisfied,4,1,2,Yes,7.0,Good
+1116,11804,2024-06-25,Very Dissatisfied,1,4,2,No,1.0,
+1117,11607,2024-01-28,Very Dissatisfied,4,1,5,No,3.0,Great!
+1118,10321,2024-06-28,Satisfied,2,1,2,Yes,5.0,Average
+1119,11254,2024-05-22,Neutral,5,3,2,Yes,1.0,Could be better
+1120,10228,2024-04-05,Dissatisfied,1,1,5,No,10.0,Could be better
+1121,10849,2024-04-09,Neutral,3,5,1,No,0.0,
+1122,10568,2024-02-26,Dissatisfied,5,5,1,Yes,7.0,Great!
+1123,10174,2024-01-10,Very Dissatisfied,2,5,4,No,9.0,
+1124,11240,2024-06-11,Satisfied,3,3,2,Yes,3.0,
+1125,11677,2024-03-16,Dissatisfied,3,2,1,Yes,1.0,
+1126,10475,2024-06-19,Satisfied,3,2,5,No,5.0,Average
+1127,10846,2024-03-11,Very Satisfied,2,1,2,No,2.0,
+1128,11236,2024-05-29,Very Satisfied,2,2,2,Yes,7.0,
+1129,11475,2024-03-08,Dissatisfied,3,3,4,No,2.0,Average
+1130,10324,2024-01-04,Very Satisfied,3,2,5,Yes,2.0,
+1131,10173,2024-04-03,Very Dissatisfied,4,5,4,No,7.0,Great!
+1132,11430,2024-02-21,Neutral,5,2,4,Yes,8.0,Could be better
+1133,10598,2024-05-15,Very Satisfied,1,1,3,Yes,4.0,Good
+1134,10910,2024-06-05,Neutral,5,2,1,No,6.0,Could be better
+1135,10109,2024-06-20,Very Satisfied,1,3,2,No,7.0,
+1136,11610,2024-04-29,Very Dissatisfied,2,3,2,No,9.0,Good
+1137,10471,2024-04-17,Very Satisfied,4,2,1,No,6.0,Good
+1138,11710,2024-01-03,Very Dissatisfied,1,4,4,No,2.0,Could be better
+1139,11012,2024-04-08,Dissatisfied,5,5,3,Yes,2.0,Could be better
+1140,10656,2024-06-24,Dissatisfied,3,5,5,Yes,4.0,Average
+1141,11013,2024-01-12,Dissatisfied,5,1,2,Yes,6.0,
+1142,10194,2024-01-08,Dissatisfied,5,2,1,Yes,4.0,Average
+1143,10185,2024-06-03,Very Satisfied,4,1,4,Yes,0.0,Could be better
+1144,10985,2024-04-03,Very Satisfied,1,1,3,Yes,1.0,Great!
+1145,11674,2024-05-29,Very Dissatisfied,2,3,1,No,4.0,Could be better
+1146,11064,2024-01-27,Neutral,4,3,2,Yes,10.0,Good
+1147,10328,2024-03-29,Very Satisfied,1,4,4,Yes,0.0,
+1148,11136,2024-03-21,Very Satisfied,2,5,5,Yes,3.0,Great!
+1149,10330,2024-03-07,Very Satisfied,5,4,1,No,2.0,
+1150,11973,2024-01-23,Satisfied,5,2,3,Yes,10.0,Good
+1151,10860,2024-06-28,Neutral,1,4,4,No,1.0,Average
+1152,11635,2024-03-12,Dissatisfied,4,2,2,No,0.0,Good
+1153,10409,2024-02-12,Very Satisfied,4,5,5,No,6.0,
+1154,11566,2024-06-27,Neutral,2,3,2,No,10.0,Average
+1155,11780,2024-01-21,Neutral,5,5,1,No,6.0,Great!
+1156,11660,2024-05-05,Very Satisfied,2,1,1,No,10.0,Good
+1157,11356,2024-06-12,Very Satisfied,1,4,3,Yes,7.0,
+1158,11813,2024-02-26,Neutral,1,4,5,No,6.0,Great!
+1159,10797,2024-05-03,Neutral,2,4,1,No,3.0,
+1160,10838,2024-03-30,Neutral,5,1,5,No,7.0,Good
+1161,10741,2024-03-02,Satisfied,4,2,2,Yes,10.0,Could be better
+1162,11651,2024-05-12,Satisfied,2,3,3,No,1.0,
+1163,11409,2024-03-07,Very Satisfied,5,4,1,No,9.0,
+1164,11281,2024-06-29,Neutral,3,4,4,No,3.0,
+1165,11195,2024-05-10,Neutral,1,5,3,Yes,4.0,Average
+1166,10743,2024-02-21,Satisfied,5,1,4,No,6.0,Great!
+1167,11470,2024-06-09,Dissatisfied,4,2,3,Yes,8.0,Could be better
+1168,11406,2024-02-28,Very Satisfied,4,3,5,Yes,7.0,
+1169,11507,2024-04-29,Dissatisfied,5,2,3,No,6.0,Great!
+1170,10231,2024-01-12,Neutral,1,5,1,Yes,10.0,Good
+1171,10214,2024-05-02,Very Satisfied,4,3,5,No,3.0,Good
+1172,10805,2024-06-22,Very Dissatisfied,4,5,4,No,9.0,
+1173,10227,2024-02-18,Satisfied,3,2,2,No,1.0,
+1174,10974,2024-04-12,Very Satisfied,4,2,4,No,1.0,
+1175,11461,2024-05-03,Dissatisfied,5,4,4,Yes,0.0,Average
+1176,11967,2024-01-24,Very Satisfied,4,1,5,Yes,1.0,Could be better
+1177,10701,2024-06-16,Neutral,4,3,4,Yes,2.0,
+1178,10215,2024-03-30,Very Satisfied,2,5,2,Yes,3.0,Could be better
+1179,10857,2024-03-20,Very Dissatisfied,5,1,1,No,5.0,Average
+1180,10525,2024-03-01,Very Dissatisfied,2,5,5,No,7.0,Could be better
+1181,11163,2024-04-11,Satisfied,3,1,1,Yes,7.0,
+1182,11561,2024-05-15,Very Dissatisfied,4,1,3,Yes,3.0,
+1183,10066,2024-06-22,Very Dissatisfied,4,4,4,No,3.0,Could be better
+1184,11080,2024-06-02,Very Satisfied,2,5,4,Yes,5.0,Average
+1185,11210,2024-01-23,Dissatisfied,2,3,5,No,9.0,Average
+1186,11640,2024-04-27,Satisfied,4,3,1,Yes,10.0,Great!
+1187,11671,2024-03-23,Very Dissatisfied,4,2,1,No,3.0,Good
+1188,10622,2024-06-04,Dissatisfied,2,1,1,Yes,5.0,
+1189,11759,2024-06-10,Satisfied,2,5,2,No,2.0,
+1190,11085,2024-01-15,Dissatisfied,2,1,3,Yes,9.0,
+1191,11547,2024-06-02,Neutral,2,3,2,Yes,3.0,
+1192,10989,2024-04-15,Satisfied,1,2,5,No,9.0,Could be better
+1193,11477,2024-03-25,Very Dissatisfied,5,1,1,Yes,3.0,Could be better
+1194,10957,2024-06-27,Satisfied,2,5,2,No,7.0,Could be better
+1195,10159,2024-05-15,Very Dissatisfied,3,1,2,Yes,5.0,
+1196,10866,2024-04-15,Dissatisfied,5,4,3,Yes,8.0,Great!
+1197,10289,2024-02-05,Dissatisfied,2,3,2,No,1.0,Good
+1198,11677,2024-06-11,Very Satisfied,3,3,4,No,6.0,Average
+1199,11004,2024-05-08,Dissatisfied,2,1,1,Yes,7.0,
+1200,10285,2024-01-29,Satisfied,2,2,2,Yes,1.0,Average
+1201,11224,2024-03-11,Very Satisfied,2,5,3,No,8.0,Great!
+1202,11988,2024-04-29,Very Satisfied,3,4,3,No,1.0,Good
+1203,11295,2024-01-29,Very Dissatisfied,2,3,5,No,6.0,
+1204,10236,2024-03-03,Very Satisfied,1,4,5,Yes,5.0,Average
+1205,10280,2024-02-19,Dissatisfied,1,3,1,Yes,0.0,
+1206,10879,2024-06-02,Very Satisfied,4,5,3,No,4.0,Good
+1207,11599,2024-02-24,Very Satisfied,5,1,5,Yes,9.0,Great!
+1208,10451,2024-06-05,Neutral,4,2,4,No,10.0,Could be better
+1209,10842,2024-05-17,Dissatisfied,4,3,3,Yes,8.0,Could be better
+1210,11365,2024-02-04,Very Dissatisfied,3,3,4,Yes,5.0,Great!
+1211,11887,2024-06-21,Very Satisfied,5,5,3,Yes,2.0,
+1212,10825,2024-05-04,Dissatisfied,2,1,1,Yes,,Average
+1213,10826,2024-03-24,Very Satisfied,1,4,3,No,2.0,Average
+1214,11744,2024-01-25,Dissatisfied,4,3,2,Yes,3.0,Average
+1215,10267,2024-06-14,Neutral,1,4,5,Yes,10.0,Good
+1216,10461,2024-06-14,Satisfied,4,1,5,Yes,6.0,Average
+1217,10419,2024-06-18,Neutral,4,3,5,Yes,9.0,
+1218,11142,2024-04-01,Dissatisfied,5,5,5,No,7.0,Good
+1219,10842,2024-05-24,Very Satisfied,3,2,4,Yes,8.0,Good
+1220,11639,2024-05-03,Neutral,3,5,2,Yes,1.0,Good
+1221,11778,2024-03-16,Satisfied,2,2,5,No,5.0,Great!
+1222,11732,2024-04-04,Neutral,2,3,5,No,,
+1223,11418,2024-06-27,Dissatisfied,1,1,3,Yes,6.0,Could be better
+1224,10901,2024-03-20,Very Dissatisfied,4,5,2,No,5.0,
+1225,11834,2024-03-21,Very Dissatisfied,2,4,3,Yes,5.0,
+1226,11413,2024-05-03,Dissatisfied,3,2,1,Yes,6.0,
+1227,11033,2024-02-11,Very Dissatisfied,3,5,3,Yes,0.0,Could be better
+1228,11237,2024-04-17,Satisfied,3,3,3,No,9.0,Good
+1229,11630,2024-03-17,Dissatisfied,3,5,3,Yes,3.0,Great!
+1230,11116,2024-06-04,Very Satisfied,2,1,5,No,9.0,Good
+1231,11389,2024-02-20,Very Satisfied,4,1,2,No,2.0,Great!
+1232,11492,2024-03-13,Very Satisfied,1,5,3,No,5.0,Good
+1233,10711,2024-01-13,Very Satisfied,4,2,1,Yes,6.0,
+1234,11628,2024-03-25,Very Dissatisfied,1,2,4,No,8.0,Average
+1235,10125,2024-04-24,Neutral,1,3,4,No,5.0,Great!
+1236,10132,2024-03-15,Neutral,2,5,5,Yes,5.0,
+1237,11874,2024-04-16,Dissatisfied,1,5,5,No,6.0,
+1238,10455,2024-01-31,Very Dissatisfied,4,3,5,No,,Could be better
+1239,11839,2024-04-30,Very Satisfied,2,2,3,No,9.0,Could be better
+1240,10100,2024-06-26,Satisfied,4,4,2,No,0.0,
+1241,11669,2024-03-06,Very Satisfied,1,5,4,No,1.0,
+1242,10903,2024-05-29,Satisfied,3,1,2,Yes,2.0,Average
+1243,10259,2024-05-16,Very Dissatisfied,1,2,4,No,9.0,
+1244,11343,2024-05-04,Neutral,3,3,5,No,1.0,
+1245,10727,2024-04-09,Neutral,5,2,2,Yes,2.0,Great!
+1246,10394,2024-05-24,Dissatisfied,3,5,1,Yes,5.0,Good
+1247,10461,2024-06-27,Dissatisfied,4,5,3,Yes,9.0,Good
+1248,11649,2024-02-01,Satisfied,5,4,1,No,6.0,Could be better
+1249,11213,2024-06-05,Satisfied,4,5,5,No,4.0,Average
+1250,11399,2024-06-25,Dissatisfied,1,1,5,No,5.0,Great!
+1251,11136,2024-05-31,Satisfied,4,3,4,Yes,6.0,Average
+1252,10664,2024-01-05,Very Dissatisfied,4,3,1,Yes,3.0,
+1253,10496,2024-05-30,Very Dissatisfied,2,5,1,Yes,3.0,
+1254,11820,2024-04-28,Satisfied,2,4,3,No,10.0,
+1255,11333,2024-03-16,Dissatisfied,1,1,3,Yes,10.0,
+1256,10304,2024-06-08,Very Dissatisfied,5,1,2,Yes,5.0,
+1257,10851,2024-05-08,Very Dissatisfied,1,2,3,Yes,9.0,Could be better
+1258,10308,2024-05-10,Very Satisfied,5,5,5,Yes,5.0,Average
+1259,11512,2024-04-11,Very Dissatisfied,4,4,4,No,0.0,Good
+1260,11547,2024-05-04,Satisfied,3,4,2,No,0.0,Could be better
+1261,10357,2024-04-12,Very Satisfied,2,2,5,Yes,9.0,
+1262,10279,2024-05-19,Very Dissatisfied,2,5,1,Yes,2.0,
+1263,10199,2024-05-30,Neutral,2,3,4,No,0.0,
+1264,10641,2024-06-03,Dissatisfied,2,3,5,No,9.0,
+1265,10552,2024-05-01,Neutral,4,2,2,Yes,0.0,Average
+1266,10932,2024-06-20,Neutral,4,1,1,No,9.0,Great!
+1267,10568,2024-01-31,Very Dissatisfied,4,1,1,Yes,6.0,Average
+1268,10721,2024-06-26,Neutral,5,2,1,No,7.0,
+1269,10897,2024-02-14,Very Dissatisfied,1,3,1,No,0.0,
+1270,10049,2024-06-21,Neutral,1,1,5,No,1.0,Good
+1271,10068,2024-03-28,Very Satisfied,4,5,3,No,8.0,Could be better
+1272,10367,2024-06-12,Neutral,3,5,1,Yes,1.0,Could be better
+1273,10020,2024-04-21,Dissatisfied,2,2,1,No,4.0,Great!
+1274,11004,2024-01-25,Neutral,1,1,2,Yes,2.0,Could be better
+1275,11605,2024-06-10,Satisfied,3,1,5,Yes,3.0,Great!
+1276,11910,2024-01-21,Very Dissatisfied,4,5,3,No,6.0,Great!
+1277,11155,2024-01-30,Dissatisfied,2,5,1,Yes,6.0,
+1278,11456,2024-06-24,Neutral,4,2,2,Yes,2.0,Average
+1279,10667,2024-06-07,Neutral,1,3,3,Yes,0.0,Great!
+1280,10477,2024-03-09,Very Satisfied,5,5,3,No,8.0,
+1281,11972,2024-04-09,Dissatisfied,1,5,2,Yes,6.0,
+1282,10772,2024-02-17,Satisfied,5,5,5,No,10.0,Average
+1283,11510,2024-01-28,Dissatisfied,2,2,5,No,1.0,Could be better
+1284,11041,2024-03-10,Neutral,1,4,2,No,8.0,Great!
+1285,11455,2024-02-19,Very Satisfied,5,5,2,No,3.0,Could be better
+1286,10116,2024-05-11,Very Dissatisfied,5,3,4,Yes,9.0,Good
+1287,11006,2024-02-29,Very Satisfied,4,5,1,Yes,7.0,Average
+1288,10545,2024-02-04,Neutral,1,4,3,No,4.0,
+1289,10580,2024-06-14,Very Dissatisfied,5,1,5,No,3.0,Could be better
+1290,10632,2024-01-29,Neutral,1,3,5,Yes,5.0,Good
+1291,11488,2024-04-27,Very Dissatisfied,4,4,4,Yes,5.0,
+1292,10633,2024-06-05,Dissatisfied,4,4,5,Yes,4.0,
+1293,10958,2024-06-24,Dissatisfied,1,1,3,Yes,10.0,
+1294,11679,2024-02-29,Very Dissatisfied,3,2,1,No,0.0,Great!
+1295,11774,2024-04-22,Neutral,1,2,4,No,6.0,Good
+1296,10810,2024-04-15,Very Satisfied,1,3,2,Yes,10.0,Great!
+1297,10241,2024-05-21,Very Dissatisfied,4,1,2,No,3.0,
+1298,10702,2024-05-21,Satisfied,2,4,3,No,4.0,Good
+1299,11406,2024-06-02,Neutral,2,2,5,Yes,5.0,
+1300,11674,2024-02-16,Dissatisfied,1,1,1,Yes,4.0,Good
+1301,10395,2024-01-22,Satisfied,5,5,4,No,2.0,Good
+1302,10142,2024-03-16,Very Satisfied,1,3,3,No,0.0,
+1303,10589,2024-04-02,Very Dissatisfied,1,4,2,Yes,9.0,Could be better
+1304,10675,2024-01-10,Very Dissatisfied,4,2,5,No,10.0,Average
+1305,11084,2024-04-10,Neutral,1,1,3,Yes,3.0,Good
+1306,10043,2024-05-13,Neutral,1,2,2,Yes,6.0,Good
+1307,11852,2024-04-07,Dissatisfied,5,2,2,Yes,7.0,Good
+1308,10094,2024-03-18,Neutral,2,1,4,No,9.0,Average
+1309,10683,2024-02-17,Dissatisfied,1,2,1,Yes,3.0,Good
+1310,11659,2024-06-01,Satisfied,3,5,3,Yes,7.0,Good
+1311,11815,2024-06-20,Satisfied,4,4,3,No,1.0,Could be better
+1312,10637,2024-06-07,Dissatisfied,4,3,2,No,6.0,
+1313,11348,2024-04-16,Dissatisfied,4,4,2,Yes,0.0,Average
+1314,11491,2024-05-23,Very Dissatisfied,5,4,1,No,4.0,
+1315,10920,2024-01-18,Dissatisfied,3,4,1,No,2.0,
+1316,10715,2024-03-05,Very Satisfied,2,4,2,No,,Could be better
+1317,11600,2024-03-08,Dissatisfied,3,1,3,No,10.0,
+1318,10437,2024-02-03,Very Dissatisfied,3,1,4,No,5.0,Good
+1319,11721,2024-01-14,Satisfied,3,1,1,Yes,2.0,
+1320,11354,2024-05-09,Neutral,4,5,1,No,1.0,
+1321,10451,2024-01-12,Neutral,2,3,4,Yes,7.0,Good
+1322,10077,2024-01-13,Dissatisfied,1,1,2,No,9.0,Could be better
+1323,10861,2024-03-11,Very Satisfied,2,4,1,Yes,9.0,
+1324,11909,2024-06-11,Very Satisfied,1,5,3,Yes,8.0,
+1325,11343,2024-03-17,Dissatisfied,5,5,2,Yes,6.0,
+1326,10255,2024-04-01,Very Satisfied,4,1,1,Yes,10.0,Good
+1327,10831,2024-05-14,Satisfied,2,2,3,No,0.0,
+1328,11204,2024-03-04,Satisfied,1,5,4,No,4.0,Average
+1329,11781,2024-02-01,Dissatisfied,5,4,3,Yes,5.0,
+1330,11681,2024-01-20,Very Dissatisfied,2,4,5,No,5.0,
+1331,11830,2024-02-21,Very Dissatisfied,4,5,3,No,,
+1332,10938,2024-04-24,Dissatisfied,2,1,1,Yes,4.0,Great!
+1333,11426,2024-05-15,Satisfied,2,2,4,No,8.0,Could be better
+1334,10061,2024-04-11,Very Satisfied,5,1,4,No,,Average
+1335,10117,2024-05-21,Satisfied,3,3,5,Yes,3.0,
+1336,10441,2024-04-04,Dissatisfied,5,3,4,Yes,6.0,Average
+1337,11361,2024-01-06,Very Satisfied,1,2,5,Yes,10.0,Great!
+1338,11613,2024-06-10,Dissatisfied,4,4,4,No,0.0,
+1339,11521,2024-06-02,Satisfied,5,2,1,Yes,10.0,
+1340,11764,2024-01-04,Satisfied,5,2,2,Yes,10.0,Good
+1341,11773,2024-02-01,Dissatisfied,4,2,3,No,3.0,Average
+1342,10154,2024-05-01,Satisfied,5,3,1,Yes,4.0,
+1343,10744,2024-02-13,Dissatisfied,3,2,4,No,0.0,Good
+1344,11100,2024-01-19,Very Dissatisfied,3,3,1,Yes,1.0,
+1345,10673,2024-02-01,Neutral,4,3,5,Yes,0.0,Good
+1346,11809,2024-02-08,Neutral,4,1,2,No,4.0,Good
+1347,10858,2024-05-13,Very Dissatisfied,3,4,1,Yes,4.0,Good
+1348,10511,2024-01-04,Very Satisfied,2,2,4,No,8.0,
+1349,11323,2024-01-07,Dissatisfied,3,4,1,No,5.0,Good
+1350,10387,2024-05-29,Dissatisfied,5,4,5,Yes,6.0,
+1351,11528,2024-04-29,Satisfied,4,4,3,No,10.0,Could be better
+1352,10106,2024-04-19,Very Satisfied,5,4,5,No,7.0,Average
+1353,10535,2024-02-28,Very Satisfied,4,4,3,No,3.0,Could be better
+1354,11066,2024-04-23,Very Satisfied,4,3,4,No,2.0,Good
+1355,10098,2024-01-05,Dissatisfied,5,3,3,No,5.0,Average
+1356,11547,2024-05-24,Dissatisfied,5,3,3,No,8.0,Good
+1357,10881,2024-01-12,Dissatisfied,5,4,2,No,4.0,
+1358,11450,2024-06-05,Satisfied,5,2,4,No,0.0,
+1359,11494,2024-01-18,Satisfied,1,4,3,No,3.0,Good
+1360,10160,2024-03-13,Neutral,3,2,5,Yes,1.0,
+1361,11118,2024-06-24,Neutral,5,1,4,Yes,1.0,
+1362,11823,2024-06-04,Neutral,1,4,3,Yes,6.0,
+1363,11554,2024-02-25,Very Satisfied,1,2,1,Yes,9.0,
+1364,11714,2024-03-01,Satisfied,1,4,1,No,9.0,Good
+1365,11597,2024-01-30,Very Dissatisfied,2,2,5,No,10.0,
+1366,11177,2024-04-06,Dissatisfied,2,1,5,Yes,10.0,Good
+1367,11597,2024-03-28,Very Dissatisfied,4,2,4,No,6.0,
+1368,10508,2024-02-13,Dissatisfied,2,3,5,No,5.0,Could be better
+1369,10777,2024-02-22,Very Satisfied,5,3,2,Yes,2.0,
+1370,10622,2024-02-21,Dissatisfied,1,3,1,Yes,2.0,
+1371,10704,2024-04-25,Dissatisfied,2,5,2,Yes,8.0,Could be better
+1372,11751,2024-03-24,Dissatisfied,5,4,3,No,2.0,Could be better
+1373,11726,2024-03-25,Very Dissatisfied,4,4,1,No,3.0,Average
+1374,11871,2024-04-20,Very Satisfied,3,3,3,No,4.0,
+1375,11782,2024-01-23,Satisfied,1,2,5,Yes,10.0,Could be better
+1376,11345,2024-06-15,Neutral,1,1,5,Yes,10.0,
+1377,10608,2024-05-19,Very Dissatisfied,3,4,1,Yes,7.0,Could be better
+1378,11083,2024-04-14,Dissatisfied,5,4,3,No,2.0,
+1379,11507,2024-06-23,Neutral,5,2,3,No,9.0,
+1380,11203,2024-03-30,Neutral,1,4,3,Yes,2.0,
+1381,11712,2024-04-22,Satisfied,3,5,4,Yes,8.0,
+1382,10304,2024-06-22,Neutral,2,5,4,No,,
+1383,10711,2024-02-26,Very Satisfied,3,3,1,Yes,9.0,
+1384,10401,2024-05-10,Dissatisfied,2,4,1,Yes,5.0,
+1385,11354,2024-04-21,Very Dissatisfied,2,1,4,No,3.0,
+1386,10151,2024-05-14,Neutral,4,1,3,Yes,9.0,
+1387,10049,2024-05-04,Satisfied,3,3,4,Yes,10.0,Average
+1388,10576,2024-04-21,Very Dissatisfied,2,3,1,No,6.0,Average
+1389,10015,2024-02-12,Very Dissatisfied,4,4,5,No,9.0,Great!
+1390,10951,2024-04-27,Satisfied,4,4,2,Yes,6.0,
+1391,10507,2024-03-02,Very Dissatisfied,5,5,4,No,7.0,
+1392,10402,2024-06-13,Very Dissatisfied,2,4,3,No,9.0,
+1393,11025,2024-01-01,Dissatisfied,4,2,3,No,4.0,
+1394,11098,2024-06-06,Dissatisfied,1,4,1,Yes,,
+1395,10814,2024-04-19,Dissatisfied,5,3,4,Yes,0.0,Could be better
+1396,11080,2024-01-05,Neutral,4,3,5,Yes,3.0,Great!
+1397,10909,2024-01-13,Neutral,5,5,2,Yes,9.0,Great!
+1398,10106,2024-02-20,Dissatisfied,3,3,4,Yes,5.0,Average
+1399,11589,2024-02-08,Dissatisfied,3,5,2,Yes,7.0,Average
+1400,11948,2024-05-23,Dissatisfied,1,5,4,No,3.0,Average
+1401,10995,2024-02-27,Very Satisfied,4,3,2,Yes,8.0,Could be better
+1402,11312,2024-02-09,Neutral,1,1,3,Yes,10.0,Good
+1403,11499,2024-05-04,Satisfied,3,1,1,No,7.0,Could be better
+1404,11718,2024-03-02,Very Satisfied,3,1,3,Yes,3.0,Average
+1405,10152,2024-06-26,Dissatisfied,4,2,4,Yes,3.0,Could be better
+1406,10537,2024-04-26,Dissatisfied,2,1,3,Yes,8.0,
+1407,11214,2024-05-19,Very Satisfied,4,2,4,No,,Could be better
+1408,10259,2024-04-28,Neutral,5,1,4,Yes,9.0,Great!
+1409,10909,2024-05-02,Neutral,4,4,4,No,5.0,Could be better
+1410,11735,2024-03-15,Neutral,2,4,5,No,1.0,
+1411,11630,2024-01-20,Very Satisfied,2,5,3,Yes,10.0,Good
+1412,11270,2024-05-25,Very Satisfied,5,1,3,Yes,1.0,Great!
+1413,11858,2024-03-29,Neutral,5,2,1,Yes,2.0,Could be better
+1414,11814,2024-03-30,Very Satisfied,4,3,5,No,2.0,Good
+1415,11667,2024-03-23,Satisfied,1,4,1,Yes,5.0,Average
+1416,11746,2024-04-19,Neutral,5,2,1,Yes,3.0,
+1417,10248,2024-01-28,Neutral,1,1,2,Yes,0.0,
+1418,11220,2024-04-12,Neutral,2,5,2,No,1.0,Could be better
+1419,11421,2024-05-02,Very Dissatisfied,1,3,2,Yes,10.0,
+1420,11274,2024-05-15,Neutral,3,5,2,Yes,6.0,Average
+1421,11485,2024-01-28,Very Satisfied,3,1,5,Yes,8.0,
+1422,11994,2024-04-02,Very Dissatisfied,3,2,2,Yes,5.0,Average
+1423,11953,2024-05-15,Satisfied,2,3,3,No,3.0,Great!
+1424,11612,2024-06-28,Dissatisfied,2,5,2,Yes,5.0,
+1425,10256,2024-02-18,Dissatisfied,4,4,1,Yes,7.0,Could be better
+1426,11470,2024-04-06,Very Dissatisfied,2,2,2,No,2.0,Good
+1427,11039,2024-01-17,Dissatisfied,4,5,3,No,8.0,Could be better
+1428,10289,2024-04-17,Very Dissatisfied,5,1,1,Yes,9.0,Great!
+1429,10038,2024-06-10,Very Dissatisfied,5,2,4,Yes,3.0,Good
+1430,11233,2024-03-06,Neutral,2,5,2,Yes,9.0,
+1431,11529,2024-03-06,Very Satisfied,1,3,5,Yes,4.0,
+1432,11635,2024-04-14,Neutral,5,5,2,No,8.0,
+1433,10690,2024-06-18,Very Dissatisfied,2,2,4,Yes,1.0,Good
+1434,11633,2024-03-04,Neutral,1,1,5,No,4.0,
+1435,10476,2024-01-07,Satisfied,1,5,4,Yes,9.0,Average
+1436,11058,2024-03-23,Very Satisfied,3,1,5,Yes,2.0,Great!
+1437,10022,2024-06-12,Satisfied,4,5,1,No,0.0,Average
+1438,10608,2024-01-02,Very Dissatisfied,2,4,3,No,8.0,Could be better
+1439,10083,2024-06-27,Dissatisfied,5,1,4,No,6.0,Average
+1440,11806,2024-04-07,Satisfied,4,1,1,Yes,0.0,
+1441,10183,2024-06-23,Very Satisfied,3,3,4,Yes,,Could be better
+1442,10533,2024-01-30,Dissatisfied,5,5,3,Yes,0.0,
+1443,11039,2024-06-14,Very Dissatisfied,1,1,4,No,7.0,Could be better
+1444,11101,2024-04-19,Dissatisfied,4,2,3,Yes,0.0,Good
+1445,11253,2024-06-20,Dissatisfied,5,2,3,Yes,2.0,Good
+1446,10292,2024-06-07,Neutral,2,1,1,Yes,9.0,
+1447,10987,2024-03-26,Very Dissatisfied,5,1,4,Yes,7.0,
+1448,10105,2024-06-23,Neutral,2,1,5,Yes,,Great!
+1449,11717,2024-05-18,Satisfied,5,5,3,Yes,3.0,
+1450,10706,2024-03-09,Neutral,2,4,4,Yes,10.0,Great!
+1451,10986,2024-06-24,Very Satisfied,4,3,1,No,6.0,
+1452,11624,2024-02-05,Very Satisfied,3,1,2,No,5.0,Average
+1453,10211,2024-06-16,Very Satisfied,2,5,2,Yes,5.0,Good
+1454,11573,2024-06-25,Very Satisfied,4,2,3,No,0.0,Average
+1455,11297,2024-04-25,Very Satisfied,1,4,3,Yes,0.0,Great!
+1456,10870,2024-02-01,Dissatisfied,1,5,1,No,2.0,
+1457,10389,2024-04-11,Dissatisfied,3,5,3,No,10.0,Good
+1458,10566,2024-01-22,Very Satisfied,4,3,1,Yes,,Could be better
+1459,11571,2024-05-11,Very Dissatisfied,1,2,2,Yes,9.0,Could be better
+1460,11405,2024-03-11,Satisfied,1,3,1,Yes,8.0,Great!
+1461,10177,2024-01-20,Satisfied,2,3,3,No,5.0,Could be better
+1462,10213,2024-01-30,Very Dissatisfied,3,5,1,No,6.0,Could be better
+1463,11151,2024-05-22,Satisfied,3,1,3,No,0.0,
+1464,11229,2024-02-16,Neutral,1,4,5,No,0.0,Average
+1465,11044,2024-04-04,Very Dissatisfied,3,4,2,Yes,9.0,
+1466,11124,2024-05-29,Very Satisfied,3,5,1,Yes,2.0,Average
+1467,10622,2024-01-25,Dissatisfied,2,5,4,No,2.0,
+1468,11736,2024-06-10,Very Dissatisfied,3,1,3,No,7.0,Good
+1469,10371,2024-03-04,Very Dissatisfied,5,1,3,No,10.0,Great!
+1470,11859,2024-04-24,Neutral,4,5,1,Yes,1.0,Great!
+1471,10979,2024-05-12,Neutral,3,2,2,Yes,5.0,Average
+1472,11070,2024-04-21,Very Satisfied,1,5,1,No,8.0,Could be better
+1473,10491,2024-03-07,Very Satisfied,2,3,2,Yes,0.0,
+1474,10570,2024-04-02,Satisfied,1,3,3,Yes,0.0,Average
+1475,10307,2024-05-14,Dissatisfied,1,5,2,Yes,9.0,Could be better
+1476,10022,2024-04-19,Satisfied,5,1,5,Yes,10.0,Great!
+1477,11191,2024-02-21,Neutral,3,2,1,No,2.0,
+1478,10469,2024-06-24,Very Dissatisfied,2,3,1,Yes,3.0,
+1479,11128,2024-02-21,Neutral,3,1,2,No,3.0,Great!
+1480,11195,2024-01-20,Very Dissatisfied,2,5,1,No,10.0,Great!
+1481,10291,2024-03-29,Satisfied,5,1,1,Yes,0.0,
+1482,11128,2024-04-20,Very Dissatisfied,3,5,4,No,3.0,
+1483,11526,2024-04-21,Dissatisfied,5,3,1,No,10.0,
+1484,10723,2024-03-15,Dissatisfied,2,4,3,No,6.0,Good
+1485,11996,2024-02-05,Dissatisfied,1,2,2,No,7.0,Could be better
+1486,11813,2024-02-14,Very Dissatisfied,1,5,5,No,3.0,
+1487,11102,2024-05-13,Satisfied,5,5,2,No,7.0,Good
+1488,11373,2024-06-04,Very Dissatisfied,3,4,2,Yes,6.0,
+1489,11674,2024-01-03,Satisfied,1,5,3,No,3.0,Great!
+1490,10049,2024-01-02,Satisfied,3,3,3,Yes,7.0,Good
+1491,10983,2024-02-07,Dissatisfied,3,1,3,Yes,7.0,Good
+1492,11752,2024-06-09,Neutral,4,2,2,Yes,0.0,
+1493,10331,2024-06-21,Satisfied,2,2,2,Yes,4.0,
+1494,10396,2024-04-02,Dissatisfied,3,1,3,Yes,10.0,Good
+1495,11301,2024-05-09,Dissatisfied,2,3,2,No,6.0,
+1496,11971,2024-02-21,Dissatisfied,1,3,4,Yes,8.0,
+1497,10436,2024-01-15,Very Dissatisfied,2,3,1,No,7.0,Great!
+1498,11785,2024-06-12,Satisfied,5,5,3,No,8.0,Great!
+1499,11360,2024-04-04,Satisfied,1,2,1,No,8.0,Good
+1500,10039,2024-06-25,Satisfied,2,2,4,Yes,8.0,Could be better
+1501,11119,2024-04-15,Satisfied,3,5,1,No,10.0,
+1502,11516,2024-02-03,Very Dissatisfied,4,2,1,Yes,8.0,
+1503,11305,2024-04-19,Neutral,5,4,1,Yes,4.0,Could be better
+1504,10621,2024-05-01,Dissatisfied,5,3,3,Yes,1.0,Could be better
+1505,10993,2024-04-24,Dissatisfied,1,5,4,Yes,,Average
+1506,11258,2024-03-20,Satisfied,2,5,5,Yes,6.0,Average
+1507,11281,2024-01-13,Very Dissatisfied,1,2,2,No,8.0,Average
+1508,10645,2024-04-24,Very Dissatisfied,4,4,1,No,6.0,
+1509,11298,2024-04-21,Very Dissatisfied,1,1,1,Yes,6.0,
+1510,10964,2024-04-12,Dissatisfied,3,5,1,No,1.0,Good
+1511,10712,2024-01-16,Dissatisfied,4,2,4,No,3.0,
+1512,11259,2024-01-17,Very Dissatisfied,2,1,4,Yes,0.0,Good
+1513,10961,2024-02-15,Very Satisfied,2,4,1,No,7.0,Great!
+1514,10520,2024-05-21,Very Satisfied,4,4,3,Yes,6.0,Good
+1515,10080,2024-03-11,Very Dissatisfied,3,4,5,Yes,6.0,
+1516,10423,2024-03-05,Very Satisfied,2,5,4,Yes,1.0,Good
+1517,11640,2024-06-22,Very Satisfied,5,3,3,No,8.0,Could be better
+1518,11434,2024-04-20,Very Dissatisfied,4,5,1,Yes,8.0,
+1519,10466,2024-04-03,Dissatisfied,4,3,1,No,9.0,
+1520,11633,2024-06-26,Dissatisfied,5,4,4,No,2.0,Good
+1521,10124,2024-02-29,Very Satisfied,3,5,3,Yes,5.0,Could be better
+1522,11452,2024-02-18,Neutral,4,5,4,Yes,10.0,Good
+1523,11836,2024-05-25,Very Satisfied,5,4,3,Yes,2.0,Good
+1524,11330,2024-04-02,Very Satisfied,4,2,4,No,8.0,Could be better
+1525,10394,2024-05-28,Very Dissatisfied,4,3,1,No,3.0,Could be better
+1526,11983,2024-03-11,Very Satisfied,2,1,5,Yes,3.0,Good
+1527,10907,2024-01-02,Very Dissatisfied,1,1,1,No,8.0,Great!
+1528,10947,2024-02-29,Very Dissatisfied,1,4,3,No,4.0,Average
+1529,11791,2024-03-04,Satisfied,4,2,5,No,6.0,
+1530,10317,2024-06-20,Neutral,2,5,5,Yes,,Good
+1531,11543,2024-06-06,Neutral,5,5,5,No,5.0,
+1532,11236,2024-03-01,Very Dissatisfied,2,3,1,No,7.0,
+1533,11132,2024-03-18,Dissatisfied,4,1,4,Yes,3.0,Average
+1534,10693,2024-02-03,Dissatisfied,5,3,5,Yes,6.0,Great!
+1535,11857,2024-04-01,Satisfied,1,3,1,Yes,5.0,Could be better
+1536,10236,2024-05-16,Dissatisfied,1,4,1,Yes,8.0,Average
+1537,10879,2024-01-04,Satisfied,2,1,1,Yes,9.0,Good
+1538,11751,2024-05-18,Dissatisfied,3,1,2,No,4.0,
+1539,10391,2024-01-10,Neutral,4,3,1,Yes,10.0,
+1540,11954,2024-05-01,Satisfied,5,5,3,Yes,7.0,Good
+1541,10763,2024-05-17,Very Satisfied,1,5,3,No,10.0,Great!
+1542,10736,2024-04-28,Satisfied,2,5,2,No,9.0,Good
+1543,10813,2024-01-24,Neutral,4,2,1,No,7.0,Could be better
+1544,11423,2024-01-12,Dissatisfied,5,3,5,No,6.0,Average
+1545,10221,2024-04-18,Very Satisfied,3,5,2,Yes,10.0,Great!
+1546,11695,2024-06-13,Very Dissatisfied,5,5,4,No,8.0,Good
+1547,11498,2024-01-13,Very Dissatisfied,2,4,2,Yes,0.0,Good
+1548,10950,2024-03-18,Very Satisfied,5,1,5,Yes,7.0,Great!
+1549,11056,2024-03-20,Satisfied,2,2,2,No,0.0,Could be better
+1550,11140,2024-02-19,Very Satisfied,4,2,5,No,9.0,Great!
+1551,11686,2024-04-24,Very Satisfied,4,1,3,Yes,6.0,Great!
+1552,10060,2024-04-20,Neutral,1,1,2,No,5.0,
+1553,11664,2024-05-11,Very Satisfied,2,1,3,Yes,8.0,Could be better
+1554,10130,2024-06-24,Dissatisfied,4,4,3,Yes,4.0,Great!
+1555,11543,2024-02-26,Very Dissatisfied,2,4,4,Yes,9.0,
+1556,10333,2024-02-27,Dissatisfied,3,5,5,No,7.0,Could be better
+1557,11051,2024-01-04,Dissatisfied,1,4,2,No,5.0,Great!
+1558,10017,2024-05-29,Very Satisfied,1,5,3,Yes,4.0,Could be better
+1559,11398,2024-05-14,Dissatisfied,3,5,2,No,7.0,
+1560,10187,2024-02-06,Satisfied,2,4,5,Yes,0.0,Average
+1561,10822,2024-03-12,Dissatisfied,5,3,4,Yes,0.0,Could be better
+1562,10700,2024-02-19,Satisfied,5,1,2,No,5.0,
+1563,11851,2024-03-16,Dissatisfied,3,5,5,Yes,3.0,
+1564,11391,2024-03-30,Very Satisfied,2,3,5,Yes,3.0,
+1565,10820,2024-01-03,Neutral,5,3,1,No,9.0,Good
+1566,11323,2024-01-10,Very Satisfied,3,2,1,Yes,6.0,Good
+1567,10330,2024-05-06,Very Satisfied,2,4,5,Yes,3.0,Could be better
+1568,10511,2024-01-16,Satisfied,3,1,4,No,1.0,Could be better
+1569,11716,2024-05-15,Satisfied,5,3,3,No,1.0,
+1570,10828,2024-04-08,Very Dissatisfied,2,3,2,Yes,0.0,Good
+1571,11283,2024-04-17,Very Satisfied,3,1,3,Yes,10.0,Could be better
+1572,10504,2024-05-30,Very Satisfied,2,5,2,Yes,7.0,Could be better
+1573,11845,2024-06-13,Dissatisfied,1,1,4,No,0.0,Could be better
+1574,10219,2024-04-19,Neutral,1,4,1,Yes,4.0,Average
+1575,11546,2024-01-19,Very Satisfied,3,1,5,Yes,6.0,
+1576,10173,2024-03-21,Very Dissatisfied,5,1,5,Yes,0.0,Could be better
+1577,11250,2024-02-08,Satisfied,2,4,5,Yes,8.0,Could be better
+1578,10492,2024-04-18,Neutral,2,1,4,No,6.0,
+1579,10802,2024-02-29,Very Dissatisfied,1,2,2,Yes,8.0,Average
+1580,10476,2024-06-14,Neutral,2,1,2,Yes,6.0,Average
+1581,10136,2024-03-18,Dissatisfied,2,4,4,No,4.0,Great!
+1582,10084,2024-05-08,Very Dissatisfied,5,3,1,Yes,0.0,Average
+1583,11974,2024-05-16,Satisfied,3,4,5,No,10.0,Great!
+1584,11811,2024-01-12,Dissatisfied,3,4,4,Yes,9.0,
+1585,11397,2024-03-27,Satisfied,4,3,2,No,10.0,Could be better
+1586,10553,2024-03-19,Very Dissatisfied,2,2,2,No,6.0,Great!
+1587,11858,2024-06-18,Neutral,3,2,3,No,0.0,Great!
+1588,11406,2024-05-13,Dissatisfied,3,2,3,Yes,5.0,Great!
+1589,10130,2024-03-16,Very Dissatisfied,4,5,4,No,6.0,Great!
+1590,11356,2024-05-23,Dissatisfied,1,1,5,No,3.0,Average
+1591,11349,2024-02-27,Very Satisfied,5,3,5,Yes,9.0,Average
+1592,10294,2024-06-18,Very Dissatisfied,4,3,4,Yes,10.0,
+1593,10612,2024-03-09,Very Dissatisfied,3,1,2,Yes,10.0,
+1594,11222,2024-01-16,Neutral,1,4,3,No,0.0,Great!
+1595,11427,2024-06-26,Dissatisfied,5,2,1,No,5.0,Could be better
+1596,10287,2024-06-15,Satisfied,4,1,2,No,2.0,
+1597,10602,2024-02-25,Very Dissatisfied,4,4,3,Yes,5.0,
+1598,11516,2024-04-28,Neutral,4,5,2,No,7.0,Average
+1599,11100,2024-05-08,Dissatisfied,2,3,3,Yes,3.0,Average
+1600,11651,2024-04-14,Dissatisfied,4,1,2,No,1.0,Could be better
+1601,10870,2024-01-04,Very Dissatisfied,2,3,2,No,4.0,
+1602,11560,2024-05-13,Satisfied,2,3,4,No,2.0,Good
+1603,10387,2024-04-28,Dissatisfied,3,1,1,No,3.0,Could be better
+1604,10752,2024-03-09,Very Dissatisfied,3,2,4,Yes,9.0,Great!
+1605,10491,2024-06-18,Satisfied,5,4,3,No,2.0,
+1606,10242,2024-05-05,Very Satisfied,5,2,2,Yes,5.0,Average
+1607,11688,2024-03-08,Dissatisfied,2,4,5,No,0.0,
+1608,11370,2024-02-14,Satisfied,5,2,4,Yes,8.0,Could be better
+1609,11207,2024-04-17,Neutral,3,4,3,No,6.0,
+1610,10025,2024-06-20,Very Dissatisfied,3,5,4,No,0.0,Great!
+1611,10201,2024-03-19,Dissatisfied,4,4,3,Yes,5.0,Good
+1612,10999,2024-03-05,Very Dissatisfied,2,4,4,No,10.0,
+1613,11782,2024-04-07,Very Dissatisfied,2,4,3,Yes,5.0,Average
+1614,10649,2024-01-29,Neutral,1,1,3,No,7.0,Could be better
+1615,10035,2024-06-28,Very Satisfied,3,3,3,No,7.0,
+1616,10057,2024-01-17,Very Satisfied,1,1,4,Yes,8.0,Great!
+1617,11331,2024-04-25,Very Dissatisfied,2,1,4,No,2.0,
+1618,11193,2024-04-11,Very Dissatisfied,5,2,5,Yes,1.0,Good
+1619,10387,2024-06-24,Very Dissatisfied,1,5,1,Yes,2.0,
+1620,10315,2024-02-22,Neutral,4,5,1,Yes,2.0,Great!
+1621,10089,2024-01-10,Very Dissatisfied,3,5,1,No,10.0,Great!
+1622,10600,2024-05-12,Neutral,2,2,1,No,9.0,Average
+1623,11758,2024-04-26,Very Satisfied,3,4,5,Yes,2.0,Could be better
+1624,11004,2024-02-16,Very Satisfied,3,3,3,No,0.0,Great!
+1625,10868,2024-05-11,Neutral,2,5,2,Yes,8.0,Average
+1626,10514,2024-06-14,Very Dissatisfied,2,1,1,Yes,10.0,
+1627,10827,2024-01-01,Very Satisfied,3,5,4,No,3.0,Average
+1628,11506,2024-06-29,Very Dissatisfied,1,5,2,No,7.0,Good
+1629,11261,2024-01-04,Very Dissatisfied,5,3,2,Yes,6.0,
+1630,10578,2024-05-23,Very Satisfied,1,5,3,No,6.0,
+1631,10980,2024-02-21,Satisfied,1,2,5,No,4.0,Average
+1632,10225,2024-06-16,Satisfied,1,3,1,Yes,7.0,Could be better
+1633,11421,2024-06-23,Very Dissatisfied,2,2,5,Yes,1.0,Average
+1634,10123,2024-03-16,Satisfied,5,2,3,No,4.0,Good
+1635,10070,2024-01-15,Very Dissatisfied,3,3,2,No,,
+1636,11723,2024-05-15,Satisfied,2,2,3,No,1.0,Could be better
+1637,10312,2024-01-29,Very Satisfied,2,5,3,No,0.0,
+1638,11880,2024-01-29,Very Dissatisfied,3,4,2,Yes,3.0,Good
+1639,11360,2024-01-14,Neutral,5,3,5,No,0.0,Could be better
+1640,11209,2024-05-29,Neutral,1,1,1,Yes,4.0,Great!
+1641,11007,2024-01-18,Dissatisfied,3,4,1,No,,
+1642,10230,2024-04-13,Very Satisfied,4,4,4,No,0.0,Good
+1643,10067,2024-02-09,Very Satisfied,1,5,1,No,5.0,
+1644,11286,2024-04-06,Dissatisfied,1,2,4,Yes,3.0,Good
+1645,11632,2024-05-18,Very Satisfied,5,2,3,No,10.0,Great!
+1646,10939,2024-06-13,Satisfied,2,2,2,Yes,10.0,Great!
+1647,11264,2024-01-16,Very Dissatisfied,3,3,5,Yes,6.0,
+1648,10945,2024-01-11,Neutral,3,1,3,Yes,8.0,Average
+1649,11427,2024-06-01,Neutral,4,2,2,No,0.0,
+1650,10759,2024-05-28,Neutral,3,4,5,Yes,6.0,Great!
+1651,10404,2024-03-18,Satisfied,1,4,1,No,3.0,
+1652,11735,2024-05-13,Very Dissatisfied,1,1,5,No,10.0,Could be better
+1653,10874,2024-01-13,Very Dissatisfied,2,5,2,Yes,4.0,Great!
+1654,11223,2024-03-13,Very Dissatisfied,4,1,4,Yes,1.0,Good
+1655,10070,2024-06-12,Very Dissatisfied,5,1,5,No,0.0,
+1656,10038,2024-01-09,Neutral,1,4,3,No,2.0,
+1657,11606,2024-01-07,Very Dissatisfied,2,2,4,Yes,1.0,
+1658,11247,2024-06-05,Very Dissatisfied,2,3,2,Yes,7.0,
+1659,11337,2024-02-12,Very Dissatisfied,2,5,3,No,8.0,
+1660,10361,2024-02-20,Neutral,4,3,4,No,9.0,Could be better
+1661,10821,2024-06-13,Dissatisfied,2,1,5,No,5.0,Could be better
+1662,10582,2024-01-10,Neutral,3,5,1,No,6.0,Could be better
+1663,10137,2024-03-06,Neutral,2,2,3,Yes,6.0,Average
+1664,11806,2024-05-03,Very Satisfied,2,2,5,Yes,7.0,
+1665,11798,2024-02-19,Dissatisfied,5,3,2,No,3.0,Average
+1666,10359,2024-05-08,Neutral,5,1,2,No,5.0,Average
+1667,10243,2024-05-22,Very Satisfied,1,2,5,No,1.0,Could be better
+1668,10021,2024-03-22,Very Satisfied,4,1,1,Yes,5.0,Great!
+1669,10484,2024-03-06,Dissatisfied,2,2,4,No,7.0,Great!
+1670,10855,2024-05-18,Satisfied,1,5,1,Yes,4.0,Average
+1671,10504,2024-04-21,Neutral,1,4,2,Yes,10.0,Average
+1672,11560,2024-06-05,Neutral,2,1,2,Yes,5.0,Good
+1673,10248,2024-01-08,Dissatisfied,1,3,1,No,1.0,Great!
+1674,10640,2024-02-14,Neutral,1,1,4,No,7.0,Average
+1675,11656,2024-01-09,Very Satisfied,4,2,5,Yes,7.0,
+1676,10701,2024-02-19,Satisfied,2,5,2,Yes,5.0,
+1677,11093,2024-05-10,Satisfied,3,3,5,No,8.0,Great!
+1678,11899,2024-01-18,Neutral,2,4,3,No,3.0,Average
+1679,11715,2024-02-29,Very Dissatisfied,4,4,4,Yes,3.0,
+1680,10160,2024-01-07,Very Satisfied,4,1,4,No,9.0,Good
+1681,10757,2024-03-10,Neutral,3,1,1,No,4.0,Average
+1682,10718,2024-01-14,Satisfied,3,5,5,Yes,5.0,Average
+1683,10740,2024-01-18,Satisfied,1,1,2,Yes,8.0,Good
+1684,11312,2024-02-22,Neutral,5,1,2,Yes,6.0,
+1685,10198,2024-03-31,Dissatisfied,2,2,3,No,3.0,Could be better
+1686,11357,2024-04-26,Very Dissatisfied,3,2,4,No,10.0,Average
+1687,11839,2024-04-29,Dissatisfied,2,1,3,Yes,3.0,Average
+1688,10706,2024-06-16,Neutral,4,5,4,Yes,2.0,Average
+1689,10967,2024-02-01,Very Satisfied,5,4,4,Yes,4.0,Could be better
+1690,11380,2024-04-30,Very Satisfied,3,4,2,No,6.0,Average
+1691,10524,2024-04-05,Very Dissatisfied,3,1,3,Yes,1.0,Great!
+1692,11428,2024-06-08,Dissatisfied,4,2,4,No,0.0,Could be better
+1693,11651,2024-01-25,Dissatisfied,2,2,4,Yes,9.0,Could be better
+1694,11366,2024-05-18,Neutral,2,2,2,No,5.0,Could be better
+1695,10867,2024-05-31,Satisfied,5,2,1,Yes,4.0,Average
+1696,11655,2024-02-04,Dissatisfied,4,3,1,Yes,2.0,Average
+1697,10917,2024-03-07,Dissatisfied,2,3,5,Yes,9.0,Good
+1698,10276,2024-02-24,Neutral,3,4,2,Yes,5.0,
+1699,10997,2024-04-06,Dissatisfied,5,4,5,Yes,6.0,Great!
+1700,10464,2024-01-10,Very Dissatisfied,5,4,2,No,4.0,Could be better
+1701,10963,2024-02-20,Very Satisfied,5,2,1,No,4.0,Average
+1702,11133,2024-01-05,Satisfied,5,4,4,Yes,8.0,Could be better
+1703,11677,2024-05-27,Neutral,5,3,2,No,0.0,
+1704,10643,2024-04-17,Dissatisfied,1,4,3,No,1.0,Good
+1705,11452,2024-01-06,Neutral,1,5,2,No,1.0,Great!
+1706,10405,2024-01-06,Neutral,1,5,3,No,6.0,
+1707,11975,2024-02-06,Very Dissatisfied,1,5,1,No,5.0,Could be better
+1708,10827,2024-02-25,Neutral,3,1,4,Yes,1.0,
+1709,11412,2024-04-02,Very Satisfied,3,3,1,No,2.0,Average
+1710,10195,2024-02-11,Very Dissatisfied,4,5,5,No,3.0,
+1711,11571,2024-06-18,Very Satisfied,2,4,4,No,2.0,Good
+1712,11585,2024-05-07,Very Satisfied,4,4,1,Yes,6.0,
+1713,11844,2024-02-14,Dissatisfied,5,2,5,No,4.0,Good
+1714,11952,2024-04-28,Very Dissatisfied,5,3,4,No,7.0,
+1715,10697,2024-03-21,Very Satisfied,1,1,5,Yes,8.0,Could be better
+1716,10750,2024-03-26,Dissatisfied,1,1,4,No,0.0,Could be better
+1717,10938,2024-02-08,Dissatisfied,3,1,5,Yes,2.0,Good
+1718,11010,2024-03-28,Dissatisfied,2,2,2,No,4.0,
+1719,11722,2024-03-03,Neutral,1,3,5,Yes,,Could be better
+1720,10622,2024-04-18,Very Dissatisfied,1,3,4,No,3.0,Great!
+1721,11370,2024-04-07,Very Satisfied,5,5,2,Yes,0.0,
+1722,11263,2024-02-16,Neutral,3,2,1,No,8.0,Could be better
+1723,11621,2024-05-08,Dissatisfied,5,3,5,Yes,7.0,Great!
+1724,10717,2024-06-03,Very Satisfied,3,3,5,No,8.0,Average
+1725,11948,2024-02-12,Dissatisfied,5,4,1,No,4.0,
+1726,11957,2024-03-12,Very Dissatisfied,2,4,5,No,4.0,Good
+1727,10351,2024-05-29,Very Satisfied,4,1,2,No,5.0,Average
+1728,11941,2024-04-15,Very Dissatisfied,5,2,5,No,5.0,
+1729,10261,2024-03-03,Very Dissatisfied,5,1,1,Yes,3.0,
+1730,11297,2024-01-04,Dissatisfied,5,2,1,Yes,2.0,Good
+1731,11610,2024-06-13,Satisfied,5,3,4,Yes,6.0,Good
+1732,10188,2024-05-22,Very Satisfied,3,1,3,No,6.0,Good
+1733,10310,2024-04-07,Neutral,3,2,5,No,,
+1734,11660,2024-06-07,Neutral,3,3,1,No,1.0,Great!
+1735,11219,2024-03-20,Satisfied,2,5,5,No,3.0,
+1736,10615,2024-02-09,Dissatisfied,1,1,4,Yes,8.0,Great!
+1737,10016,2024-05-12,Dissatisfied,3,3,1,No,4.0,Average
+1738,10816,2024-02-27,Very Dissatisfied,2,1,5,Yes,1.0,Could be better
+1739,10750,2024-01-11,Very Dissatisfied,1,5,2,No,8.0,
+1740,10441,2024-01-20,Satisfied,2,3,2,Yes,1.0,Good
+1741,11579,2024-06-23,Dissatisfied,4,5,1,Yes,9.0,
+1742,10063,2024-05-08,Very Dissatisfied,5,1,2,No,2.0,Could be better
+1743,10863,2024-01-12,Very Satisfied,2,2,5,Yes,8.0,Average
+1744,11506,2024-01-14,Very Dissatisfied,2,5,1,Yes,1.0,Good
+1745,10802,2024-04-14,Very Dissatisfied,4,3,5,No,1.0,Could be better
+1746,10244,2024-05-25,Very Satisfied,2,5,4,Yes,2.0,Average
+1747,10947,2024-02-22,Neutral,5,1,2,No,5.0,
+1748,10773,2024-05-25,Neutral,4,4,3,No,4.0,Average
+1749,10390,2024-03-15,Satisfied,3,3,5,No,8.0,Average
+1750,11895,2024-01-09,Very Dissatisfied,3,5,2,No,3.0,
+1751,11686,2024-04-28,Dissatisfied,3,1,3,No,7.0,
+1752,10327,2024-04-12,Very Satisfied,5,1,1,No,7.0,Good
+1753,10519,2024-06-06,Dissatisfied,2,2,4,No,3.0,
+1754,10697,2024-05-20,Dissatisfied,4,3,2,No,3.0,Average
+1755,10299,2024-01-18,Very Satisfied,3,2,5,Yes,9.0,Good
+1756,10864,2024-04-19,Very Satisfied,3,2,1,Yes,4.0,Average
+1757,11242,2024-01-02,Neutral,4,2,3,No,10.0,Good
+1758,10085,2024-06-04,Very Satisfied,3,3,5,Yes,3.0,
+1759,11539,2024-03-17,Satisfied,1,3,2,No,2.0,
+1760,10043,2024-05-04,Very Satisfied,5,4,5,No,2.0,Could be better
+1761,10040,2024-04-14,Very Dissatisfied,3,3,5,Yes,2.0,Good
+1762,11917,2024-05-14,Dissatisfied,5,5,2,No,0.0,
+1763,11526,2024-06-21,Very Satisfied,5,2,5,No,0.0,Great!
+1764,10491,2024-06-07,Satisfied,2,4,4,Yes,9.0,Good
+1765,11782,2024-06-11,Satisfied,1,2,2,Yes,9.0,
+1766,11031,2024-04-05,Very Dissatisfied,3,1,2,Yes,10.0,Could be better
+1767,10920,2024-01-21,Very Satisfied,5,1,5,No,6.0,Average
+1768,10362,2024-04-05,Dissatisfied,1,5,2,Yes,0.0,Great!
+1769,11496,2024-01-01,Satisfied,3,5,2,Yes,5.0,Could be better
+1770,11126,2024-05-15,Dissatisfied,1,5,3,Yes,6.0,
+1771,11634,2024-02-11,Neutral,3,1,5,No,5.0,Great!
+1772,10891,2024-04-30,Dissatisfied,4,3,5,Yes,10.0,Average
+1773,11316,2024-01-15,Neutral,1,4,1,No,9.0,Good
+1774,10614,2024-02-26,Neutral,5,5,5,Yes,0.0,Good
+1775,11469,2024-06-27,Satisfied,1,3,4,Yes,10.0,Could be better
+1776,11712,2024-05-13,Satisfied,1,2,1,Yes,,Could be better
+1777,10849,2024-01-21,Neutral,5,1,3,Yes,1.0,Good
+1778,11636,2024-01-11,Neutral,2,4,1,No,1.0,
+1779,10119,2024-02-06,Satisfied,5,3,4,No,,
+1780,11249,2024-03-03,Neutral,3,4,3,Yes,0.0,
+1781,11187,2024-05-16,Satisfied,5,2,1,Yes,1.0,Could be better
+1782,10651,2024-02-25,Very Satisfied,4,4,3,Yes,9.0,Could be better
+1783,10856,2024-01-05,Very Satisfied,4,2,4,No,1.0,Average
+1784,10042,2024-02-09,Neutral,5,2,4,Yes,6.0,
+1785,10680,2024-03-20,Satisfied,1,3,1,No,2.0,Could be better
+1786,10263,2024-04-25,Very Satisfied,3,1,1,Yes,10.0,Good
+1787,10278,2024-04-18,Neutral,5,3,2,No,0.0,Could be better
+1788,10050,2024-05-14,Neutral,1,2,3,No,9.0,Could be better
+1789,10615,2024-02-28,Neutral,3,1,1,Yes,3.0,Great!
+1790,11977,2024-03-25,Very Dissatisfied,1,4,5,No,7.0,Good
+1791,10832,2024-05-26,Satisfied,2,3,3,Yes,3.0,Great!
+1792,10960,2024-04-29,Dissatisfied,3,4,5,Yes,4.0,Could be better
+1793,10473,2024-04-25,Satisfied,3,3,3,Yes,7.0,Could be better
+1794,10931,2024-05-15,Neutral,2,4,3,No,10.0,
+1795,10410,2024-04-14,Dissatisfied,4,4,1,Yes,9.0,Could be better
+1796,11597,2024-04-12,Neutral,4,3,4,No,7.0,Great!
+1797,10528,2024-05-18,Very Dissatisfied,5,5,4,No,6.0,
+1798,11045,2024-02-06,Neutral,3,4,3,Yes,8.0,Good
+1799,11483,2024-02-06,Satisfied,1,5,4,No,6.0,
+1800,11294,2024-06-17,Dissatisfied,2,1,5,No,9.0,Good
+1801,11543,2024-06-21,Neutral,3,1,3,No,6.0,Good
+1802,11991,2024-01-20,Dissatisfied,3,4,2,No,0.0,Average
+1803,10569,2024-06-22,Very Dissatisfied,2,1,1,Yes,3.0,Great!
+1804,11389,2024-05-12,Satisfied,5,5,1,Yes,6.0,Average
+1805,11575,2024-03-05,Dissatisfied,2,4,2,Yes,1.0,
+1806,10963,2024-04-21,Dissatisfied,5,1,3,Yes,3.0,Good
+1807,11553,2024-02-06,Satisfied,5,2,4,Yes,4.0,
+1808,10954,2024-05-12,Neutral,1,1,4,No,2.0,Average
+1809,11019,2024-05-06,Satisfied,3,1,3,No,8.0,Great!
+1810,11327,2024-03-20,Satisfied,4,1,2,Yes,2.0,
+1811,11253,2024-04-29,Very Dissatisfied,4,3,4,Yes,4.0,Average
+1812,11778,2024-02-07,Very Satisfied,3,5,4,Yes,5.0,Good
+1813,11540,2024-03-15,Very Satisfied,3,4,3,Yes,9.0,Average
+1814,10660,2024-04-24,Very Satisfied,3,2,2,No,9.0,Great!
+1815,11654,2024-06-15,Neutral,5,1,1,No,4.0,Average
+1816,10127,2024-06-29,Dissatisfied,1,5,3,No,8.0,
+1817,10464,2024-01-14,Satisfied,1,2,5,Yes,10.0,
+1818,10258,2024-05-21,Very Satisfied,1,4,2,No,7.0,
+1819,10729,2024-01-01,Very Dissatisfied,4,1,3,Yes,9.0,Average
+1820,10442,2024-04-13,Very Satisfied,2,2,5,No,10.0,Could be better
+1821,10967,2024-06-29,Very Satisfied,5,4,3,Yes,8.0,Average
+1822,10221,2024-03-20,Very Dissatisfied,5,5,1,Yes,8.0,Could be better
+1823,10998,2024-02-13,Neutral,3,3,5,No,0.0,
+1824,11088,2024-02-25,Satisfied,1,3,5,Yes,1.0,Could be better
+1825,10762,2024-05-25,Neutral,3,1,3,No,3.0,
+1826,10237,2024-03-29,Very Dissatisfied,3,1,1,Yes,,Could be better
+1827,11272,2024-01-26,Neutral,2,3,4,Yes,3.0,Good
+1828,11179,2024-04-06,Satisfied,4,3,1,No,4.0,Great!
+1829,11061,2024-06-21,Dissatisfied,5,5,4,Yes,7.0,Could be better
+1830,10676,2024-05-07,Neutral,1,3,4,Yes,1.0,Good
+1831,10797,2024-04-03,Neutral,2,4,5,No,7.0,
+1832,11744,2024-02-29,Dissatisfied,2,2,5,No,4.0,Could be better
+1833,10416,2024-06-01,Very Dissatisfied,5,2,3,No,10.0,Could be better
+1834,10963,2024-01-14,Very Dissatisfied,1,1,2,No,6.0,
+1835,11094,2024-06-11,Very Satisfied,3,2,5,No,2.0,Could be better
+1836,11314,2024-03-21,Neutral,4,4,2,Yes,2.0,Could be better
+1837,11747,2024-02-07,Neutral,1,2,5,Yes,4.0,
+1838,11317,2024-05-11,Very Dissatisfied,2,5,4,Yes,1.0,
+1839,10786,2024-03-15,Very Satisfied,2,3,5,No,9.0,Great!
+1840,11974,2024-01-15,Dissatisfied,2,4,4,No,4.0,Great!
+1841,10609,2024-03-28,Neutral,4,5,2,Yes,,
+1842,10227,2024-05-02,Neutral,5,1,5,Yes,4.0,
+1843,11198,2024-01-15,Very Satisfied,2,4,1,Yes,1.0,
+1844,11421,2024-06-14,Satisfied,2,3,4,No,8.0,
+1845,10125,2024-05-22,Very Dissatisfied,2,1,5,No,2.0,
+1846,10494,2024-03-31,Neutral,4,1,3,Yes,7.0,Great!
+1847,10628,2024-03-22,Neutral,4,2,4,No,1.0,Could be better
+1848,11210,2024-03-19,Dissatisfied,4,1,3,No,8.0,Average
+1849,11837,2024-03-24,Very Dissatisfied,1,2,1,No,0.0,
+1850,10324,2024-05-15,Dissatisfied,1,3,3,No,1.0,Average
+1851,11575,2024-06-20,Satisfied,2,5,2,Yes,6.0,Average
+1852,10155,2024-02-23,Very Satisfied,5,3,2,No,8.0,Good
+1853,10881,2024-05-05,Very Satisfied,3,4,2,No,2.0,Average
+1854,11344,2024-05-29,Satisfied,1,1,5,No,4.0,Could be better
+1855,10437,2024-02-26,Very Satisfied,3,3,2,Yes,3.0,Good
+1856,10478,2024-04-01,Very Dissatisfied,5,5,4,Yes,9.0,
+1857,11909,2024-05-15,Neutral,3,5,4,Yes,7.0,Average
+1858,10788,2024-04-08,Very Dissatisfied,4,1,5,Yes,2.0,
+1859,10240,2024-06-06,Dissatisfied,3,5,5,No,10.0,
+1860,11173,2024-03-22,Very Dissatisfied,2,4,4,No,8.0,Great!
+1861,11609,2024-04-30,Satisfied,4,3,1,No,4.0,
+1862,11043,2024-06-27,Satisfied,4,2,4,Yes,8.0,
+1863,10858,2024-05-12,Neutral,1,5,1,Yes,1.0,
+1864,10643,2024-01-23,Neutral,4,4,5,No,2.0,
+1865,10147,2024-05-08,Neutral,4,5,1,No,3.0,Could be better
+1866,11890,2024-04-22,Neutral,2,4,3,Yes,9.0,Great!
+1867,10760,2024-04-16,Dissatisfied,1,2,1,Yes,1.0,Good
+1868,10283,2024-04-25,Neutral,4,4,3,No,2.0,
+1869,11233,2024-03-03,Very Satisfied,3,5,5,Yes,1.0,Great!
+1870,11418,2024-04-25,Very Satisfied,3,1,4,Yes,5.0,Could be better
+1871,11616,2024-01-31,Very Satisfied,4,4,2,Yes,5.0,
+1872,11956,2024-01-20,Neutral,3,3,1,No,7.0,Average
+1873,11416,2024-06-24,Dissatisfied,1,5,3,No,8.0,Good
+1874,10640,2024-01-25,Neutral,4,5,4,No,7.0,Average
+1875,11418,2024-06-23,Very Satisfied,4,1,1,No,4.0,Great!
+1876,10316,2024-03-07,Neutral,5,3,3,Yes,5.0,Average
+1877,10415,2024-02-18,Neutral,5,4,2,No,0.0,Average
+1878,11189,2024-01-31,Neutral,4,2,2,Yes,4.0,Could be better
+1879,10306,2024-02-05,Satisfied,3,2,1,No,0.0,Great!
+1880,11837,2024-03-23,Neutral,5,4,4,Yes,1.0,Average
+1881,11225,2024-05-01,Very Satisfied,1,1,5,Yes,1.0,
+1882,11205,2024-02-28,Very Satisfied,5,2,1,Yes,3.0,
+1883,10359,2024-04-24,Very Satisfied,2,2,4,Yes,3.0,
+1884,10335,2024-01-13,Satisfied,2,3,1,Yes,2.0,
+1885,11350,2024-01-21,Dissatisfied,5,2,3,Yes,5.0,Could be better
+1886,11220,2024-01-10,Very Satisfied,4,2,4,No,6.0,
+1887,11496,2024-02-13,Dissatisfied,5,4,3,Yes,6.0,Average
+1888,10488,2024-01-26,Very Satisfied,3,2,1,Yes,2.0,Could be better
+1889,11868,2024-03-15,Very Dissatisfied,4,3,1,No,10.0,
+1890,10456,2024-05-07,Satisfied,1,2,2,No,3.0,
+1891,11284,2024-01-01,Dissatisfied,2,2,3,Yes,6.0,Good
+1892,11101,2024-03-20,Satisfied,5,4,4,No,,Could be better
+1893,10274,2024-04-17,Very Satisfied,3,4,5,No,,
+1894,10725,2024-05-26,Dissatisfied,3,1,1,No,1.0,Could be better
+1895,10807,2024-06-12,Very Dissatisfied,2,1,1,Yes,10.0,Good
+1896,11509,2024-05-29,Dissatisfied,1,4,2,No,7.0,Average
+1897,10003,2024-06-07,Neutral,5,2,4,No,2.0,Average
+1898,11619,2024-01-04,Very Dissatisfied,1,2,2,Yes,2.0,Could be better
+1899,11459,2024-05-28,Satisfied,4,2,3,No,1.0,Average
+1900,10344,2024-05-19,Neutral,1,1,1,Yes,9.0,
+1901,10036,2024-01-30,Dissatisfied,5,5,2,No,3.0,Average
+1902,11468,2024-01-05,Satisfied,5,5,4,No,2.0,
+1903,11827,2024-03-01,Very Dissatisfied,4,5,3,Yes,,Could be better
+1904,10531,2024-03-30,Neutral,4,1,5,No,0.0,
+1905,11536,2024-03-29,Very Satisfied,5,2,1,Yes,4.0,Average
+1906,11111,2024-06-07,Satisfied,2,5,4,Yes,2.0,
+1907,11983,2024-04-08,Very Satisfied,3,5,2,Yes,5.0,Could be better
+1908,11724,2024-05-23,Very Dissatisfied,5,1,2,No,5.0,
+1909,10863,2024-02-20,Satisfied,5,4,3,Yes,10.0,Great!
+1910,10166,2024-03-09,Very Satisfied,2,2,2,No,8.0,
+1911,11442,2024-01-23,Neutral,3,1,5,Yes,1.0,Great!
+1912,10396,2024-04-09,Very Dissatisfied,3,4,5,Yes,7.0,Average
+1913,10220,2024-01-01,Very Satisfied,1,3,3,Yes,4.0,Good
+1914,11019,2024-03-25,Very Dissatisfied,4,1,5,No,2.0,Great!
+1915,11289,2024-05-14,Dissatisfied,1,1,2,No,9.0,Great!
+1916,10029,2024-02-06,Neutral,3,4,3,No,1.0,Average
+1917,11087,2024-03-26,Very Satisfied,4,3,4,No,5.0,Could be better
+1918,11801,2024-05-09,Satisfied,1,5,2,Yes,0.0,Average
+1919,11634,2024-06-24,Very Dissatisfied,5,1,5,No,8.0,Good
+1920,11120,2024-04-05,Satisfied,5,2,1,Yes,6.0,
+1921,11951,2024-04-14,Satisfied,3,1,1,No,10.0,
+1922,10214,2024-04-02,Very Satisfied,5,2,4,No,8.0,Great!
+1923,10240,2024-02-28,Dissatisfied,1,2,2,No,2.0,Good
+1924,11741,2024-05-30,Satisfied,1,2,5,Yes,5.0,Average
+1925,10588,2024-03-10,Very Dissatisfied,1,1,1,No,2.0,Great!
+1926,10512,2024-02-05,Dissatisfied,4,5,3,Yes,9.0,Could be better
+1927,11932,2024-06-26,Satisfied,2,5,2,Yes,,Could be better
+1928,10038,2024-06-03,Neutral,3,4,5,Yes,7.0,Great!
+1929,10319,2024-02-20,Neutral,2,5,5,Yes,0.0,Average
+1930,10175,2024-01-05,Very Dissatisfied,5,2,5,Yes,6.0,Great!
+1931,10967,2024-04-07,Neutral,4,4,1,Yes,4.0,Good
+1932,11452,2024-01-28,Very Satisfied,2,4,4,No,4.0,Average
+1933,10839,2024-06-26,Very Satisfied,5,4,3,No,8.0,
+1934,10124,2024-05-11,Very Satisfied,1,5,2,No,3.0,
+1935,10105,2024-06-13,Very Dissatisfied,5,5,2,Yes,2.0,Good
+1936,11673,2024-03-29,Very Dissatisfied,2,3,1,Yes,4.0,Good
+1937,10581,2024-01-30,Dissatisfied,2,1,2,No,9.0,Average
+1938,10523,2024-06-05,Satisfied,4,5,2,Yes,10.0,Could be better
+1939,11868,2024-01-30,Very Satisfied,4,3,5,No,10.0,
+1940,10765,2024-03-30,Satisfied,4,1,4,No,5.0,
+1941,10894,2024-04-19,Satisfied,1,5,5,Yes,0.0,
+1942,11294,2024-01-05,Very Dissatisfied,2,2,1,No,2.0,
+1943,11371,2024-03-10,Dissatisfied,5,4,2,No,9.0,
+1944,11689,2024-05-20,Very Dissatisfied,2,4,4,No,0.0,
+1945,11783,2024-02-23,Neutral,1,4,4,Yes,5.0,Good
+1946,10900,2024-02-04,Very Satisfied,1,2,3,No,8.0,Great!
+1947,10565,2024-05-10,Very Satisfied,5,5,1,No,0.0,Great!
+1948,11747,2024-04-17,Very Dissatisfied,4,5,2,No,5.0,Average
+1949,10683,2024-03-09,Very Satisfied,1,3,5,Yes,10.0,Average
+1950,11914,2024-02-08,Neutral,5,2,3,No,9.0,
+1951,11580,2024-06-14,Neutral,5,2,3,Yes,8.0,
+1952,11272,2024-01-05,Very Dissatisfied,4,2,2,Yes,6.0,Good
+1953,10140,2024-06-08,Very Dissatisfied,2,2,5,Yes,5.0,
+1954,11014,2024-01-24,Neutral,2,3,4,Yes,1.0,Good
+1955,11673,2024-01-09,Very Dissatisfied,5,4,2,No,7.0,Great!
+1956,11299,2024-06-21,Satisfied,3,4,5,Yes,10.0,Could be better
+1957,11072,2024-02-14,Satisfied,5,4,3,No,9.0,
+1958,11090,2024-02-15,Dissatisfied,3,4,4,Yes,6.0,
+1959,10758,2024-02-02,Very Satisfied,1,4,1,Yes,10.0,Average
+1960,10362,2024-03-03,Dissatisfied,4,5,5,No,8.0,Great!
+1961,10597,2024-05-17,Neutral,2,1,2,No,3.0,Good
+1962,10812,2024-03-07,Dissatisfied,4,3,4,No,5.0,
+1963,10133,2024-06-16,Satisfied,3,1,5,Yes,8.0,
+1964,11987,2024-06-18,Dissatisfied,2,5,1,No,9.0,Average
+1965,10621,2024-04-10,Satisfied,1,1,4,No,1.0,Average
+1966,11338,2024-04-13,Dissatisfied,5,4,1,Yes,6.0,Great!
+1967,11885,2024-05-15,Very Satisfied,2,2,2,Yes,5.0,
+1968,10207,2024-03-24,Dissatisfied,2,4,5,Yes,0.0,
+1969,11741,2024-03-28,Very Dissatisfied,3,3,1,No,5.0,Average
+1970,10337,2024-04-04,Dissatisfied,2,2,4,No,0.0,Great!
+1971,11196,2024-03-14,Neutral,3,1,5,No,8.0,Could be better
+1972,11579,2024-06-27,Neutral,5,2,3,Yes,2.0,
+1973,10282,2024-03-24,Very Satisfied,1,4,1,Yes,3.0,Good
+1974,10005,2024-05-24,Dissatisfied,3,2,4,Yes,8.0,Great!
+1975,11157,2024-06-07,Very Dissatisfied,5,4,2,No,10.0,Great!
+1976,11243,2024-04-09,Dissatisfied,5,1,1,Yes,8.0,Average
+1977,10144,2024-06-05,Neutral,3,4,5,No,1.0,Could be better
+1978,11004,2024-02-24,Very Dissatisfied,2,5,5,Yes,7.0,Average
+1979,11415,2024-05-31,Very Satisfied,3,5,4,Yes,6.0,
+1980,10043,2024-01-29,Very Satisfied,1,2,2,No,10.0,
+1981,11365,2024-04-26,Satisfied,1,3,3,No,9.0,
+1982,10503,2024-05-28,Very Dissatisfied,4,1,5,Yes,5.0,Great!
+1983,10676,2024-05-25,Very Dissatisfied,1,4,2,Yes,7.0,Great!
+1984,11666,2024-01-20,Neutral,3,5,1,No,1.0,
+1985,10267,2024-04-17,Neutral,3,2,2,Yes,,
+1986,11392,2024-03-02,Very Satisfied,5,2,5,No,3.0,Could be better
+1987,11887,2024-04-01,Very Dissatisfied,4,4,3,No,0.0,Good
+1988,10590,2024-01-12,Very Dissatisfied,2,5,5,Yes,1.0,
+1989,11452,2024-05-11,Very Dissatisfied,4,5,4,No,10.0,
+1990,11957,2024-03-04,Satisfied,5,4,5,No,8.0,Average
+1991,10503,2024-02-04,Very Dissatisfied,3,4,1,Yes,1.0,Good
+1992,11644,2024-04-07,Very Dissatisfied,4,3,4,No,0.0,Could be better
+1993,10766,2024-03-31,Very Satisfied,5,2,2,Yes,0.0,Could be better
+1994,11319,2024-02-26,Dissatisfied,3,1,5,Yes,7.0,Average
+1995,10097,2024-04-26,Dissatisfied,5,1,2,Yes,3.0,Good
+1996,10324,2024-05-14,Dissatisfied,2,2,1,Yes,5.0,Good
+1997,11832,2024-05-22,Very Satisfied,4,3,3,Yes,4.0,
+1998,11407,2024-02-03,Dissatisfied,5,1,3,Yes,9.0,Good
+1999,10319,2024-01-12,Neutral,1,4,4,No,10.0,Good
+2000,11867,2024-04-17,Dissatisfied,1,3,1,Yes,5.0,Could be better
+2001,11671,2024-06-29,Very Satisfied,3,5,5,Yes,9.0,
+2002,11552,2024-01-30,Satisfied,3,4,5,No,9.0,Good
+2003,10305,2024-03-21,Neutral,1,5,3,No,8.0,
+2004,10541,2024-04-18,Very Satisfied,4,3,3,Yes,5.0,Great!
+2005,11906,2024-06-22,Very Satisfied,4,1,2,No,4.0,Could be better
+2006,11170,2024-05-22,Very Dissatisfied,3,5,4,Yes,6.0,Average
+2007,10059,2024-05-27,Dissatisfied,1,1,2,Yes,6.0,
+2008,11655,2024-01-15,Satisfied,2,4,5,Yes,4.0,Good
+2009,10562,2024-04-12,Very Dissatisfied,2,1,2,No,9.0,Good
+2010,10862,2024-06-23,Neutral,5,4,3,No,7.0,
+2011,11295,2024-03-09,Very Dissatisfied,3,3,2,Yes,4.0,Could be better
+2012,11960,2024-04-13,Dissatisfied,5,4,2,Yes,4.0,Great!
+2013,10275,2024-01-07,Very Satisfied,4,2,2,Yes,1.0,
+2014,10083,2024-03-05,Very Dissatisfied,4,4,4,Yes,9.0,Could be better
+2015,10940,2024-05-16,Very Dissatisfied,5,2,5,Yes,8.0,
+2016,10924,2024-02-05,Neutral,3,1,5,No,4.0,Good
+2017,11928,2024-01-17,Neutral,2,2,2,No,10.0,
+2018,10162,2024-02-11,Neutral,5,5,2,Yes,8.0,Could be better
+2019,11839,2024-01-23,Very Dissatisfied,3,5,4,Yes,5.0,Good
+2020,10291,2024-02-02,Neutral,2,1,1,Yes,1.0,Could be better
+2021,10931,2024-04-27,Very Dissatisfied,1,2,1,No,9.0,Could be better
+2022,10710,2024-03-28,Very Satisfied,3,2,2,No,4.0,Great!
+2023,11505,2024-01-09,Very Satisfied,3,2,3,Yes,2.0,
+2024,10315,2024-06-15,Very Dissatisfied,2,1,3,Yes,3.0,Great!
+2025,10050,2024-03-14,Neutral,1,5,2,Yes,9.0,Average
+2026,10057,2024-03-08,Dissatisfied,2,4,3,Yes,4.0,
+2027,11541,2024-04-03,Satisfied,5,2,2,No,0.0,Could be better
+2028,10113,2024-04-21,Very Dissatisfied,5,1,5,Yes,7.0,Good
+2029,10648,2024-02-07,Very Satisfied,4,1,2,Yes,6.0,Great!
+2030,10074,2024-05-03,Neutral,5,5,3,Yes,1.0,Great!
+2031,10677,2024-06-29,Neutral,1,1,2,No,6.0,Great!
+2032,11877,2024-04-29,Satisfied,3,2,3,Yes,6.0,Great!
+2033,11447,2024-04-26,Very Satisfied,4,5,2,No,,
+2034,10938,2024-03-08,Satisfied,5,5,5,Yes,8.0,Could be better
+2035,11570,2024-01-15,Neutral,4,3,5,Yes,3.0,
+2036,11528,2024-03-11,Neutral,5,3,3,No,2.0,
+2037,10630,2024-01-18,Satisfied,5,1,2,No,6.0,
+2038,11705,2024-04-08,Very Satisfied,1,4,5,Yes,1.0,Average
+2039,10051,2024-04-27,Satisfied,2,1,4,Yes,4.0,Average
+2040,10041,2024-06-27,Neutral,3,4,5,Yes,1.0,Good
+2041,11489,2024-04-28,Very Satisfied,5,1,1,No,6.0,
+2042,10864,2024-03-28,Satisfied,4,3,3,Yes,3.0,
+2043,10397,2024-01-20,Neutral,5,3,5,Yes,5.0,Could be better
+2044,11099,2024-01-14,Very Satisfied,3,5,2,No,5.0,
+2045,10246,2024-02-25,Very Satisfied,3,5,2,No,2.0,Could be better
+2046,10172,2024-03-25,Very Satisfied,1,3,4,No,1.0,Average
+2047,10157,2024-02-18,Satisfied,5,3,5,Yes,1.0,Average
+2048,10777,2024-04-24,Dissatisfied,2,4,5,No,9.0,Could be better
+2049,10277,2024-03-10,Dissatisfied,4,4,3,Yes,8.0,Could be better
+2050,10311,2024-02-18,Dissatisfied,1,1,2,No,8.0,
+2051,10645,2024-04-27,Very Dissatisfied,1,1,5,Yes,,Good
+2052,11597,2024-06-01,Very Dissatisfied,5,3,3,Yes,5.0,
+2053,11721,2024-05-29,Neutral,3,3,2,Yes,7.0,
+2054,11609,2024-03-05,Neutral,5,5,3,No,2.0,Great!
+2055,11342,2024-01-21,Very Dissatisfied,4,2,3,Yes,8.0,
+2056,11187,2024-04-07,Dissatisfied,4,2,4,No,3.0,Great!
+2057,10906,2024-06-07,Dissatisfied,3,1,5,No,4.0,Could be better
+2058,10610,2024-04-22,Satisfied,4,3,5,No,9.0,
+2059,10625,2024-05-12,Neutral,2,3,5,No,3.0,Great!
+2060,11245,2024-01-05,Dissatisfied,2,4,5,Yes,7.0,Could be better
+2061,10891,2024-01-25,Very Satisfied,1,1,3,No,3.0,Good
+2062,11573,2024-03-24,Dissatisfied,2,4,2,Yes,6.0,Average
+2063,10745,2024-01-29,Very Dissatisfied,3,4,2,No,7.0,Average
+2064,11383,2024-03-25,Satisfied,1,3,3,No,7.0,
+2065,11437,2024-06-12,Neutral,4,4,2,Yes,0.0,Good
+2066,11946,2024-05-28,Satisfied,3,5,3,Yes,3.0,Average
+2067,10729,2024-05-16,Very Dissatisfied,3,3,4,No,9.0,Good
+2068,10191,2024-03-13,Dissatisfied,4,2,1,No,1.0,Good
+2069,11915,2024-04-22,Neutral,1,1,1,No,4.0,
+2070,11818,2024-04-09,Dissatisfied,3,4,5,No,6.0,
+2071,11102,2024-06-07,Dissatisfied,1,5,3,No,,Average
+2072,11965,2024-06-16,Very Satisfied,4,4,4,No,5.0,Average
+2073,10220,2024-04-21,Satisfied,1,3,1,No,0.0,Good
+2074,10800,2024-03-31,Satisfied,5,5,3,Yes,10.0,
+2075,10786,2024-02-17,Satisfied,4,2,5,Yes,5.0,Great!
+2076,10318,2024-02-06,Satisfied,1,5,2,Yes,8.0,Great!
+2077,10832,2024-02-04,Very Dissatisfied,5,3,1,No,10.0,
+2078,11927,2024-04-10,Neutral,1,5,3,No,9.0,
+2079,11631,2024-02-27,Neutral,5,5,5,Yes,3.0,Great!
+2080,10063,2024-01-31,Dissatisfied,4,2,5,Yes,3.0,
+2081,11364,2024-03-01,Very Dissatisfied,2,5,3,Yes,3.0,
+2082,10812,2024-02-25,Dissatisfied,1,4,1,Yes,6.0,Great!
+2083,10897,2024-03-29,Dissatisfied,2,3,5,Yes,7.0,
+2084,11152,2024-04-16,Very Dissatisfied,4,3,5,No,5.0,Great!
+2085,11745,2024-04-22,Very Satisfied,5,2,4,Yes,3.0,Good
+2086,11133,2024-06-28,Satisfied,1,5,4,No,5.0,Could be better
+2087,11210,2024-03-28,Very Satisfied,5,3,1,No,10.0,Could be better
+2088,11522,2024-02-14,Very Satisfied,3,2,3,Yes,6.0,Great!
+2089,11016,2024-01-20,Very Satisfied,5,3,2,Yes,9.0,Average
+2090,11442,2024-05-31,Satisfied,4,4,1,Yes,10.0,Great!
+2091,11903,2024-02-09,Satisfied,2,2,2,No,6.0,Good
+2092,10774,2024-05-17,Satisfied,4,5,2,Yes,6.0,Good
+2093,11140,2024-05-23,Very Dissatisfied,2,2,2,Yes,,Great!
+2094,11208,2024-02-12,Satisfied,5,4,4,No,4.0,
+2095,11156,2024-03-31,Very Satisfied,4,5,3,No,3.0,
+2096,11734,2024-03-09,Very Dissatisfied,5,2,2,No,8.0,Average
+2097,10927,2024-04-18,Very Dissatisfied,3,4,1,Yes,3.0,Great!
+2098,10727,2024-03-03,Dissatisfied,1,3,3,Yes,0.0,Great!
+2099,10098,2024-06-12,Very Satisfied,2,5,4,No,3.0,
+2100,10469,2024-04-11,Satisfied,5,5,5,No,1.0,Good
+2101,11705,2024-01-23,Neutral,1,5,3,No,6.0,
+2102,10115,2024-02-19,Neutral,1,1,4,Yes,0.0,Good
+2103,11900,2024-06-23,Very Satisfied,5,3,5,No,3.0,Great!
+2104,10276,2024-05-19,Dissatisfied,3,1,2,Yes,3.0,Average
+2105,11649,2024-04-07,Satisfied,4,2,1,Yes,6.0,Could be better
+2106,10832,2024-05-15,Neutral,3,1,5,No,3.0,Great!
+2107,11974,2024-06-13,Very Satisfied,1,1,2,No,6.0,
+2108,10526,2024-02-17,Dissatisfied,5,2,5,Yes,0.0,Great!
+2109,10538,2024-02-24,Neutral,2,2,1,Yes,10.0,Good
+2110,10331,2024-06-07,Satisfied,4,5,5,No,10.0,Good
+2111,11428,2024-04-30,Dissatisfied,1,3,2,No,8.0,Great!
+2112,10622,2024-04-24,Satisfied,5,2,1,No,5.0,Good
+2113,11675,2024-02-12,Very Satisfied,4,1,3,No,3.0,Good
+2114,10355,2024-02-02,Very Dissatisfied,1,5,5,Yes,,
+2115,10676,2024-03-18,Neutral,1,3,2,Yes,2.0,Great!
+2116,10158,2024-01-11,Satisfied,1,2,2,No,6.0,Good
+2117,11220,2024-04-03,Very Satisfied,2,4,1,Yes,0.0,Could be better
+2118,11389,2024-02-26,Neutral,5,2,2,Yes,7.0,
+2119,10607,2024-01-26,Very Satisfied,3,3,5,Yes,7.0,
+2120,11368,2024-02-28,Satisfied,4,1,2,No,8.0,Good
+2121,10074,2024-02-23,Very Satisfied,2,4,5,No,1.0,
+2122,10724,2024-05-05,Satisfied,1,5,1,No,9.0,Average
+2123,10985,2024-03-23,Very Dissatisfied,1,5,1,No,5.0,Great!
+2124,11089,2024-02-25,Very Dissatisfied,1,3,4,No,1.0,Good
+2125,11071,2024-03-13,Very Satisfied,1,5,3,Yes,2.0,
+2126,11450,2024-02-06,Very Dissatisfied,5,2,4,Yes,8.0,
+2127,10620,2024-05-10,Very Dissatisfied,2,5,2,No,1.0,Average
+2128,10275,2024-03-18,Very Satisfied,5,5,2,No,1.0,Could be better
+2129,10114,2024-06-02,Neutral,4,5,3,No,3.0,Good
+2130,10128,2024-06-17,Very Dissatisfied,1,5,1,Yes,7.0,Great!
+2131,11031,2024-06-23,Neutral,5,5,2,Yes,5.0,
+2132,10297,2024-02-16,Very Satisfied,2,3,5,Yes,2.0,Average
+2133,10642,2024-04-04,Very Satisfied,5,4,5,Yes,0.0,Could be better
+2134,11008,2024-04-15,Very Satisfied,1,4,5,No,8.0,Good
+2135,11716,2024-05-26,Dissatisfied,4,1,1,Yes,6.0,
+2136,10941,2024-06-14,Very Dissatisfied,3,1,3,No,1.0,Average
+2137,10179,2024-03-04,Neutral,2,2,5,Yes,0.0,Average
+2138,10564,2024-06-10,Neutral,5,1,1,No,10.0,
+2139,10335,2024-06-23,Very Dissatisfied,2,4,4,Yes,3.0,Good
+2140,11353,2024-03-07,Dissatisfied,4,1,1,No,3.0,Good
+2141,11965,2024-06-03,Dissatisfied,2,3,5,Yes,9.0,Could be better
+2142,10039,2024-05-19,Satisfied,1,3,1,Yes,3.0,Great!
+2143,10949,2024-01-16,Very Dissatisfied,1,1,1,No,,
+2144,10525,2024-01-31,Neutral,4,4,5,Yes,4.0,
+2145,10590,2024-05-27,Dissatisfied,3,4,3,Yes,9.0,
+2146,11155,2024-06-15,Neutral,5,1,4,No,6.0,Average
+2147,11269,2024-06-15,Very Dissatisfied,1,5,3,Yes,0.0,Great!
+2148,11244,2024-04-02,Neutral,1,4,5,Yes,6.0,
+2149,10324,2024-04-19,Neutral,4,4,5,Yes,8.0,Could be better
+2150,11289,2024-04-04,Very Dissatisfied,4,4,5,Yes,3.0,Average
+2151,10368,2024-04-01,Very Dissatisfied,4,5,5,No,4.0,Great!
+2152,10916,2024-06-28,Very Dissatisfied,5,1,3,Yes,9.0,Average
+2153,11961,2024-05-23,Satisfied,5,1,1,Yes,6.0,Average
+2154,11634,2024-01-18,Dissatisfied,4,2,1,No,6.0,
+2155,10791,2024-01-08,Satisfied,5,2,3,No,2.0,Could be better
+2156,10492,2024-02-08,Neutral,2,5,5,Yes,0.0,Great!
+2157,11271,2024-02-18,Very Satisfied,3,2,2,Yes,7.0,
+2158,10660,2024-06-17,Very Dissatisfied,3,3,2,No,0.0,Average
+2159,11186,2024-01-04,Very Dissatisfied,5,2,5,Yes,5.0,Could be better
+2160,10371,2024-06-14,Very Dissatisfied,2,2,1,No,10.0,
+2161,11011,2024-03-29,Neutral,3,5,1,No,9.0,
+2162,11887,2024-01-26,Very Satisfied,3,4,3,Yes,10.0,
+2163,10314,2024-01-04,Neutral,4,3,1,Yes,1.0,Average
+2164,10092,2024-01-02,Satisfied,2,1,3,No,7.0,
+2165,10737,2024-05-06,Neutral,1,4,2,Yes,6.0,
+2166,10760,2024-02-16,Very Dissatisfied,3,1,4,No,7.0,Average
+2167,10406,2024-03-24,Dissatisfied,2,5,5,Yes,3.0,Average
+2168,10017,2024-02-13,Very Dissatisfied,3,2,4,Yes,6.0,Could be better
+2169,10813,2024-05-08,Satisfied,3,2,3,Yes,2.0,Average
+2170,11143,2024-04-02,Satisfied,3,2,5,Yes,9.0,
+2171,10074,2024-01-26,Very Dissatisfied,2,5,1,No,,Good
+2172,10924,2024-05-30,Neutral,3,3,5,Yes,10.0,Good
+2173,11702,2024-01-01,Very Satisfied,3,2,3,Yes,3.0,
+2174,11025,2024-01-08,Satisfied,4,5,4,No,8.0,Could be better
+2175,10855,2024-02-22,Satisfied,3,3,5,No,6.0,Could be better
+2176,10005,2024-05-09,Dissatisfied,2,5,4,Yes,5.0,Could be better
+2177,10110,2024-06-08,Very Satisfied,5,3,1,No,0.0,Average
+2178,11699,2024-02-16,Dissatisfied,1,3,3,No,4.0,Good
+2179,10167,2024-06-29,Satisfied,2,3,4,No,8.0,
+2180,10596,2024-06-02,Very Dissatisfied,3,2,2,Yes,0.0,Great!
+2181,10072,2024-04-20,Neutral,4,1,4,Yes,,
+2182,11292,2024-02-12,Very Dissatisfied,1,4,4,Yes,1.0,Great!
+2183,10936,2024-02-23,Dissatisfied,5,2,5,No,10.0,
+2184,11201,2024-05-28,Satisfied,1,1,4,Yes,5.0,
+2185,10034,2024-04-20,Dissatisfied,2,2,3,Yes,9.0,
+2186,10367,2024-05-23,Dissatisfied,2,5,1,No,2.0,
+2187,10727,2024-05-21,Satisfied,3,1,4,Yes,10.0,Could be better
+2188,10890,2024-01-15,Very Dissatisfied,4,4,2,No,3.0,
+2189,11258,2024-02-09,Very Satisfied,4,4,1,No,1.0,Great!
+2190,10348,2024-03-20,Satisfied,5,1,2,Yes,,Great!
+2191,11213,2024-02-08,Dissatisfied,4,4,3,No,1.0,Great!
+2192,11863,2024-05-17,Very Satisfied,4,5,3,No,8.0,Great!
+2193,10518,2024-05-07,Very Satisfied,2,3,5,Yes,8.0,Average
+2194,10124,2024-04-03,Neutral,5,5,3,Yes,,
+2195,11686,2024-04-23,Satisfied,1,5,4,No,2.0,Could be better
+2196,11993,2024-06-25,Dissatisfied,1,3,5,Yes,1.0,Good
+2197,10287,2024-02-10,Very Dissatisfied,3,5,4,Yes,4.0,Could be better
+2198,11287,2024-03-07,Very Satisfied,4,4,2,No,3.0,
+2199,10110,2024-05-05,Satisfied,1,1,1,Yes,3.0,
+2200,11620,2024-06-10,Satisfied,5,3,2,Yes,1.0,
+2201,10130,2024-06-03,Very Dissatisfied,2,4,3,Yes,10.0,Could be better
+2202,11033,2024-04-23,Very Dissatisfied,4,1,2,Yes,,Good
+2203,11050,2024-05-15,Very Dissatisfied,1,5,4,No,6.0,Great!
+2204,10383,2024-04-26,Very Satisfied,1,4,1,No,9.0,Average
+2205,10907,2024-04-02,Dissatisfied,2,5,3,Yes,7.0,
+2206,11552,2024-06-22,Very Dissatisfied,5,3,1,Yes,4.0,Average
+2207,10879,2024-06-14,Dissatisfied,1,2,5,Yes,,Could be better
+2208,10208,2024-02-05,Neutral,2,5,1,Yes,5.0,
+2209,10729,2024-05-22,Dissatisfied,3,2,5,No,7.0,Could be better
+2210,10454,2024-02-10,Very Dissatisfied,1,5,1,Yes,10.0,Great!
+2211,11212,2024-03-27,Satisfied,2,5,2,No,0.0,Great!
+2212,10705,2024-06-20,Very Dissatisfied,1,4,2,No,1.0,
+2213,10271,2024-05-31,Very Dissatisfied,3,3,5,Yes,1.0,Could be better
+2214,11265,2024-04-18,Dissatisfied,3,5,1,No,9.0,Good
+2215,10356,2024-06-29,Dissatisfied,5,3,5,Yes,1.0,
+2216,11320,2024-04-13,Dissatisfied,3,5,3,Yes,5.0,
+2217,10680,2024-04-29,Neutral,5,1,4,No,2.0,Could be better
+2218,11781,2024-03-05,Very Dissatisfied,5,1,5,No,0.0,Great!
+2219,11032,2024-05-28,Satisfied,1,3,1,No,4.0,Average
+2220,10167,2024-01-15,Very Satisfied,3,1,5,No,1.0,Could be better
+2221,11370,2024-05-09,Very Satisfied,2,1,1,No,6.0,Average
+2222,11109,2024-05-15,Dissatisfied,3,2,5,Yes,6.0,
+2223,10233,2024-03-18,Satisfied,4,4,1,No,,
+2224,11045,2024-02-04,Neutral,4,1,3,Yes,8.0,Great!
+2225,11600,2024-03-20,Dissatisfied,1,1,4,Yes,2.0,Could be better
+2226,10206,2024-04-27,Very Satisfied,2,1,2,Yes,1.0,Good
+2227,10197,2024-05-02,Neutral,2,5,5,Yes,1.0,Average
+2228,10679,2024-02-26,Very Satisfied,5,2,1,Yes,2.0,Could be better
+2229,10281,2024-03-11,Very Dissatisfied,2,2,3,Yes,10.0,Good
+2230,10468,2024-01-05,Neutral,4,1,4,No,3.0,Good
+2231,11697,2024-02-12,Dissatisfied,3,4,4,No,5.0,Could be better
+2232,11281,2024-03-02,Very Dissatisfied,3,4,3,No,9.0,Good
+2233,10773,2024-02-16,Satisfied,3,2,3,No,5.0,
+2234,10277,2024-03-21,Dissatisfied,5,3,4,No,,Average
+2235,11291,2024-01-30,Satisfied,1,4,2,No,6.0,Could be better
+2236,10559,2024-03-24,Satisfied,1,4,3,Yes,8.0,
+2237,10837,2024-02-12,Dissatisfied,5,2,3,Yes,2.0,Could be better
+2238,11440,2024-03-18,Satisfied,1,5,4,No,2.0,Average
+2239,11044,2024-02-14,Very Satisfied,2,1,1,Yes,4.0,
+2240,10001,2024-02-13,Neutral,5,4,3,Yes,10.0,
+2241,11538,2024-03-27,Very Dissatisfied,5,1,4,No,9.0,Could be better
+2242,11840,2024-06-09,Dissatisfied,2,3,4,No,9.0,Good
+2243,11753,2024-02-17,Neutral,3,1,4,Yes,8.0,Good
+2244,10638,2024-01-25,Dissatisfied,5,3,5,No,5.0,
+2245,10766,2024-04-10,Satisfied,1,2,2,No,1.0,Could be better
+2246,10585,2024-05-23,Satisfied,1,5,1,Yes,7.0,
+2247,11001,2024-06-07,Very Satisfied,5,3,5,No,8.0,Good
+2248,10350,2024-05-18,Very Dissatisfied,3,4,1,No,3.0,Could be better
+2249,10016,2024-04-08,Satisfied,5,3,4,Yes,1.0,Great!
+2250,10544,2024-03-10,Neutral,4,5,2,No,1.0,
+2251,11884,2024-05-02,Very Satisfied,2,1,2,Yes,2.0,
+2252,11622,2024-01-17,Neutral,3,2,2,No,10.0,
+2253,10994,2024-03-09,Neutral,4,1,4,No,0.0,Good
+2254,10950,2024-01-24,Neutral,5,3,4,Yes,3.0,
+2255,10963,2024-03-23,Dissatisfied,2,4,1,Yes,0.0,Good
+2256,10882,2024-06-09,Dissatisfied,1,1,1,Yes,1.0,Good
+2257,10628,2024-02-25,Dissatisfied,3,5,1,No,6.0,
+2258,10105,2024-02-04,Very Dissatisfied,5,2,4,Yes,10.0,Could be better
+2259,11241,2024-03-09,Satisfied,5,4,2,No,8.0,
+2260,11685,2024-02-05,Very Satisfied,5,5,5,No,8.0,Could be better
+2261,11011,2024-05-25,Very Satisfied,5,1,2,Yes,3.0,Great!
+2262,11338,2024-05-23,Satisfied,2,4,5,Yes,4.0,
+2263,11808,2024-06-20,Dissatisfied,1,2,4,Yes,4.0,Good
+2264,11259,2024-03-11,Neutral,3,3,3,Yes,5.0,
+2265,10985,2024-03-26,Very Satisfied,2,2,2,No,5.0,Average
+2266,10326,2024-01-31,Very Dissatisfied,2,1,4,Yes,10.0,Could be better
+2267,10864,2024-06-02,Satisfied,4,4,4,Yes,10.0,
+2268,10936,2024-05-12,Very Satisfied,1,3,2,No,6.0,Good
+2269,11790,2024-02-08,Dissatisfied,4,2,1,Yes,9.0,Average
+2270,10454,2024-02-02,Very Satisfied,1,1,3,No,9.0,
+2271,10212,2024-03-21,Very Dissatisfied,4,3,2,No,2.0,
+2272,11755,2024-05-12,Very Dissatisfied,5,1,3,No,6.0,Could be better
+2273,11184,2024-05-23,Very Dissatisfied,3,4,4,Yes,0.0,Average
+2274,10747,2024-03-31,Very Satisfied,3,1,4,No,5.0,Great!
+2275,11406,2024-03-06,Very Satisfied,3,1,5,Yes,6.0,
+2276,10591,2024-01-23,Very Satisfied,2,4,4,Yes,0.0,Good
+2277,11071,2024-01-04,Dissatisfied,1,5,3,No,9.0,Great!
+2278,11000,2024-03-08,Satisfied,3,3,5,Yes,8.0,
+2279,11721,2024-04-19,Satisfied,5,2,2,No,0.0,Average
+2280,11267,2024-05-13,Satisfied,1,1,5,Yes,3.0,Average
+2281,10262,2024-06-14,Dissatisfied,1,4,4,Yes,3.0,Could be better
+2282,10794,2024-05-11,Very Satisfied,4,2,4,Yes,7.0,Could be better
+2283,11202,2024-05-12,Very Dissatisfied,4,1,3,No,5.0,Average
+2284,10679,2024-04-03,Very Satisfied,3,3,5,Yes,4.0,Great!
+2285,11681,2024-05-08,Dissatisfied,5,2,1,Yes,9.0,
+2286,11535,2024-05-26,Very Satisfied,5,5,3,No,6.0,Great!
+2287,11234,2024-02-20,Dissatisfied,2,2,1,No,2.0,Great!
+2288,10257,2024-02-12,Neutral,3,1,3,Yes,8.0,
+2289,10944,2024-03-06,Very Satisfied,3,2,2,Yes,10.0,Great!
+2290,10762,2024-05-19,Neutral,2,1,4,No,4.0,Average
+2291,11414,2024-04-26,Satisfied,1,3,4,Yes,7.0,Great!
+2292,10102,2024-06-15,Neutral,4,1,2,Yes,8.0,Great!
+2293,11160,2024-03-22,Very Dissatisfied,1,4,2,No,10.0,Average
+2294,10695,2024-06-07,Very Dissatisfied,4,3,1,No,9.0,Great!
+2295,10976,2024-03-25,Very Satisfied,5,2,1,No,4.0,Good
+2296,10752,2024-01-25,Satisfied,1,4,2,No,7.0,Could be better
+2297,10487,2024-02-11,Very Dissatisfied,5,1,3,Yes,7.0,Good
+2298,11711,2024-03-08,Dissatisfied,4,3,1,No,1.0,Could be better
+2299,10060,2024-04-18,Satisfied,4,5,3,No,7.0,
+2300,10191,2024-04-09,Very Dissatisfied,4,3,2,Yes,2.0,Could be better
+2301,11387,2024-03-21,Satisfied,2,2,3,Yes,0.0,Average
+2302,10249,2024-05-28,Very Dissatisfied,4,4,5,No,9.0,Could be better
+2303,10708,2024-02-19,Satisfied,4,5,2,No,1.0,Could be better
+2304,11353,2024-05-28,Very Satisfied,5,4,1,No,6.0,Good
+2305,11520,2024-04-06,Very Dissatisfied,5,2,4,No,9.0,Great!
+2306,10071,2024-03-17,Neutral,4,5,1,No,7.0,
+2307,11106,2024-04-17,Satisfied,3,5,2,No,6.0,
+2308,11799,2024-06-21,Very Satisfied,4,5,1,Yes,9.0,Good
+2309,10524,2024-06-01,Very Satisfied,1,2,2,No,4.0,
+2310,10081,2024-02-09,Dissatisfied,2,1,5,No,8.0,
+2311,10138,2024-02-04,Dissatisfied,4,2,4,Yes,7.0,Could be better
+2312,11721,2024-05-06,Dissatisfied,1,2,4,Yes,6.0,Average
+2313,10747,2024-01-27,Very Dissatisfied,3,5,2,No,,Could be better
+2314,10892,2024-06-15,Very Satisfied,5,3,4,Yes,10.0,Could be better
+2315,11010,2024-06-22,Very Satisfied,2,5,1,No,2.0,Could be better
+2316,11623,2024-02-14,Very Dissatisfied,5,3,5,Yes,0.0,Average
+2317,10501,2024-02-25,Satisfied,5,2,4,Yes,6.0,Great!
+2318,10242,2024-02-18,Satisfied,3,5,4,No,8.0,Good
+2319,10872,2024-06-26,Very Dissatisfied,3,4,3,No,3.0,Good
+2320,11715,2024-01-08,Dissatisfied,5,4,3,Yes,4.0,Average
+2321,10184,2024-06-22,Dissatisfied,4,4,4,Yes,3.0,
+2322,10821,2024-05-13,Satisfied,1,1,1,Yes,10.0,Good
+2323,10956,2024-04-06,Very Dissatisfied,4,1,3,Yes,10.0,Average
+2324,11549,2024-02-12,Dissatisfied,2,3,2,Yes,9.0,Great!
+2325,11638,2024-05-04,Very Dissatisfied,3,2,1,No,8.0,Average
+2326,11972,2024-04-08,Very Satisfied,4,4,5,No,,Good
+2327,11179,2024-01-10,Very Satisfied,5,2,2,Yes,10.0,
+2328,10249,2024-01-10,Very Satisfied,2,4,1,No,7.0,
+2329,11850,2024-01-22,Satisfied,1,3,2,No,1.0,Great!
+2330,11280,2024-04-12,Dissatisfied,4,4,5,Yes,3.0,Good
+2331,11010,2024-01-17,Dissatisfied,4,3,2,No,7.0,
+2332,10717,2024-02-16,Very Dissatisfied,4,2,5,No,3.0,
+2333,11494,2024-05-02,Satisfied,3,5,5,No,6.0,Good
+2334,10012,2024-02-22,Satisfied,4,2,4,No,2.0,Average
+2335,10534,2024-02-22,Dissatisfied,5,3,4,Yes,7.0,
+2336,11609,2024-06-07,Dissatisfied,2,2,4,No,4.0,Could be better
+2337,10941,2024-05-10,Very Dissatisfied,1,1,3,Yes,10.0,Good
+2338,11883,2024-05-27,Very Satisfied,4,2,1,No,1.0,Could be better
+2339,11248,2024-01-27,Dissatisfied,5,2,2,Yes,9.0,Great!
+2340,10967,2024-03-14,Satisfied,4,5,2,Yes,7.0,Good
+2341,10810,2024-05-23,Dissatisfied,3,2,3,Yes,2.0,Average
+2342,11241,2024-03-31,Very Dissatisfied,2,5,1,No,6.0,Could be better
+2343,10466,2024-01-12,Satisfied,1,3,5,No,2.0,Great!
+2344,11413,2024-03-07,Neutral,3,4,4,No,6.0,Average
+2345,11186,2024-06-19,Very Satisfied,2,1,2,No,10.0,
+2346,11192,2024-01-27,Very Dissatisfied,5,2,3,Yes,5.0,
+2347,11614,2024-01-16,Dissatisfied,5,5,3,Yes,9.0,Average
+2348,11350,2024-04-03,Very Satisfied,3,5,2,No,9.0,Good
+2349,11007,2024-03-14,Satisfied,4,3,5,Yes,2.0,
+2350,10469,2024-02-19,Satisfied,1,5,2,No,1.0,Could be better
+2351,11012,2024-03-06,Satisfied,5,2,2,No,3.0,
+2352,11136,2024-01-29,Very Dissatisfied,3,5,3,No,7.0,
+2353,10661,2024-06-20,Dissatisfied,5,3,4,Yes,9.0,Could be better
+2354,10061,2024-04-29,Very Satisfied,4,5,3,No,3.0,Average
+2355,10978,2024-05-28,Neutral,1,2,5,Yes,8.0,
+2356,10042,2024-02-28,Satisfied,3,4,2,No,8.0,
+2357,10241,2024-03-11,Neutral,2,3,2,No,0.0,
+2358,11979,2024-02-28,Very Satisfied,1,3,4,No,10.0,
+2359,10834,2024-04-27,Dissatisfied,5,1,3,No,1.0,
+2360,10735,2024-04-15,Very Dissatisfied,3,5,3,Yes,6.0,Average
+2361,11412,2024-03-27,Very Satisfied,2,2,1,No,8.0,
+2362,10551,2024-04-04,Neutral,1,1,4,No,8.0,
+2363,10305,2024-02-03,Very Dissatisfied,3,4,1,No,7.0,Could be better
+2364,10062,2024-06-21,Very Dissatisfied,4,2,3,No,5.0,
+2365,10295,2024-05-23,Dissatisfied,5,3,4,Yes,8.0,Great!
+2366,11743,2024-03-06,Neutral,1,2,1,Yes,0.0,Average
+2367,10917,2024-02-29,Neutral,2,2,1,No,0.0,Great!
+2368,10512,2024-02-19,Very Dissatisfied,5,3,2,Yes,6.0,Good
+2369,11123,2024-03-31,Satisfied,5,5,1,No,5.0,Average
+2370,10272,2024-06-23,Satisfied,3,2,5,Yes,4.0,
+2371,11031,2024-02-19,Very Satisfied,2,2,5,No,1.0,
+2372,10439,2024-01-07,Very Satisfied,5,4,2,Yes,3.0,Average
+2373,11940,2024-02-23,Satisfied,1,2,3,No,4.0,Could be better
+2374,10852,2024-04-05,Dissatisfied,2,5,3,Yes,3.0,Good
+2375,11657,2024-03-09,Dissatisfied,1,4,1,No,5.0,
+2376,10442,2024-03-09,Satisfied,5,3,5,Yes,8.0,Great!
+2377,10156,2024-03-27,Neutral,1,2,5,No,2.0,
+2378,10863,2024-05-20,Neutral,5,1,3,No,3.0,
+2379,11143,2024-01-24,Satisfied,4,4,2,Yes,10.0,Could be better
+2380,11794,2024-02-26,Satisfied,3,1,3,Yes,0.0,Great!
+2381,11293,2024-01-11,Dissatisfied,5,4,3,Yes,8.0,Good
+2382,10428,2024-06-07,Dissatisfied,1,2,5,No,1.0,Average
+2383,10560,2024-05-26,Very Dissatisfied,3,1,4,Yes,7.0,Could be better
+2384,11941,2024-06-11,Satisfied,2,1,2,No,4.0,Average
+2385,11532,2024-02-15,Neutral,4,5,4,No,7.0,Great!
+2386,11746,2024-05-18,Dissatisfied,3,3,4,No,8.0,
+2387,10904,2024-03-18,Very Dissatisfied,4,3,4,No,5.0,Could be better
+2388,10098,2024-01-04,Satisfied,2,5,2,No,8.0,Great!
+2389,11061,2024-01-11,Satisfied,5,2,4,Yes,8.0,Great!
+2390,10135,2024-03-26,Very Dissatisfied,4,5,4,Yes,7.0,
+2391,11201,2024-01-21,Satisfied,3,2,4,Yes,4.0,Great!
+2392,11435,2024-05-29,Dissatisfied,4,4,3,Yes,0.0,
+2393,10790,2024-05-06,Satisfied,2,4,2,No,5.0,Great!
+2394,11052,2024-06-26,Very Satisfied,2,2,5,Yes,2.0,Great!
+2395,10975,2024-04-24,Satisfied,4,5,5,No,0.0,Great!
+2396,11556,2024-01-09,Dissatisfied,1,1,5,No,10.0,Average
+2397,10824,2024-02-01,Dissatisfied,3,4,3,Yes,5.0,
+2398,10468,2024-01-16,Very Dissatisfied,4,4,3,Yes,,
+2399,10345,2024-06-26,Very Satisfied,5,5,3,Yes,10.0,Good
+2400,10324,2024-01-02,Neutral,2,2,3,No,7.0,Could be better
+2401,10030,2024-03-05,Satisfied,1,2,2,Yes,5.0,
+2402,10425,2024-05-31,Very Satisfied,4,1,1,Yes,6.0,Great!
+2403,11763,2024-04-07,Satisfied,2,3,3,Yes,10.0,
+2404,11300,2024-01-21,Dissatisfied,4,4,1,Yes,3.0,
+2405,11080,2024-04-14,Neutral,1,5,1,Yes,,Good
+2406,11681,2024-04-26,Neutral,2,4,1,Yes,7.0,Average
+2407,10845,2024-04-02,Satisfied,1,2,5,No,10.0,Average
+2408,11384,2024-04-06,Very Dissatisfied,3,3,1,No,10.0,Could be better
+2409,11573,2024-05-26,Dissatisfied,2,3,1,Yes,9.0,Good
+2410,10216,2024-03-16,Very Satisfied,3,1,5,Yes,6.0,Good
+2411,11098,2024-02-28,Very Dissatisfied,1,3,2,No,1.0,Good
+2412,10783,2024-05-14,Neutral,5,2,5,Yes,6.0,Great!
+2413,11586,2024-03-28,Neutral,1,5,1,Yes,4.0,
+2414,11429,2024-02-24,Very Dissatisfied,4,5,2,No,7.0,
+2415,11053,2024-01-23,Neutral,1,2,2,Yes,1.0,Could be better
+2416,10423,2024-05-19,Neutral,3,3,2,No,1.0,Good
+2417,11874,2024-01-12,Neutral,4,5,4,No,10.0,Average
+2418,10196,2024-03-18,Very Satisfied,4,3,1,Yes,10.0,
+2419,11661,2024-02-05,Very Satisfied,1,2,3,No,5.0,Average
+2420,11585,2024-03-21,Neutral,4,3,2,No,3.0,Great!
+2421,11789,2024-01-04,Very Satisfied,1,1,3,Yes,9.0,Great!
+2422,10906,2024-06-26,Neutral,5,5,1,Yes,6.0,Great!
+2423,11336,2024-06-18,Satisfied,4,2,2,No,5.0,Average
+2424,10390,2024-05-09,Neutral,5,4,2,Yes,0.0,Average
+2425,11758,2024-02-05,Satisfied,4,2,2,No,7.0,Could be better
+2426,11049,2024-06-28,Very Dissatisfied,1,3,1,Yes,8.0,Good
+2427,11623,2024-03-14,Dissatisfied,2,2,5,Yes,9.0,Could be better
+2428,10906,2024-06-06,Very Dissatisfied,3,1,2,No,0.0,Good
+2429,10789,2024-01-29,Very Dissatisfied,4,2,3,No,6.0,Average
+2430,11388,2024-06-14,Dissatisfied,3,3,3,Yes,0.0,Could be better
+2431,11128,2024-04-21,Dissatisfied,3,5,1,No,7.0,
+2432,10534,2024-02-01,Neutral,3,1,3,Yes,2.0,
+2433,11010,2024-01-04,Satisfied,4,2,5,Yes,1.0,
+2434,10058,2024-03-27,Neutral,2,5,3,Yes,1.0,Good
+2435,10356,2024-02-05,Very Satisfied,4,5,5,Yes,7.0,
+2436,11672,2024-05-11,Dissatisfied,5,3,5,Yes,4.0,Average
+2437,10285,2024-01-01,Satisfied,1,4,1,Yes,9.0,
+2438,10802,2024-01-19,Dissatisfied,1,5,2,No,3.0,Could be better
+2439,11461,2024-01-14,Very Satisfied,3,4,5,Yes,,Average
+2440,11441,2024-03-28,Neutral,5,2,1,No,4.0,Great!
+2441,10580,2024-06-12,Neutral,3,3,2,No,10.0,Average
+2442,11712,2024-03-07,Very Satisfied,1,2,2,Yes,8.0,
+2443,11656,2024-01-19,Very Satisfied,3,4,4,Yes,7.0,
+2444,10069,2024-03-29,Neutral,2,2,1,Yes,8.0,Average
+2445,10080,2024-01-14,Very Satisfied,1,1,4,No,5.0,
+2446,10371,2024-05-06,Very Satisfied,2,3,3,No,4.0,
+2447,11791,2024-02-23,Satisfied,4,1,5,Yes,4.0,Good
+2448,11509,2024-02-10,Neutral,4,4,5,No,3.0,Average
+2449,11953,2024-03-01,Satisfied,4,1,5,No,2.0,
+2450,10684,2024-01-09,Very Satisfied,1,4,1,Yes,8.0,
+2451,11023,2024-05-15,Neutral,1,2,3,Yes,10.0,
+2452,10887,2024-01-13,Neutral,5,4,1,Yes,3.0,Average
+2453,11827,2024-05-04,Dissatisfied,3,5,5,Yes,2.0,
+2454,11360,2024-05-02,Neutral,3,5,4,No,7.0,Could be better
+2455,10509,2024-02-22,Satisfied,3,1,3,No,9.0,Could be better
+2456,10986,2024-01-04,Very Dissatisfied,5,5,5,Yes,8.0,Great!
+2457,11463,2024-04-06,Satisfied,1,4,5,No,0.0,
+2458,10877,2024-01-14,Dissatisfied,2,4,4,No,0.0,Great!
+2459,11033,2024-03-03,Very Dissatisfied,1,5,1,No,2.0,Could be better
+2460,10664,2024-03-22,Very Satisfied,2,1,5,No,7.0,Great!
+2461,10631,2024-01-20,Very Dissatisfied,3,3,4,Yes,0.0,Could be better
+2462,10910,2024-02-16,Neutral,3,3,4,Yes,10.0,Great!
+2463,10811,2024-03-27,Very Dissatisfied,5,5,2,Yes,1.0,Great!
+2464,10244,2024-01-09,Satisfied,2,5,1,Yes,5.0,Great!
+2465,10794,2024-05-19,Dissatisfied,2,5,5,No,6.0,Could be better
+2466,11473,2024-05-02,Satisfied,3,5,4,Yes,10.0,Could be better
+2467,10566,2024-04-25,Very Dissatisfied,3,2,1,Yes,8.0,Great!
+2468,11555,2024-04-26,Neutral,3,3,4,Yes,5.0,Good
+2469,10281,2024-03-24,Dissatisfied,3,3,3,No,3.0,Average
+2470,11536,2024-03-13,Very Satisfied,5,2,4,No,4.0,Good
+2471,10845,2024-04-04,Very Satisfied,4,3,5,No,8.0,Could be better
+2472,10724,2024-05-20,Very Dissatisfied,4,4,3,Yes,1.0,Could be better
+2473,10470,2024-05-13,Dissatisfied,5,4,1,Yes,8.0,Average
+2474,11719,2024-06-16,Dissatisfied,4,4,2,Yes,5.0,Could be better
+2475,10595,2024-05-14,Dissatisfied,3,1,3,Yes,9.0,Could be better
+2476,10356,2024-04-05,Satisfied,5,4,1,Yes,4.0,Great!
+2477,11868,2024-06-27,Very Satisfied,1,1,1,Yes,2.0,Good
+2478,11046,2024-01-21,Neutral,3,5,4,Yes,9.0,
+2479,11149,2024-05-26,Very Satisfied,1,5,4,Yes,3.0,Average
+2480,10755,2024-06-15,Satisfied,3,5,5,Yes,5.0,Good
+2481,10858,2024-02-08,Neutral,4,5,5,No,6.0,Good
+2482,10859,2024-02-12,Dissatisfied,5,5,5,Yes,6.0,Great!
+2483,11025,2024-02-20,Neutral,4,4,5,Yes,8.0,
+2484,10294,2024-03-05,Neutral,4,2,1,No,7.0,Great!
+2485,11645,2024-05-31,Dissatisfied,1,5,2,No,8.0,Great!
+2486,10060,2024-03-17,Satisfied,3,2,4,Yes,3.0,Could be better
+2487,11519,2024-05-15,Neutral,2,2,5,No,6.0,Great!
+2488,10708,2024-01-11,Very Dissatisfied,5,2,5,Yes,4.0,Average
+2489,10742,2024-04-29,Very Dissatisfied,2,3,1,Yes,7.0,
+2490,11729,2024-04-26,Satisfied,2,2,4,No,6.0,Average
+2491,11558,2024-05-10,Dissatisfied,4,4,3,No,10.0,
+2492,10478,2024-05-20,Dissatisfied,4,4,2,No,8.0,Good
+2493,10022,2024-03-13,Very Satisfied,5,3,2,No,10.0,Average
+2494,10479,2024-02-26,Very Satisfied,3,3,1,No,6.0,
+2495,11063,2024-03-25,Very Satisfied,5,4,1,Yes,6.0,
+2496,10186,2024-04-06,Very Satisfied,3,5,1,Yes,3.0,Average
+2497,10937,2024-03-07,Dissatisfied,3,4,2,Yes,8.0,Could be better
+2498,11353,2024-03-17,Very Satisfied,1,5,5,No,0.0,
+2499,11512,2024-04-18,Dissatisfied,2,4,3,Yes,8.0,Good
+2500,11513,2024-01-20,Satisfied,1,2,3,No,1.0,Could be better
+2501,10351,2024-04-22,Dissatisfied,1,5,3,Yes,10.0,Good
+2502,11556,2024-06-13,Dissatisfied,1,1,3,No,6.0,
+2503,11909,2024-04-08,Satisfied,4,2,2,No,7.0,Could be better
+2504,10495,2024-02-19,Dissatisfied,2,4,3,No,6.0,
+2505,10124,2024-06-27,Very Dissatisfied,4,5,5,Yes,8.0,Average
+2506,11735,2024-05-25,Very Dissatisfied,3,1,1,Yes,9.0,
+2507,10874,2024-05-21,Very Satisfied,5,4,2,No,4.0,Could be better
+2508,10776,2024-06-15,Satisfied,5,1,2,No,8.0,Could be better
+2509,11892,2024-01-29,Very Satisfied,1,2,1,Yes,7.0,Could be better
+2510,10108,2024-06-08,Dissatisfied,3,5,3,No,8.0,
+2511,10947,2024-02-05,Satisfied,3,5,1,Yes,9.0,Great!
+2512,11627,2024-03-11,Neutral,5,2,5,No,2.0,Great!
+2513,10621,2024-06-29,Very Satisfied,3,5,3,No,6.0,Average
+2514,11619,2024-04-16,Neutral,4,5,5,No,6.0,Could be better
+2515,11077,2024-06-03,Very Dissatisfied,2,3,2,No,8.0,
+2516,11531,2024-02-11,Very Satisfied,2,5,2,No,0.0,Average
+2517,11051,2024-04-18,Very Dissatisfied,5,4,5,Yes,0.0,
+2518,10810,2024-06-25,Dissatisfied,4,1,5,Yes,6.0,
+2519,10351,2024-04-06,Satisfied,1,3,2,Yes,4.0,Good
+2520,10029,2024-02-07,Dissatisfied,4,1,3,Yes,2.0,
+2521,11137,2024-02-16,Very Dissatisfied,1,4,4,No,9.0,
+2522,11325,2024-03-16,Satisfied,2,4,5,No,4.0,Good
+2523,11652,2024-06-25,Neutral,1,4,4,Yes,0.0,
+2524,10715,2024-02-03,Satisfied,2,4,5,Yes,6.0,Average
+2525,11572,2024-04-20,Dissatisfied,2,4,4,Yes,7.0,Average
+2526,10078,2024-05-30,Dissatisfied,4,1,3,No,10.0,
+2527,10299,2024-04-28,Neutral,2,3,5,No,1.0,
+2528,10255,2024-02-23,Very Satisfied,5,2,3,Yes,10.0,Good
+2529,10366,2024-06-18,Satisfied,3,1,5,No,4.0,
+2530,10852,2024-05-12,Neutral,5,4,5,Yes,3.0,Average
+2531,10876,2024-01-17,Satisfied,2,3,5,Yes,5.0,Good
+2532,11361,2024-02-09,Neutral,3,5,1,No,4.0,
+2533,11824,2024-02-28,Dissatisfied,2,2,3,Yes,4.0,
+2534,10825,2024-05-30,Satisfied,3,2,2,No,6.0,Could be better
+2535,11310,2024-02-22,Very Satisfied,4,1,2,Yes,7.0,Average
+2536,11072,2024-01-24,Dissatisfied,5,4,1,No,8.0,Could be better
+2537,11006,2024-05-22,Satisfied,2,2,3,Yes,9.0,Great!
+2538,11052,2024-02-15,Very Dissatisfied,1,5,3,No,8.0,
+2539,10447,2024-02-28,Very Satisfied,4,3,3,No,0.0,Great!
+2540,10345,2024-02-26,Dissatisfied,2,1,1,No,,Good
+2541,11776,2024-06-23,Very Dissatisfied,2,1,2,Yes,2.0,Average
+2542,11120,2024-03-27,Neutral,4,5,1,No,1.0,
+2543,10078,2024-06-11,Very Dissatisfied,4,5,5,No,9.0,
+2544,11595,2024-01-31,Satisfied,1,2,2,Yes,9.0,
+2545,11064,2024-01-08,Neutral,4,2,3,Yes,6.0,Great!
+2546,10640,2024-06-15,Dissatisfied,5,3,5,Yes,3.0,Good
+2547,10537,2024-02-25,Dissatisfied,5,3,1,Yes,4.0,Average
+2548,10487,2024-06-22,Satisfied,5,5,4,Yes,2.0,Good
+2549,11363,2024-01-27,Very Satisfied,1,4,4,No,5.0,Good
+2550,10394,2024-02-20,Neutral,3,5,5,No,4.0,Great!
+2551,11787,2024-03-05,Neutral,4,2,5,Yes,7.0,Great!
+2552,10273,2024-02-03,Satisfied,1,3,2,Yes,0.0,Could be better
+2553,10219,2024-04-12,Very Dissatisfied,5,1,1,No,5.0,Could be better
+2554,10598,2024-06-14,Dissatisfied,4,3,3,No,8.0,Great!
+2555,10881,2024-02-16,Very Satisfied,2,1,1,No,1.0,
+2556,10711,2024-05-15,Neutral,5,4,4,No,6.0,
+2557,11372,2024-01-29,Satisfied,3,1,2,Yes,7.0,
+2558,10947,2024-01-02,Very Dissatisfied,1,3,4,Yes,3.0,
+2559,11993,2024-01-14,Dissatisfied,2,1,5,Yes,4.0,
+2560,11778,2024-03-13,Satisfied,5,4,1,No,3.0,
+2561,10301,2024-01-29,Very Satisfied,1,1,4,Yes,7.0,Could be better
+2562,11931,2024-06-11,Neutral,3,1,4,Yes,6.0,Good
+2563,11143,2024-03-13,Neutral,2,3,1,Yes,2.0,
+2564,10494,2024-01-21,Dissatisfied,3,2,2,No,2.0,Average
+2565,10365,2024-04-06,Very Satisfied,4,3,5,No,2.0,Good
+2566,11949,2024-04-12,Very Dissatisfied,2,1,5,No,7.0,Great!
+2567,11214,2024-01-25,Very Satisfied,3,3,4,Yes,9.0,Good
+2568,10094,2024-01-10,Neutral,2,2,4,No,3.0,Average
+2569,10959,2024-03-25,Very Dissatisfied,2,5,3,Yes,0.0,Great!
+2570,11560,2024-05-05,Dissatisfied,4,4,5,No,1.0,Could be better
+2571,11380,2024-05-28,Satisfied,1,4,1,Yes,3.0,Great!
+2572,10623,2024-01-18,Very Dissatisfied,2,1,3,Yes,7.0,
+2573,11599,2024-04-30,Very Dissatisfied,5,5,1,No,1.0,
+2574,10918,2024-01-15,Very Dissatisfied,4,2,2,No,5.0,
+2575,11273,2024-05-10,Very Dissatisfied,2,2,1,Yes,6.0,
+2576,11148,2024-06-12,Very Dissatisfied,2,4,1,Yes,9.0,
+2577,11722,2024-03-27,Very Satisfied,1,3,3,Yes,6.0,Could be better
+2578,10645,2024-04-26,Satisfied,3,5,5,No,4.0,
+2579,11350,2024-02-03,Neutral,1,2,4,No,7.0,Great!
+2580,11232,2024-02-29,Very Satisfied,3,3,4,Yes,1.0,Good
+2581,10756,2024-01-14,Satisfied,4,1,4,No,9.0,Could be better
+2582,11019,2024-01-31,Dissatisfied,3,5,5,No,6.0,
+2583,11868,2024-03-30,Satisfied,3,2,5,Yes,10.0,Great!
+2584,10963,2024-04-19,Satisfied,1,4,2,No,0.0,
+2585,10268,2024-03-27,Neutral,2,2,2,No,0.0,Average
+2586,10348,2024-05-07,Satisfied,1,3,2,Yes,6.0,Could be better
+2587,10940,2024-03-10,Neutral,4,5,3,No,8.0,
+2588,10965,2024-05-10,Satisfied,4,4,2,No,1.0,Good
+2589,11076,2024-03-20,Very Dissatisfied,1,1,5,No,7.0,
+2590,10898,2024-04-22,Dissatisfied,2,2,1,No,5.0,Average
+2591,10939,2024-06-09,Dissatisfied,2,3,1,No,4.0,
+2592,10118,2024-03-15,Neutral,3,4,3,Yes,,Could be better
+2593,10646,2024-04-24,Very Dissatisfied,1,2,5,Yes,1.0,Could be better
+2594,11515,2024-06-07,Very Satisfied,5,2,3,No,9.0,Average
+2595,10846,2024-02-20,Dissatisfied,1,1,5,No,2.0,
+2596,11159,2024-01-08,Satisfied,1,5,2,No,5.0,Average
+2597,10027,2024-03-20,Very Dissatisfied,5,5,3,No,0.0,Great!
+2598,11733,2024-06-12,Dissatisfied,3,3,2,No,4.0,Could be better
+2599,11968,2024-06-26,Dissatisfied,1,2,2,Yes,6.0,Average
+2600,11332,2024-02-04,Dissatisfied,2,2,2,No,8.0,
+2601,10004,2024-02-04,Neutral,2,1,4,No,6.0,Average
+2602,11360,2024-02-23,Very Satisfied,4,5,3,No,5.0,
+2603,10380,2024-01-24,Neutral,2,2,2,No,7.0,Could be better
+2604,11749,2024-02-18,Dissatisfied,5,1,2,No,7.0,Could be better
+2605,10493,2024-04-01,Very Satisfied,5,3,2,No,1.0,
+2606,11685,2024-01-18,Very Satisfied,3,5,2,Yes,8.0,Could be better
+2607,11310,2024-03-04,Dissatisfied,4,5,5,No,6.0,Great!
+2608,10478,2024-02-09,Satisfied,4,1,1,No,4.0,Average
+2609,11828,2024-03-07,Dissatisfied,1,2,4,Yes,9.0,Great!
+2610,10634,2024-01-10,Very Dissatisfied,5,4,5,Yes,8.0,
+2611,10482,2024-04-27,Very Dissatisfied,3,4,4,No,10.0,Great!
+2612,11034,2024-01-17,Very Dissatisfied,5,2,3,No,1.0,
+2613,11573,2024-06-07,Neutral,1,1,3,Yes,3.0,Great!
+2614,11564,2024-02-04,Very Satisfied,1,3,1,Yes,3.0,Great!
+2615,11794,2024-04-30,Satisfied,4,2,2,Yes,4.0,Great!
+2616,11148,2024-02-15,Very Dissatisfied,1,4,2,Yes,,Could be better
+2617,10229,2024-05-19,Dissatisfied,3,5,5,Yes,2.0,Average
+2618,10305,2024-01-19,Dissatisfied,2,1,5,No,10.0,Could be better
+2619,11571,2024-01-12,Very Satisfied,1,2,5,No,1.0,Great!
+2620,10717,2024-02-19,Dissatisfied,2,5,1,Yes,5.0,
+2621,11448,2024-02-16,Neutral,2,2,5,No,4.0,
+2622,11421,2024-03-29,Very Dissatisfied,3,5,1,Yes,9.0,Great!
+2623,10615,2024-01-01,Very Dissatisfied,5,1,5,Yes,10.0,
+2624,10422,2024-02-03,Satisfied,4,2,5,No,7.0,Great!
+2625,11925,2024-06-25,Dissatisfied,2,1,5,Yes,7.0,Good
+2626,11892,2024-04-24,Very Dissatisfied,5,3,3,No,2.0,Average
+2627,10277,2024-06-07,Satisfied,5,4,1,Yes,5.0,Great!
+2628,11080,2024-04-17,Satisfied,3,4,4,Yes,4.0,Could be better
+2629,10351,2024-03-07,Very Satisfied,5,1,2,No,10.0,Could be better
+2630,10061,2024-05-19,Very Satisfied,1,1,5,No,10.0,
+2631,10187,2024-05-29,Very Satisfied,2,5,2,Yes,9.0,Could be better
+2632,10968,2024-03-15,Very Satisfied,3,5,2,No,6.0,
+2633,11986,2024-03-09,Neutral,4,2,5,Yes,1.0,Good
+2634,10794,2024-05-11,Dissatisfied,3,2,5,No,0.0,Average
+2635,11358,2024-01-06,Dissatisfied,4,2,2,No,4.0,
+2636,11313,2024-05-23,Dissatisfied,4,2,1,No,0.0,Could be better
+2637,11298,2024-04-16,Very Dissatisfied,3,4,1,Yes,9.0,Great!
+2638,11683,2024-02-26,Neutral,4,2,2,Yes,6.0,Good
+2639,10958,2024-01-21,Neutral,1,1,3,Yes,10.0,Average
+2640,10231,2024-06-21,Neutral,3,3,2,Yes,8.0,Could be better
+2641,10544,2024-02-03,Satisfied,1,1,2,Yes,3.0,Good
+2642,10390,2024-03-05,Very Dissatisfied,5,2,3,No,3.0,Good
+2643,11524,2024-04-18,Very Dissatisfied,2,2,1,No,8.0,Good
+2644,10161,2024-01-27,Very Dissatisfied,1,1,1,Yes,10.0,Average
+2645,11301,2024-04-11,Very Satisfied,3,1,5,Yes,7.0,Good
+2646,11815,2024-04-19,Very Dissatisfied,5,3,4,Yes,9.0,
+2647,11696,2024-05-28,Very Dissatisfied,3,3,2,No,3.0,
+2648,10771,2024-06-15,Dissatisfied,3,3,2,No,1.0,Good
+2649,10911,2024-06-26,Satisfied,5,3,3,No,9.0,Could be better
+2650,10611,2024-06-27,Dissatisfied,5,4,4,Yes,3.0,Average
+2651,10027,2024-03-11,Dissatisfied,2,5,4,No,9.0,Great!
+2652,11903,2024-04-23,Very Dissatisfied,2,5,4,No,9.0,Good
+2653,11048,2024-05-13,Dissatisfied,2,4,2,No,4.0,Average
+2654,10718,2024-01-19,Dissatisfied,1,2,4,Yes,4.0,Average
+2655,10681,2024-01-14,Neutral,5,3,5,Yes,2.0,
+2656,10719,2024-03-28,Very Satisfied,3,5,5,No,10.0,Average
+2657,10393,2024-01-11,Dissatisfied,1,3,2,Yes,8.0,Good
+2658,11540,2024-03-07,Dissatisfied,1,4,1,No,6.0,Good
+2659,11221,2024-02-20,Satisfied,1,2,1,No,2.0,
+2660,11714,2024-03-31,Satisfied,1,3,4,Yes,1.0,Could be better
+2661,10227,2024-01-04,Neutral,5,1,2,No,10.0,Average
+2662,11414,2024-05-07,Very Dissatisfied,4,5,5,No,0.0,Could be better
+2663,11437,2024-05-17,Very Satisfied,2,4,5,No,9.0,Could be better
+2664,10355,2024-03-12,Dissatisfied,3,1,5,Yes,1.0,Great!
+2665,10524,2024-02-25,Very Satisfied,1,1,5,Yes,6.0,Average
+2666,11493,2024-03-09,Very Dissatisfied,3,2,4,Yes,3.0,Average
+2667,10619,2024-01-05,Very Dissatisfied,2,5,4,Yes,5.0,Good
+2668,11837,2024-01-30,Dissatisfied,3,3,5,No,7.0,Average
+2669,10765,2024-02-02,Neutral,3,3,2,Yes,9.0,Good
+2670,11412,2024-01-27,Very Dissatisfied,3,3,1,Yes,7.0,Great!
+2671,11444,2024-06-20,Very Satisfied,2,1,2,Yes,4.0,
+2672,11439,2024-04-06,Dissatisfied,1,5,2,No,5.0,Good
+2673,10278,2024-01-13,Satisfied,5,1,1,Yes,9.0,Could be better
+2674,10707,2024-04-15,Very Satisfied,5,4,2,Yes,0.0,Good
+2675,10289,2024-06-14,Satisfied,1,5,5,Yes,7.0,
+2676,11050,2024-03-15,Very Satisfied,3,1,1,Yes,6.0,Average
+2677,11490,2024-05-29,Dissatisfied,3,4,3,Yes,4.0,Could be better
+2678,11590,2024-04-16,Neutral,2,2,3,No,9.0,Great!
+2679,10379,2024-01-17,Neutral,3,5,2,Yes,5.0,
+2680,11358,2024-03-12,Satisfied,4,5,5,No,6.0,Average
+2681,11404,2024-05-06,Very Dissatisfied,5,1,2,No,1.0,Great!
+2682,11453,2024-04-26,Very Satisfied,2,2,3,Yes,5.0,Average
+2683,11593,2024-04-19,Very Satisfied,4,1,3,No,0.0,Great!
+2684,10910,2024-04-08,Very Satisfied,2,4,5,No,0.0,Good
+2685,10168,2024-05-20,Very Satisfied,1,1,1,Yes,4.0,
+2686,11613,2024-05-06,Very Satisfied,4,3,4,No,0.0,Good
+2687,11195,2024-04-19,Neutral,2,5,5,Yes,1.0,
+2688,10633,2024-05-01,Very Satisfied,3,4,2,No,2.0,Average
+2689,10963,2024-04-20,Very Satisfied,2,4,1,Yes,6.0,
+2690,11610,2024-03-19,Very Dissatisfied,2,3,2,Yes,,Average
+2691,11471,2024-05-03,Dissatisfied,3,5,3,No,3.0,
+2692,11561,2024-02-04,Dissatisfied,4,3,2,No,7.0,Good
+2693,10551,2024-03-30,Satisfied,5,2,1,No,2.0,Could be better
+2694,11891,2024-03-27,Dissatisfied,3,3,3,Yes,5.0,Good
+2695,10213,2024-02-22,Neutral,4,3,4,Yes,3.0,
+2696,10056,2024-01-08,Satisfied,4,4,1,Yes,9.0,Good
+2697,10502,2024-01-17,Very Satisfied,4,3,3,No,5.0,
+2698,11698,2024-03-26,Very Satisfied,3,3,1,Yes,8.0,Could be better
+2699,10003,2024-04-15,Neutral,3,3,1,Yes,4.0,Great!
+2700,11905,2024-05-03,Dissatisfied,5,5,5,Yes,,Good
+2701,10348,2024-01-13,Very Satisfied,3,4,2,No,10.0,Could be better
+2702,10625,2024-04-13,Dissatisfied,1,2,3,Yes,6.0,
+2703,10194,2024-02-25,Very Satisfied,5,1,2,Yes,5.0,Great!
+2704,10525,2024-01-03,Neutral,3,4,2,Yes,2.0,Great!
+2705,10881,2024-02-11,Very Satisfied,4,1,3,Yes,,
+2706,10434,2024-02-11,Very Dissatisfied,4,3,5,Yes,10.0,Average
+2707,10508,2024-04-01,Neutral,5,4,2,No,1.0,Good
+2708,11632,2024-05-20,Satisfied,1,3,2,No,2.0,Average
+2709,10942,2024-05-03,Dissatisfied,2,1,5,No,3.0,Could be better
+2710,11186,2024-01-03,Very Dissatisfied,3,4,3,Yes,6.0,Could be better
+2711,10469,2024-04-18,Very Dissatisfied,2,1,2,No,5.0,Average
+2712,11266,2024-05-07,Dissatisfied,2,5,4,No,6.0,
+2713,10327,2024-02-13,Neutral,2,2,3,Yes,2.0,Good
+2714,10042,2024-04-16,Satisfied,3,5,3,Yes,2.0,
+2715,10091,2024-01-29,Very Satisfied,1,2,4,Yes,6.0,Good
+2716,11051,2024-06-06,Neutral,2,4,4,No,1.0,Could be better
+2717,11161,2024-05-09,Very Satisfied,4,4,1,No,4.0,Great!
+2718,11757,2024-06-04,Satisfied,2,4,4,No,10.0,Could be better
+2719,11584,2024-03-09,Neutral,3,4,2,Yes,8.0,Average
+2720,10692,2024-05-17,Neutral,3,3,1,No,1.0,Good
+2721,11284,2024-06-21,Very Dissatisfied,5,5,3,Yes,7.0,
+2722,11776,2024-06-13,Very Satisfied,4,5,3,Yes,9.0,Average
+2723,11011,2024-04-17,Satisfied,3,1,1,No,0.0,Average
+2724,11582,2024-05-03,Very Satisfied,2,2,5,No,9.0,Average
+2725,11772,2024-06-11,Very Dissatisfied,2,3,3,No,7.0,
+2726,11126,2024-02-01,Dissatisfied,3,5,5,Yes,10.0,Good
+2727,11764,2024-05-03,Very Satisfied,3,1,4,No,5.0,Could be better
+2728,11529,2024-05-30,Very Dissatisfied,4,4,3,No,5.0,Great!
+2729,11879,2024-05-08,Very Satisfied,5,5,1,Yes,7.0,Could be better
+2730,11458,2024-03-25,Neutral,3,1,4,No,10.0,Great!
+2731,11214,2024-04-21,Satisfied,5,5,5,No,10.0,Average
+2732,10555,2024-06-23,Neutral,1,4,2,Yes,3.0,Good
+2733,11889,2024-05-19,Dissatisfied,2,3,1,No,2.0,Could be better
+2734,11391,2024-05-07,Satisfied,5,2,2,No,4.0,Average
+2735,10493,2024-03-20,Very Satisfied,1,3,1,No,2.0,Good
+2736,10803,2024-06-22,Dissatisfied,4,3,4,Yes,5.0,
+2737,10444,2024-03-11,Very Satisfied,4,2,4,Yes,2.0,Could be better
+2738,11646,2024-01-09,Neutral,1,2,5,No,6.0,Good
+2739,11297,2024-05-12,Satisfied,5,2,4,No,5.0,Good
+2740,10070,2024-01-14,Very Satisfied,1,5,3,No,4.0,Good
+2741,10711,2024-02-16,Satisfied,4,5,3,Yes,,Could be better
+2742,10227,2024-03-18,Dissatisfied,2,1,2,No,2.0,Average
+2743,11452,2024-06-02,Very Dissatisfied,5,5,5,No,6.0,Good
+2744,11988,2024-06-17,Very Satisfied,3,1,4,No,2.0,
+2745,10588,2024-06-14,Neutral,1,3,1,Yes,0.0,
+2746,11061,2024-03-06,Dissatisfied,2,3,5,Yes,2.0,Great!
+2747,11175,2024-06-10,Very Satisfied,2,5,5,No,7.0,Average
+2748,10718,2024-06-01,Neutral,4,2,3,Yes,9.0,
+2749,10607,2024-01-20,Very Satisfied,2,3,3,No,3.0,Average
+2750,10569,2024-03-05,Very Dissatisfied,2,5,3,Yes,0.0,Good
+2751,10259,2024-03-03,Very Satisfied,2,2,3,No,10.0,Average
+2752,10172,2024-06-10,Dissatisfied,5,5,2,No,0.0,Could be better
+2753,11866,2024-01-02,Neutral,1,3,4,Yes,1.0,
+2754,10812,2024-05-24,Satisfied,5,4,5,No,2.0,Good
+2755,11844,2024-02-12,Satisfied,1,1,3,No,2.0,Good
+2756,11587,2024-06-01,Neutral,2,5,5,Yes,6.0,Good
+2757,10701,2024-03-19,Neutral,3,2,5,Yes,3.0,Average
+2758,11738,2024-03-27,Very Dissatisfied,4,4,1,No,3.0,Great!
+2759,11449,2024-03-12,Satisfied,4,3,3,Yes,9.0,Could be better
+2760,11378,2024-03-23,Very Satisfied,5,4,4,Yes,0.0,Average
+2761,10694,2024-01-07,Neutral,3,5,3,Yes,10.0,Average
+2762,11355,2024-02-03,Satisfied,1,5,4,No,6.0,Average
+2763,10783,2024-06-04,Very Satisfied,2,4,5,Yes,0.0,Great!
+2764,11146,2024-02-12,Very Satisfied,4,4,2,No,9.0,Average
+2765,10407,2024-06-18,Dissatisfied,5,3,2,Yes,10.0,
+2766,11950,2024-03-19,Dissatisfied,3,3,3,No,0.0,
+2767,11702,2024-04-30,Very Satisfied,4,1,1,Yes,7.0,
+2768,10728,2024-04-30,Neutral,2,4,5,Yes,8.0,Great!
+2769,11367,2024-03-03,Dissatisfied,3,4,5,No,9.0,
+2770,11537,2024-01-21,Satisfied,3,2,5,Yes,4.0,Great!
+2771,10742,2024-01-11,Very Satisfied,3,4,5,No,4.0,Great!
+2772,10783,2024-02-17,Dissatisfied,1,5,5,No,4.0,Could be better
+2773,10411,2024-03-02,Very Dissatisfied,1,4,1,Yes,10.0,Great!
+2774,11971,2024-05-15,Neutral,3,3,5,Yes,0.0,Average
+2775,11989,2024-06-25,Neutral,4,4,2,No,1.0,Good
+2776,11827,2024-05-27,Very Dissatisfied,5,4,5,Yes,3.0,Great!
+2777,11307,2024-03-11,Very Satisfied,5,5,1,No,5.0,Good
+2778,11200,2024-06-15,Very Dissatisfied,2,2,4,No,2.0,Great!
+2779,10695,2024-04-11,Neutral,3,1,3,Yes,9.0,Great!
+2780,11117,2024-03-04,Satisfied,1,3,3,No,8.0,Could be better
+2781,10708,2024-05-30,Very Dissatisfied,5,4,1,Yes,0.0,
+2782,10912,2024-04-10,Very Dissatisfied,1,2,2,No,4.0,
+2783,11067,2024-01-02,Dissatisfied,4,4,3,Yes,5.0,Could be better
+2784,11264,2024-06-26,Very Satisfied,5,2,5,No,5.0,Great!
+2785,10774,2024-01-20,Very Dissatisfied,4,1,1,No,2.0,Average
+2786,10992,2024-04-04,Neutral,1,4,4,Yes,1.0,Good
+2787,11079,2024-01-06,Neutral,1,4,2,No,3.0,Great!
+2788,11416,2024-05-30,Satisfied,5,1,5,No,0.0,
+2789,11809,2024-06-08,Satisfied,1,4,3,No,2.0,Good
+2790,10253,2024-01-20,Satisfied,3,2,4,Yes,2.0,
+2791,11472,2024-06-26,Neutral,1,5,2,No,9.0,
+2792,10784,2024-06-15,Very Satisfied,3,2,3,No,4.0,Could be better
+2793,11042,2024-01-04,Dissatisfied,5,3,5,No,4.0,
+2794,11823,2024-05-13,Very Dissatisfied,2,3,3,No,7.0,
+2795,10411,2024-03-29,Very Satisfied,5,4,1,No,8.0,
+2796,10331,2024-01-07,Very Dissatisfied,1,5,3,No,5.0,Great!
+2797,11816,2024-06-27,Very Satisfied,4,3,4,Yes,2.0,Good
+2798,11248,2024-06-16,Very Satisfied,3,5,4,No,9.0,
+2799,10938,2024-03-10,Dissatisfied,4,4,2,No,5.0,Great!
+2800,10032,2024-03-01,Very Satisfied,1,1,4,No,9.0,
+2801,11104,2024-03-31,Neutral,3,4,1,Yes,5.0,
+2802,11929,2024-02-23,Very Satisfied,5,4,3,Yes,2.0,
+2803,10252,2024-04-27,Dissatisfied,2,2,3,No,2.0,Great!
+2804,11632,2024-05-28,Satisfied,1,5,5,No,4.0,
+2805,10115,2024-04-25,Neutral,2,2,4,Yes,4.0,
+2806,11512,2024-02-01,Very Satisfied,2,1,4,No,3.0,
+2807,10532,2024-05-22,Dissatisfied,3,3,5,No,4.0,Average
+2808,11081,2024-04-02,Very Satisfied,1,5,2,No,0.0,Average
+2809,10862,2024-02-12,Dissatisfied,1,1,5,No,5.0,
+2810,10838,2024-01-16,Very Satisfied,5,2,4,No,3.0,
+2811,10553,2024-05-07,Satisfied,2,1,5,Yes,1.0,Great!
+2812,11693,2024-01-11,Neutral,5,4,5,No,9.0,
+2813,10142,2024-04-21,Very Dissatisfied,4,3,3,No,9.0,Good
+2814,11534,2024-03-10,Satisfied,3,5,5,No,1.0,Could be better
+2815,10529,2024-03-28,Very Dissatisfied,4,5,4,Yes,5.0,Great!
+2816,10685,2024-01-07,Dissatisfied,1,2,1,Yes,5.0,Could be better
+2817,10066,2024-02-12,Very Satisfied,4,1,3,No,5.0,Average
+2818,11862,2024-02-21,Dissatisfied,2,3,4,No,3.0,Good
+2819,10249,2024-04-18,Very Dissatisfied,3,5,1,No,7.0,Average
+2820,10288,2024-03-15,Very Satisfied,5,3,1,Yes,0.0,Great!
+2821,10233,2024-04-06,Dissatisfied,4,3,5,Yes,2.0,Great!
+2822,10807,2024-01-03,Satisfied,2,2,2,Yes,9.0,Good
+2823,11743,2024-03-28,Satisfied,2,1,4,No,2.0,Could be better
+2824,10536,2024-02-01,Neutral,1,4,4,No,4.0,Good
+2825,10717,2024-01-15,Satisfied,2,1,4,Yes,3.0,Average
+2826,10346,2024-04-20,Dissatisfied,3,4,4,No,5.0,Average
+2827,11676,2024-06-02,Very Satisfied,3,2,4,No,1.0,Average
+2828,10476,2024-01-08,Neutral,1,1,2,No,2.0,
+2829,10302,2024-01-04,Neutral,4,4,3,Yes,6.0,
+2830,10119,2024-02-25,Very Satisfied,3,3,1,Yes,0.0,
+2831,11709,2024-03-18,Very Satisfied,4,4,1,Yes,1.0,Great!
+2832,10130,2024-03-11,Very Satisfied,2,3,1,Yes,4.0,Great!
+2833,10442,2024-01-30,Dissatisfied,1,4,3,Yes,,
+2834,11453,2024-03-19,Very Satisfied,1,3,5,No,10.0,Great!
+2835,10344,2024-03-13,Neutral,3,4,2,Yes,9.0,Good
+2836,11053,2024-06-03,Satisfied,2,1,1,Yes,10.0,Great!
+2837,11128,2024-06-11,Dissatisfied,5,4,2,No,6.0,
+2838,11192,2024-01-30,Satisfied,5,2,2,No,9.0,
+2839,11474,2024-01-17,Very Satisfied,4,2,2,Yes,,Good
+2840,11495,2024-05-30,Neutral,2,3,5,Yes,2.0,Average
+2841,11300,2024-06-11,Satisfied,3,4,1,No,10.0,
+2842,11966,2024-04-06,Satisfied,3,4,4,Yes,,
+2843,11697,2024-02-29,Satisfied,1,1,3,Yes,8.0,
+2844,10316,2024-05-05,Satisfied,2,1,4,No,6.0,Great!
+2845,10708,2024-03-23,Dissatisfied,3,4,1,No,2.0,
+2846,10747,2024-06-12,Very Dissatisfied,4,4,3,Yes,2.0,Could be better
+2847,10164,2024-03-15,Neutral,3,1,5,Yes,8.0,Great!
+2848,10661,2024-02-19,Dissatisfied,5,1,4,No,7.0,Could be better
+2849,11294,2024-05-21,Satisfied,5,4,3,Yes,6.0,Could be better
+2850,10022,2024-04-07,Dissatisfied,2,5,5,No,9.0,Average
+2851,11641,2024-01-15,Very Satisfied,3,2,3,No,8.0,Good
+2852,10594,2024-05-29,Very Dissatisfied,1,3,1,Yes,4.0,Great!
+2853,10667,2024-02-28,Very Dissatisfied,2,5,1,No,0.0,Great!
+2854,11070,2024-04-28,Very Satisfied,2,2,3,No,4.0,Great!
+2855,11228,2024-02-08,Neutral,2,3,1,Yes,5.0,Average
+2856,11891,2024-03-06,Satisfied,5,2,4,Yes,,Great!
+2857,11252,2024-04-12,Very Dissatisfied,3,2,1,No,4.0,Could be better
+2858,10334,2024-06-12,Very Dissatisfied,3,3,5,Yes,6.0,
+2859,10325,2024-03-01,Very Dissatisfied,5,4,5,Yes,3.0,Average
+2860,11159,2024-01-12,Very Satisfied,1,2,2,No,1.0,Great!
+2861,11058,2024-01-13,Very Dissatisfied,1,1,1,Yes,,
+2862,10026,2024-05-15,Dissatisfied,3,3,4,Yes,1.0,Could be better
+2863,11585,2024-02-02,Very Dissatisfied,2,5,2,Yes,10.0,Average
+2864,10468,2024-03-02,Neutral,3,5,3,Yes,10.0,Good
+2865,11669,2024-06-24,Very Dissatisfied,1,2,3,Yes,6.0,Average
+2866,11102,2024-01-09,Very Satisfied,1,5,1,No,9.0,Average
+2867,10199,2024-06-15,Satisfied,3,3,3,No,7.0,Great!
+2868,11965,2024-02-13,Dissatisfied,3,1,5,Yes,5.0,Good
+2869,10460,2024-05-28,Neutral,4,2,4,No,8.0,
+2870,11821,2024-02-28,Neutral,3,1,5,Yes,0.0,Great!
+2871,11228,2024-02-15,Dissatisfied,5,3,1,No,3.0,Could be better
+2872,11184,2024-01-25,Very Dissatisfied,5,5,2,Yes,4.0,Great!
+2873,11994,2024-05-25,Neutral,4,3,4,Yes,5.0,Could be better
+2874,10910,2024-04-10,Satisfied,4,5,2,Yes,10.0,Good
+2875,10878,2024-04-19,Dissatisfied,3,4,4,No,0.0,Could be better
+2876,11835,2024-03-19,Neutral,2,2,2,Yes,7.0,Great!
+2877,11671,2024-03-06,Very Dissatisfied,2,5,3,No,1.0,Average
+2878,11839,2024-02-26,Neutral,5,5,1,Yes,9.0,Average
+2879,11034,2024-03-07,Very Satisfied,4,3,5,Yes,0.0,
+2880,10898,2024-05-19,Dissatisfied,1,4,5,No,0.0,Average
+2881,11593,2024-04-01,Satisfied,4,4,4,Yes,1.0,
+2882,11063,2024-01-06,Neutral,3,2,1,Yes,2.0,
+2883,10363,2024-04-15,Very Satisfied,1,4,2,Yes,1.0,Could be better
+2884,10522,2024-06-29,Neutral,3,4,1,No,4.0,
+2885,10306,2024-06-26,Neutral,3,3,1,No,,Good
+2886,11249,2024-03-26,Satisfied,4,5,4,No,1.0,Average
+2887,11499,2024-04-02,Dissatisfied,4,4,1,No,9.0,Could be better
+2888,10743,2024-01-03,Satisfied,3,1,4,No,5.0,Great!
+2889,10932,2024-03-28,Dissatisfied,1,2,1,No,8.0,Could be better
+2890,11986,2024-03-14,Very Satisfied,4,5,3,No,3.0,Good
+2891,10918,2024-01-09,Neutral,5,5,4,Yes,4.0,Good
+2892,11366,2024-04-22,Dissatisfied,3,3,1,No,9.0,Could be better
+2893,10345,2024-02-04,Satisfied,2,5,1,Yes,9.0,
+2894,11973,2024-03-18,Satisfied,3,3,1,No,7.0,Great!
+2895,10646,2024-05-17,Very Dissatisfied,1,3,3,Yes,5.0,Great!
+2896,11687,2024-01-03,Neutral,1,4,2,Yes,4.0,
+2897,11121,2024-05-27,Very Satisfied,4,3,4,No,0.0,Average
+2898,11606,2024-05-09,Very Satisfied,4,4,5,No,7.0,
+2899,11080,2024-05-03,Neutral,2,1,3,No,1.0,
+2900,10673,2024-06-06,Very Dissatisfied,5,4,3,No,5.0,
+2901,11623,2024-04-03,Very Dissatisfied,3,3,1,No,,Average
+2902,11025,2024-04-04,Neutral,5,5,4,Yes,8.0,Good
+2903,10092,2024-01-07,Very Dissatisfied,2,3,3,Yes,5.0,Average
+2904,10632,2024-05-06,Neutral,4,2,1,Yes,4.0,
+2905,11205,2024-05-05,Satisfied,3,3,4,No,5.0,Average
+2906,10141,2024-06-04,Satisfied,3,5,4,No,9.0,Great!
+2907,11344,2024-04-08,Very Satisfied,5,4,5,Yes,4.0,Great!
+2908,10868,2024-05-24,Neutral,4,4,3,No,4.0,Average
+2909,10476,2024-03-03,Dissatisfied,1,5,1,Yes,9.0,Average
+2910,10964,2024-04-14,Neutral,5,5,3,No,6.0,Good
+2911,11630,2024-01-20,Neutral,4,1,3,No,4.0,
+2912,11056,2024-05-15,Satisfied,5,5,5,No,,
+2913,10878,2024-04-06,Neutral,4,3,3,Yes,7.0,
+2914,11532,2024-01-08,Very Satisfied,2,4,4,Yes,4.0,Great!
+2915,10730,2024-06-03,Satisfied,5,1,1,No,6.0,Great!
+2916,10958,2024-06-20,Satisfied,4,5,1,No,0.0,Average
+2917,10537,2024-05-16,Very Dissatisfied,2,3,4,Yes,8.0,Great!
+2918,10851,2024-03-12,Dissatisfied,1,1,3,No,8.0,Average
+2919,11357,2024-04-08,Very Satisfied,3,3,4,No,5.0,
+2920,10057,2024-01-06,Very Satisfied,5,4,1,Yes,5.0,Could be better
+2921,11628,2024-03-04,Very Satisfied,5,4,2,No,2.0,
+2922,10481,2024-02-06,Dissatisfied,4,4,4,Yes,8.0,
+2923,11672,2024-04-09,Very Dissatisfied,2,5,3,Yes,6.0,Could be better
+2924,11834,2024-05-11,Very Satisfied,3,1,1,Yes,3.0,Average
+2925,10115,2024-03-11,Very Satisfied,2,1,3,No,0.0,Good
+2926,10509,2024-04-29,Neutral,5,3,4,No,4.0,Good
+2927,11000,2024-01-06,Dissatisfied,5,4,5,No,10.0,Could be better
+2928,10089,2024-03-21,Very Satisfied,2,2,5,Yes,4.0,Great!
+2929,11683,2024-04-02,Very Satisfied,1,2,4,No,,
+2930,11791,2024-04-27,Neutral,5,3,3,No,3.0,
+2931,11667,2024-06-23,Dissatisfied,2,2,2,No,2.0,Could be better
+2932,11911,2024-03-16,Very Satisfied,3,1,3,Yes,5.0,Average
+2933,11134,2024-01-15,Very Dissatisfied,5,2,4,Yes,6.0,Average
+2934,11755,2024-02-23,Neutral,4,4,5,Yes,4.0,
+2935,11535,2024-06-19,Very Dissatisfied,1,1,4,Yes,9.0,Average
+2936,11977,2024-03-19,Very Dissatisfied,3,3,1,No,6.0,
+2937,11001,2024-01-30,Very Dissatisfied,2,2,2,No,6.0,Could be better
+2938,10923,2024-05-20,Satisfied,4,4,1,No,0.0,Good
+2939,11900,2024-03-05,Very Dissatisfied,3,1,3,Yes,5.0,
+2940,10593,2024-03-17,Satisfied,3,5,2,Yes,5.0,
+2941,11740,2024-03-30,Very Dissatisfied,4,3,5,No,6.0,Average
+2942,10801,2024-04-17,Very Satisfied,4,4,1,No,4.0,Great!
+2943,10195,2024-03-27,Very Dissatisfied,3,3,4,No,6.0,Average
+2944,11483,2024-02-15,Very Satisfied,3,4,2,No,8.0,Could be better
+2945,10389,2024-06-17,Very Satisfied,3,1,5,Yes,5.0,Could be better
+2946,11049,2024-03-20,Very Satisfied,5,3,1,No,6.0,Could be better
+2947,11050,2024-01-20,Very Satisfied,2,3,1,Yes,6.0,
+2948,10746,2024-04-16,Very Satisfied,2,3,1,No,6.0,
+2949,11413,2024-06-15,Satisfied,4,4,5,Yes,0.0,Average
+2950,10827,2024-05-31,Satisfied,3,4,4,Yes,,Average
+2951,11330,2024-03-03,Dissatisfied,3,5,3,No,9.0,Great!
+2952,10292,2024-02-07,Very Dissatisfied,1,4,2,No,7.0,Good
+2953,11357,2024-02-16,Very Satisfied,3,2,5,Yes,6.0,Good
+2954,10653,2024-05-07,Very Satisfied,5,1,4,No,4.0,
+2955,11320,2024-01-11,Very Satisfied,5,3,1,No,2.0,
+2956,10690,2024-02-13,Dissatisfied,1,5,2,Yes,2.0,Average
+2957,10381,2024-03-07,Neutral,3,4,4,No,3.0,Good
+2958,10401,2024-01-20,Very Dissatisfied,1,1,3,Yes,2.0,Could be better
+2959,10446,2024-01-19,Dissatisfied,1,2,3,No,1.0,Great!
+2960,10334,2024-03-01,Satisfied,5,2,2,Yes,1.0,Could be better
+2961,10911,2024-04-24,Neutral,4,4,4,Yes,,Could be better
+2962,11257,2024-01-06,Satisfied,1,4,4,Yes,2.0,Could be better
+2963,11433,2024-01-01,Neutral,3,5,1,Yes,8.0,Average
+2964,10525,2024-06-20,Neutral,5,3,5,No,3.0,Good
+2965,11677,2024-01-12,Satisfied,4,4,1,No,0.0,
+2966,10352,2024-01-27,Very Dissatisfied,3,3,3,Yes,9.0,Great!
+2967,11730,2024-02-14,Satisfied,4,1,2,No,6.0,
+2968,10987,2024-03-16,Neutral,2,4,2,Yes,9.0,
+2969,10040,2024-06-08,Neutral,4,3,4,No,7.0,Could be better
+2970,10526,2024-05-08,Dissatisfied,2,3,1,No,2.0,Average
+2971,11914,2024-06-23,Very Satisfied,1,5,3,No,0.0,
+2972,11670,2024-04-22,Very Dissatisfied,2,5,1,Yes,10.0,Great!
+2973,11005,2024-03-26,Very Dissatisfied,5,2,1,Yes,1.0,
+2974,11294,2024-03-20,Neutral,4,3,2,Yes,10.0,Average
+2975,10702,2024-04-25,Dissatisfied,3,1,4,No,5.0,Could be better
+2976,11737,2024-03-04,Very Dissatisfied,2,5,5,Yes,3.0,
+2977,11931,2024-05-11,Very Dissatisfied,4,1,3,No,3.0,Good
+2978,10351,2024-02-25,Neutral,3,3,1,Yes,10.0,
+2979,11340,2024-05-09,Neutral,4,4,1,No,3.0,Great!
+2980,10120,2024-04-17,Satisfied,1,3,1,Yes,5.0,
+2981,11208,2024-01-23,Satisfied,1,1,2,Yes,6.0,Average
+2982,10806,2024-01-16,Neutral,4,2,2,No,1.0,Good
+2983,11797,2024-03-30,Very Satisfied,5,1,5,No,3.0,
+2984,11370,2024-02-13,Neutral,1,1,3,Yes,0.0,Great!
+2985,11441,2024-06-16,Very Dissatisfied,2,4,2,Yes,3.0,Good
+2986,10589,2024-06-17,Dissatisfied,2,5,5,Yes,5.0,
+2987,11459,2024-04-14,Very Dissatisfied,1,5,4,No,7.0,Average
+2988,10912,2024-04-29,Dissatisfied,3,4,1,Yes,5.0,
+2989,10143,2024-05-17,Dissatisfied,1,2,2,No,2.0,
+2990,10036,2024-01-20,Satisfied,4,5,3,No,7.0,
+2991,11065,2024-03-22,Neutral,3,3,3,Yes,4.0,Average
+2992,11951,2024-06-28,Very Dissatisfied,3,1,4,No,7.0,Average
+2993,10304,2024-01-17,Neutral,1,2,2,No,7.0,
+2994,10830,2024-03-07,Neutral,2,3,4,Yes,9.0,Average
+2995,10035,2024-01-25,Neutral,4,2,4,Yes,10.0,Average
+2996,10602,2024-05-07,Very Dissatisfied,4,2,3,Yes,9.0,Good
+2997,11859,2024-06-18,Very Dissatisfied,5,3,4,Yes,10.0,Great!
+2998,11266,2024-04-23,Satisfied,1,1,3,No,5.0,Average
+2999,11347,2024-02-18,Very Dissatisfied,5,1,4,No,3.0,
+3000,10517,2024-01-27,Very Satisfied,2,1,5,No,1.0,
