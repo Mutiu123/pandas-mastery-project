@@ -1,0 +1,2 @@
+2026-02-10 22:31:53 | INFO     | root                 | logging_config.py:111 | Logging system initialized -- console=INFO, file=DEBUG, errors=ERROR
+2026-02-10 22:31:53 | DEBUG    | root                 | logging_config.py:112 | Log directory: c:\Users\adegb\Desktop\python-logging-mastery\test_logs

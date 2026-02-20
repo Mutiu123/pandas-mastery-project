@@ -1,0 +1,26 @@
+{
+    "products": [
+        {"product_id": "PROD-101", "name": "Wireless Mouse", "category": "Electronics", "stock": 150},
+        {"product_id": "PROD-102", "name": "USB-C Hub", "category": "Electronics", "stock": 85},
+        {"product_id": "PROD-103", "name": "Notebook Pack (3)", "category": "Office Supplies", "stock": 300},
+        {"product_id": "PROD-104", "name": "Mechanical Keyboard", "category": "Electronics", "stock": 45},
+        {"product_id": "PROD-105", "name": "Desk Lamp", "category": "Office Supplies", "stock": 5},
+        {"product_id": "PROD-106", "name": "Phone Stand", "category": "Accessories", "stock": 200},
+        {"product_id": "PROD-107", "name": "Monitor Arm", "category": "Electronics", "stock": 30},
+        {"product_id": "PROD-108", "name": "Webcam HD", "category": "Electronics", "stock": 60},
+        {"product_id": "PROD-109", "name": "Headphone Stand", "category": "Accessories", "stock": 3},
+        {"product_id": "PROD-110", "name": "Standing Desk Mat", "category": "Office Supplies", "stock": 25},
+        {"product_id": "PROD-111", "name": "Cable Organizer", "category": "Accessories", "stock": 500},
+        {"product_id": "PROD-112", "name": "Sticky Notes (12pk)", "category": "Office Supplies", "stock": 1000},
+        {"product_id": "PROD-113", "name": "Ergonomic Chair Pad", "category": "Office Supplies", "stock": 15},
+        {"product_id": "PROD-114", "name": "Bluetooth Speaker", "category": "Electronics", "stock": 40},
+        {"product_id": "PROD-115", "name": "Desk Organizer", "category": "Office Supplies", "stock": 75},
+        {"product_id": "PROD-116", "name": "4K Monitor", "category": "Electronics", "stock": 12},
+        {"product_id": "PROD-117", "name": "Wireless Charger", "category": "Electronics", "stock": 90},
+        {"product_id": "PROD-118", "name": "Mouse Pad XL", "category": "Accessories", "stock": 250},
+        {"product_id": "PROD-119", "name": "USB Flash Drive 64GB", "category": "Electronics", "stock": 180},
+        {"product_id": "PROD-120", "name": "Laptop Sleeve 15in", "category": "Accessories", "stock": 55},
+        {"product_id": "PROD-121", "name": "Pen Refills (50pk)", "category": "Office Supplies", "stock": 2},
+        {"product_id": "PROD-122", "name": "Noise Cancelling Headphones", "category": "Electronics", "stock": 20}
+    ]
+}
